@@ -42,6 +42,10 @@ Actions of the Steering Committee may be taken at in-person meetings, via confer
 * All communication on the private mailing list will be under Chatam House Rules
 * All communication on the public mailing list will be public
 
-## Charter Amendment
+## Antitrust Guidelines
+All members shall abide by The Linux Foundation Antitrust Policy available at: http://www.linuxfoundation.org/antitrust-policy
 
+All members shall encourage open participation from any organization able to meet the membership requirements, regardless of competitive interests. Put another way, the TODOGroup shall not seek to exclude members based on any criteria, requirements or reasons other than those used for all members.
+
+## Charter Amendment
 This Charter may be amended, and additional rules may be adopted, at any time by a two-thirds majority of all then serving Steering Committee members.
