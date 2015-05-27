@@ -1,23 +1,17 @@
 # TODO Group Charter v1.0 [DRAFT]
 
 ## Mission statement
-TODO is an open group of companies who want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs.
-
-## Scope
-The TODO Group's scope is limited to organizations such as software companies or univerisities.
-
-## Criteria for success
-We have delivered both the appropriate tools and knowledge to facilitate an organization committing to Open Source software such that their engineers are capable of producing and sharing their own open source software confidently in a manner with which their organizational leadership approves
+TODO is an open group of organizations who want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs.
 
 ## Membership
 The TODO Group shall be composed of the Steering Committee and Community Members.
 
-Community Members and End User Participants shall be entitled to:
+Community Members shall be entitled to:
 * Participate in TODO Group meetings, initiatives, events and any other activities.
 * Identify their company as a member or participant in the TODO Group.
 
 The Steering Committee shall be entitled to:
-* Elect a Chair of the TODO Group to preside over meetings and lead the day-to-day operations.
+* Elect a Chair of the TODO Group to preside over meetings and lead operations.
 * Approve a budget directing the use of funds raised from all sources of revenue.
 * Vote on decisions or matters before the TODO Group
 
@@ -27,9 +21,9 @@ Do we want memberships fees?
 
 ## Voting
 
-While it is the goal to operate as a consensus based community, if any decision requires a vote to move forward, A simple majority of the Steering Committee shall constitute a quorum.
+While it is the goal to operate as a consensus based community, if any decision requires a vote to move forward, A simple majority of good standing members of the Steering Committee shall constitute a quorum.
 
-## Operation Principles
+## Operating Principles
 
 ### Meeting mechanisms and expected frequency
 * Meetings will take place via VOIP or face to face. Face to face meeting may not all take place in the same location.
