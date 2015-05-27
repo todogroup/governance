@@ -11,9 +11,12 @@ Community Members shall be entitled to:
 * Identify their company as a member or participant in the TODO Group.
 
 The Steering Committee shall be entitled to:
+* Vote on decisions or matters before the TODO Group
 * Elect a Chair of the TODO Group to preside over meetings and lead operations.
 * Approve a budget directing the use of funds raised from all sources of revenue.
-* Vote on decisions or matters before the TODO Group
+
+## Officers
+The Steering Committee shall elect a Chairperson, and if so desired, may elect such other officers as it may choose. All officers shall be elected annually, and may be reelected one or more times.
 
 ## Budget
 
@@ -21,7 +24,7 @@ Do we want memberships fees?
 
 ## Voting
 
-While it is the goal to operate as a consensus based community, if any decision requires a vote to move forward, A simple majority of good standing members of the Steering Committee shall constitute a quorum.
+Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or IRC. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person, by electronic means and/or by conference call, when a quorum is so present.
 
 ## Operating Principles
 
