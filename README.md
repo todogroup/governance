@@ -1,7 +1,7 @@
 # TODO Group Charter v1.0 [DRAFT]
 
 ## Mission statement
-TODO is an open group of organizations who want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs.
+To build and share best practices, tools, and other ways to run successful and effective open source programs and projects.
 
 ## Membership
 The TODO Group shall be composed of the Steering Committee and Community Members.
