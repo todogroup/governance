@@ -4,30 +4,35 @@
 To build and share best practices, tools, and other ways to run successful and effective open source programs and projects.
 
 ## Membership
-The TODO Group shall be composed of the Steering Committee and Community Members.
+The TODO Group shall be composed of a Steering Committee and Community Members.
 
-Community Members shall be entitled to:
-* Participate in TODO Group meetings, initiatives, events and any other activities.
-* Identify their company as a member or participant in the TODO Group.
+There will be at most nine Steering Committee members which are comprised of elected Community Members.
 
 The Steering Committee shall be entitled to:
 * Vote on decisions or matters before the TODO Group
-* Elect a Chair of the TODO Group to preside over meetings and lead operations.
 * Approve a budget directing the use of funds raised from all sources of revenue.
+* Elect a Chair of the TODO Group to preside over meetings and lead operations.
 
-## Officers
-The Steering Committee shall elect a Chairperson, and if so desired, may elect such other officers as it may choose. All officers shall be elected annually, and may be reelected one or more times.
+Community Members shall be entitled to:
+* Participate in TODO Group meetings, initiatives, events and any other activities.
+* Identify their company as a participant in the TODO Group.
 
-## Budget
-Do we want memberships fees? What would the money go towards? 
+All Community Members in good standing are defined as members that have a current Linux Foundation Individual or Corporate Membership.
+
+## Community Participation
+Developers and representatives of other types of stakeholders may be appointed by a vote of the Steering Committee or for the initial year only, The Linux Foundation. Community Participants do not vote, but are able to participate in all Workgroup activities. Appointments shall last indefinitely, unless revoked by the Steering Committee or The Linux Foundation.
 
 ## Voting
 Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or IRC. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person, by electronic means and/or by conference call, when a quorum is so present.
 
+## Elections
+
+The Steering Committee shall elect a Chairperson, and if so desired, may elect such other officers as it may choose. All officers shall be elected annually, and may be reelected one or more times.
+
 ## Deliverables
 The TODO Group commits to producing the following deliverables within the next two years
 * Well documented software to facilitate the management of outgoing open source software within an organization
-* Blog and wiki articles providing recommendations on how to manage outgoing open source software within an organization
+* Articles providing recommendations on how to manage outgoing open source software within an organization
 
 ## Operating Principles
 
