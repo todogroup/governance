@@ -1,8 +1,9 @@
 **Mission statement**
 
-For open source program office managers, TODO Group is a peer group network that builds and shares best practices, tools, and other guidance you can only build from practical experience for companies looking to successfully engage in or create open source projects and build effective internal open source programs.
+Identify key policy and process choices related to corporate open source engagement and create tools and educational materials that promote best practices around such engagements.
 
 **Membership**
+The TODO Group membership is composed of individuals deeply involved in running open source programs setup to drive open source in their company. These individuals have learned from practical experience what it takes to successfully engage in or create open source projects and build effective internal open source programs.
 
 The TODO Group shall be composed of the Community Members and a Steering Committee.
 
@@ -38,9 +39,9 @@ Actions of the Steering Committee may be taken at in-person meetings, via confer
 
 The TODO Group will host Working Groups for members to contribute to that are intended to accelerate its mission. Initial Working Groups are expected to cover:
 
-Well documented software to facilitate the management of outgoing open source software within an organization
+Well documented software to facilitate the management of open source software engagement by an organization
 
-Blog and wiki articles providing recommendations on how to manage outgoing open source software within an organization
+Blog and wiki articles providing recommendations on how to manage open source engagement by an organization
 
 **Operating Principles**
 
