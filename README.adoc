@@ -12,7 +12,7 @@ The TODO Group shall be composed of the General Members and a Steering Committee
  ... electing a Chair to preside over Steering Committee meetings, authorize expenditures approved by the budget and manage any day-to-day operations;
  ... overseeing all business and marketing matters;
  ... approving, modifying or eliminating Working Groups;
- ... adopt and maintain policies or rules and procedures for TODO (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any other policies;
+ ... adopting and maintaining policies or rules and procedures for TODO (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any other policies;
  ... approving procedures for the nomination and election of (1) Steering Committee representatives, and (2) any officer or other positions created by the Steering Committee.
  ... voting on all decisions or matters coming before the Steering Committee.
  .. Composition:
