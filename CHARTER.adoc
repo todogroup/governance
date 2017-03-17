@@ -1,24 +1,26 @@
- . *Mission of the TODO Group (“TODO”).*
- The TODO Group’s mission is to support corporate open source program offices by identifing policies and processes, sharing tools and educational materials, and promoting best practices around such engagements for existing and new open source program offices.
- . *Membership*
-The TODO Group membership is composed of individuals deeply involved in running open source programs setup to drive open source in their company. These individuals have learned from practical experience what it takes to successfully engage in or create open source projects and build effective internal open source programs.  +
-The TODO Group shall be composed of the General Members and a Steering Committee. General Members shall be entitled to:
+ . *Mission of the TODO Group (“TODO”):*
+The TODO Group’s mission is to support corporate open source program offices by identifying policies and processes, sharing tools and educational materials, and promoting best practices around such engagements for existing and new open source program offices.
+ . *Relationship to the Linux Foundation (“LF”):*
+TODO Group is a member project of the Linux Foundation.
+ . *Membership:*
+The TODO Group membership ("General Member") is composed of individuals involved in running corporate open source programs. Members often represent their company’s open source program, however TODO may include members at-large whose experience supports the TODO mission. 
+General Members shall be entitled to:
  .. Participate in TODO Group Working Groups, meetings, initiatives, events and any other activities;
  .. identify their company as a member or participant in the TODO Group; and
  .. nominate one individual for election to the Steering Committee.
- . *Steering Committee*
- .. Responsibility: The Steering Committee shall be responsible for:
- ...  managing the day-to-day operations;
- ... electing a Chair to preside over Steering Committee meetings, authorize expenditures approved by the budget and manage any day-to-day operations;
+. *Steering Committee:*
+.. The Steering Committee shall be composed of five (5) General Members, selected for their expertise, contribution to the advancement of open source program management.
+ .. The Steering Committee shall be responsible for:
+ ... managing TODO Group operations;
+ ... electing a Chair to preside over Steering Committee meetings;
+ ... authorizing expenditures approved by the budget;
  ... overseeing all business and marketing matters;
- ... approving, modifying or eliminating Working Groups;
- ... adopt and maintain policies or rules and procedures for TODO (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any other policies;
+ ... approving, modifying, or eliminating Working Groups;
+ ... adopting and maintainaining policies, rules, and procedures for TODO (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy, and any other policies;
  ... approving procedures for the nomination and election of (1) Steering Committee representatives, and (2) any officer or other positions created by the Steering Committee.
  ... voting on all decisions or matters coming before the Steering Committee.
- .. Composition:
- ... In order to be manageable, the Steering Committee will be composed of five (5) General Members. The Steering Committee shall be elected for their expertise, contribution to the advancement of open source program management.
- ... The elections of Steering Committee members shall be run using the Condorcet-IRV method through the Cornell online service (+++<u>+++http://civs.cs.cornell.edu/+++</u>+++). The Steering Committee may change the methodology or service used in future elections via a two-thirds approval vote of the then-serving Steering Committee.
- .. Any issues that cannot be resolved by the Steering Committee shall be referred to The Linux Foundation for resolution.
+ .. Steering Committee members shall be elected by the General Members using the Condorcet-IRV method through the Cornell online service (+++<u>+++http://civs.cs.cornell.edu/+++</u>+++). The Steering Committee may change the methodology or service used in future elections via a two-thirds approval vote of the then-serving Steering Committee.
+ .. Issues that arise in the TODO Group shall be raised to and resolved by the Steering Committee. Issues that cannot be resolved by the Steering Committee shall be referred to The Linux Foundation for resolution.
  . *Officers*
 The Steering Committee shall elect a Chairperson, and if so desired, may elect such other officers as it may choose. All officers shall be elected annually. There are no limits on the number of terms an officer may serve.
  . *Voting*
