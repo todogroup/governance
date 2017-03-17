@@ -19,20 +19,19 @@ General Members shall be entitled to:
  ... adopting and maintainaining policies, rules, and procedures for TODO (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy, and any other policies;
  ... approving procedures for the nomination and election of (1) Steering Committee representatives, and (2) any officer or other positions created by the Steering Committee;
  ... voting on all decisions or matters coming before the Steering Committee.
- .. Steering Committee members shall be elected by the General Members using the Condorcet-IRV method through the Cornell online service (+++<u>+++http://civs.cs.cornell.edu/+++</u>+++). The Steering Committee may change the methodology or service used in future elections via a two-thirds approval vote of the then-serving Steering Committee.
+ .. Steering Committee members shall be elected by the General Members using the Condorcet-IRV method through the Cornell online service (+++<u>+++http://civs.cs.cornell.edu/+++</u>+++). The Steering Committee may change the methodology or service used in future elections via a three-fifths approval vote of the then-serving Steering Committee.
+ .. Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or IRC. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person and/or by conference call, when a quorum is so present. Quorum shall be met when three-fifths of the Steering Committee members are present. Any vote may be taken without a meeting electronically but shall require a majority of the entire Steering Committee to pass.
  .. Issues that arise in the TODO Group shall be raised to and resolved by the Steering Committee. Issues that cannot be resolved by the Steering Committee shall be referred to The Linux Foundation for resolution.
  . *Officers:*
-The Steering Committee shall elect a Chairperson, and may elect such other officers as it may choose. All officers shall be elected annually. There are no limits on the number of terms an officer may serve.
- . *Voting:*
-Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or IRC. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person and/or by conference call, when a quorum is so present. Quorum shall be met when three-fifths of the Steering Committee members are present. Any vote may be taken without a meeting electronically but shall require a majority of the entire Steering Committee to pass.
+The Steering Committee shall elect a Chairperson, and may elect other Officers as it may choose. All Officers shall be elected annually. There are no limits on the number of terms an Officer may serve.
  . *Working Groups:*
 The TODO Group will appoint Working Groups for members to contribute to that are intended to accelerate its mission. Initial Working Groups are expected to cover topics including, but not limited to:
  * Well documented software to facilitate the management of open source software engagement by an organization
  * Blog and wiki articles providing recommendations on how to manage open source engagement by an organization
- . *Operating Principles*
+ . *Operating Principles:*
  .. TODO member meeting mechanisms and expected frequency
  ... Member meetings may take place via electronic means or face-to-face. Face-to-face meeting locations and times will be set by the Steering Committee.
- ... Meetings will occur at least once per quarter.
+ ... Meetings will occur approximately once per quarter.
  ... Details of meeting mechanisms and instructions for attendance will be published reasonably in advance to all members in good standing.
  .. Communication mechanisms
  ... All public communication not during meetings will take place over the public group mailing list(s) accessible to members and non-members alike.
