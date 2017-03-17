@@ -1,5 +1,5 @@
  . *Mission of the TODO Group (“TODO”).*
- The TODO Group’s mission is to identify key policy and process choices related to corporate open source engagement and create tools and educational materials that promote best practices around such engagements.
+ The TODO Group’s mission is to support corporate open source program offices by identifing policies and processes, sharing tools and educational materials, and promoting best practices around such engagements for existing and new open source program offices.
  . *Membership*
 The TODO Group membership is composed of individuals deeply involved in running open source programs setup to drive open source in their company. These individuals have learned from practical experience what it takes to successfully engage in or create open source projects and build effective internal open source programs.  +
 The TODO Group shall be composed of the General Members and a Steering Committee. General Members shall be entitled to:
