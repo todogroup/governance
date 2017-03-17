@@ -59,4 +59,4 @@ The TODO Group shall be conducted so as to:
  .. Any TODO member may raise an objection or concern regarding any contribution made under an alternative license to the Steering Committee for resolution.
 
  . *Amendments and Notice*
- .. This Charter may be amended, and additional rules may be adopted, at any time by a two-thirds majority of all then serving Steering Committee members with final approval from The Linux Foundation.
+ .. This Charter may be amended, and additional rules may be adopted, at any time by a three-fifths majority of all then serving Steering Committee members with final approval from The Linux Foundation.
