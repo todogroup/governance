@@ -40,7 +40,7 @@ The TODO Group will host Working Groups for members to contribute to that are in
  ... All communication on the private mailing list will be restricted to members only and not permitted for public distribution.
  ... All communication on the public mailing list will be public.
  . *Antitrust Guidelines*
- .. All members shall abide by The Linux Foundation Antitrust Policy available at:+++<u>+++ http://www.linuxfoundation.org/antitrust-policy+++</u>++++++<u>+++.+++</u>+++
+ .. All members shall abide by The Linux Foundation Antitrust Policy available at:+++<u>+++ https://www.linuxfoundation.org/antitrust-policy/+++</u>++++++<u>+++.+++</u>+++
  .. All members shall encourage open participation from any organization able to meet the membership requirements, regardless of competitive interests. Put another way, the TODO Group shall not seek to exclude members based on any criteria, requirements or reasons other than those used for all members.
  . *General Rules and Operations*.
 The TODO Group shall be conducted so as to:
