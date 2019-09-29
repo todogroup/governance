@@ -8,21 +8,29 @@ The TODO Group shall be composed of the General Members and a Steering Committee
  .. nominate one individual for election to the Steering Committee.
  . *Steering Committee*
  .. Responsibility: The Steering Committee shall be responsible for:
- ...  managing the day-to-day operations;
- ... electing a Chair to preside over Steering Committee meetings, authorize expenditures approved by the budget and manage any day-to-day operations;
+ ... coordinating with the group's Program Manager to manage day-to-day operations of the group;
  ... overseeing all business and marketing matters;
  ... approving, modifying or eliminating Working Groups;
- ... adopt and maintain policies or rules and procedures for TODO (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any other policies;
- ... approving procedures for the nomination and election of (1) Steering Committee representatives, and (2) any officer or other positions created by the Steering Committee.
+ ... adopting and maintaining policies, rules, and/or procedures for the group (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any other policies;
+ ... approving procedures for the nomination, election, and appointment of Steering Committee members;
+ ... approving procedures for the nomination and election of any officer or other positions created by the Steering Committee;
  ... voting on all decisions or matters coming before the Steering Committee.
  .. Composition:
- ... In order to be manageable, the Steering Committee will be composed of five (5) General Members. The Steering Committee shall be elected for their expertise, contribution to the advancement of open source program management.
- ... The elections of Steering Committee members shall be run using the Condorcet-IRV method through the Cornell online service (+++<u>+++http://civs.cs.cornell.edu/+++</u>+++). The Steering Committee may change the methodology or service used in future elections via a two-thirds approval vote of the then-serving Steering Committee.
- .. Any issues that cannot be resolved by the Steering Committee shall be referred to The Linux Foundation for resolution.
+ ... Steering Committee members shall be nominated or appointed for their expertise, contribution to the advancement of open source program management, and diversity of backgrounds and opinions.
+ ... The Steering Committee shall be composed of seven (7) General Members, with five (5) elected and two (2) appointed.
+ ... Committee member terms shall begin on January 1st of the year following election or appointment, and terminate on December 31st of the second year following election or appointment.
+ ... In each calendar year, the group shall hold an election to fill elected positions which will be vacated at the end of that year. The election process shall include nominations and voting during the month of September.
+ ... In each calendar year, the committee shall appoint one (1) member to fill the appointed position which will be vacated at the end of that year. The appointment shall be made during the month of October, by the current members of the commitee at that time.
+ ... In even-numbered years, two (2) elected positions and one (1) appointed position shall be filled by the election and appointment processes.
+ ... In odd-numbered years, three (3) elected positions and one (1) appointed position shall be filled by the election and appointment processes.
+ ... If any committee member should resign or otherwise be unable to complete their term for any reason, with more than six (6) months remaining in their term, the remaining committee members shall appoint a replacement member. For election or appointment purposes, that member's term will end when the outgoing member's term would have ended.
+ ... If any committee member should resign or otherwise be unable to complete their term for any reason, with six (6) months or fewer remaining in their term, their position will be left unfilled until the regularly scheduled election or appointment process for that position.
+ ... Elections shall be run using the Condorcet-IRV method through the Cornell online service (+++<u>+++http://civs.cs.cornell.edu/+++</u>+++). The methodology or service used in future elections may be changed via a five (5) member approval vote of current members of the committee at that time.
+ .. Any issues that the Steering Committee is unable to resolve shall be referred to The Linux Foundation for resolution.
  . *Officers*
 The Steering Committee shall elect a Chairperson, and if so desired, may elect such other officers as it may choose. All officers shall be elected annually. There are no limits on the number of terms an officer may serve.
  . *Voting*
-Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or IRC. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person and/or by conference call, when a quorum is so present. Quorum shall be met when two-thirds of the Steering Committee members are present. Any vote may be taken without a meeting electronically but shall require a majority of the entire Steering Committee to pass.
+Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or IRC. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person and/or by conference call, when a quorum is so present. Quorum shall be met when at least five (5) members of the Steering Committee are present. Any vote may be taken without a meeting electronically but shall require a majority of the entire Steering Committee to pass.
  . *Working Groups*
 The TODO Group will host Working Groups for members to contribute to that are intended to accelerate its mission. Initial Working Groups are expected to cover topics including, but not limited to:
  * Well documented software to facilitate the management of open source software engagement by an organization
