@@ -14,8 +14,8 @@ If you need it in PDF form, you can download it [here](https://github.com/todogr
 
 The Steering Committee shall be elected for their expertise, contribution to the advancement of open source program management. They are responsible for overall operations and budgetary issues:
 
-* Brandon Keepers (@bkeepers)
 * Chris Aniszczyk (@caniszczyk)
-* Gil Yehuda (@gyehuda)
+* Duane O'Brien (@duaneobrien)
 * Jeff McAffer (@jeffmcaffer)
-* Nithya Ruff (@nruff)
+* Kevin P. Fleming (@kpfleming)
+* Remy DeCausemaker (@decause)
