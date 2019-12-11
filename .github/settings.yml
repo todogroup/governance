@@ -1,0 +1,28 @@
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: governance
+
+  # A short description of the repository that will show up on GitHub
+  description: TODO Group Governance
+
+  # A URL with more information about the repository
+  homepage: https://todogroup.org
+  
+  # Collaborators: give specific users access to this repository.
+
+collaborators:
+  # Steering Committee
+  - username: caniszczyk
+    permission: admin
+
+  - username: kpfleming
+    permission: admin
+
+  - username: jeffmcaffer
+    permission: admin
+
+  - username: DuaneOBrien
+    permission: admin
+    
