@@ -14,10 +14,10 @@ If you need it in PDF form, you can download it [here](https://github.com/todogr
 
 The Steering Committee shall be elected for their expertise, contribution to the advancement of open source program management. They are responsible for overall operations and budgetary issues:
 
-* Chris Aniszczyk (@caniszczyk) -  12/31/2021
-* Duane O'Brien (@duaneobrien) - 12/31/2021
-* Jeff McAffer (@jeffmcaffer) - 12/31/2020
-* Kevin P. Fleming (@kpfleming) 12/31/2021
-* Remy DeCausemaker (@decause) 12/31/2020
-* VM Brasseur (@vmbrasseur) - Appointed 12/31/2020
-* Zaheda Bhorat - Appointed 12/31/2021  
+* Chris Aniszczyk (@caniszczyk) - (8/15/2019 -  12/31/2021)
+* Duane O'Brien (@duaneobrien) - (8/15/2019 - 12/31/2021)
+* Jeff McAffer (@jeffmcaffer) - (8/15/2019 - 12/31/2020)
+* Kevin P. Fleming (@kpfleming) (8/15/2019 - 12/31/2021)
+* Remy DeCausemaker (@decause) (8/15/2019 - 12/31/2020)
+* VM Brasseur (@vmbrasseur) - Appointed, (1/1/2020 - 12/31/2020)
+* Zaheda Bhorat - Appointed, (1/1/2020 - 12/31/2021)
