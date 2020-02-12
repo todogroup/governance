@@ -11,16 +11,18 @@ was reviewed and adopted by the committee:
 
 Resolved:
 
-WHEREAS, the charter of the TODO Group, dated 2019-MM-YY, empowers the Steering Committee to {category of action};
+WHEREAS, the charter of the TODO Group, dated 2019-MM-DD, empowers the Steering Committee to {category of action};
 
-That the committee {accepts/authorizes/approves the proposed action}.
+That the committee {approves/declines the proposed action}.
 
 ## Vote Results
 
-* Chris Aniszczyk - {approve/decline/abstain}
-* Zaheda Bhorat - {approve/decline/abstain}
-* VM Brasseur - {approve/decline/abstain}
-* Remy Decausemaker - {approve/decline/abstain}
-* Kevin P. Fleming - {approve/decline/abstain}
-* Jeff McAffer - {approve/decline/abstain}
-* Duane O'Brien - {approve/decline/abstain}
+* Chris Aniszczyk - {approve/decline/abstain/absent}
+* Zaheda Bhorat - {approve/decline/abstain/absent}
+* VM Brasseur - {approve/decline/abstain/absent}
+* Remy Decausemaker - {approve/decline/abstain/absent}
+* Kevin P. Fleming - {approve/decline/abstain/absent}
+* Jeff McAffer - {approve/decline/abstain/absent}
+* Duane O'Brien - {approve/decline/abstain/absent}
+
+## Rationale

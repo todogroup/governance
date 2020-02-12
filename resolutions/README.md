@@ -16,15 +16,15 @@ When your proposal is ready, send a Pull Request to the governance repository. T
 the Steering Committee members of your proposal, and it will be added to the agenda for the
 next meeting when the Pull Request is merged.
 
-## Accepting a resolution
+## Approving a resolution
 
-If the Steering Committee votes to adopt a resolution, then:
+If the Steering Committee votes to approve a resolution, then:
 
-* The resolution document will be moved from the `proposed` directory to the `accepted`
+* The resolution document will be moved from the `proposed` directory to the `approved`
 directory.
 
 * The resolution document will be updated to reflect the date of the meeting where it was
-accepted, the voting results, and the status will be changed from 'Proposed' to 'Accepted'.
+approved, the voting results, and the status will be changed from 'Proposed' to 'Approved'.
 
 ## Declining a resolution
 
