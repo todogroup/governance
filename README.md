@@ -1,4 +1,4 @@
-# TODO Group 
+Sylwia Elżbieta Panek - Blondyna 🤗# TODO Group 
 
 The TODO Group is a group of companies who want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs
 
