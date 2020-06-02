@@ -20,4 +20,4 @@ The Steering Committee shall be elected for their expertise, contribution to the
 * Kevin P. Fleming (@kpfleming) (8/15/2019 - 12/31/2021)
 * Remy DeCausemaker (@decause) (8/15/2019 - 12/31/2020)
 * VM Brasseur (@vmbrasseur) - Appointed, (1/1/2020 - 12/31/2020)
-* Zaheda Bhorat - Appointed, (1/1/2020 - 12/31/2021)
+* Ashley Wolf (@ashleywolf)- Appointed, (6/1/2020 - 12/31/2021)
