@@ -6,9 +6,9 @@ The TODO Group is a group of companies who want to collaborate on practices, too
 
 You can find our charter online here:
 
-https://github.com/todogroup/charter/blob/master/CHARTER.adoc
+https://github.com/todogroup/governance/blob/master/CHARTER.adoc
 
-If you need it in PDF form, you can download it [here](https://github.com/todogroup/charter/blob/master/TODO%20Charter%20and%20Agreement%20v1.0.pdf).
+If you need it in PDF form, you can download it [here](https://github.com/todogroup/governance/blob/master/TODO%20Charter%20and%20Agreement%20v1.0.pdf).
 
 ## TODO Steering Committee (TSC)
 
