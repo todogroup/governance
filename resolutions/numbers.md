@@ -5,6 +5,7 @@
 
 ## Proposed
 
+- [2020-05](proposed/2020-05.md) - Suggested changes for Steering Committee member selection
 - [2020-02](proposed/2020-02.md) - Formation of Outreach Working Group
 
 ## Approved
