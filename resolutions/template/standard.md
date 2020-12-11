@@ -4,8 +4,7 @@
 
 ## Subject: {subject goes here}
 
-At the meeting of the Steering Committee of the TODO Group on YYYY-MM-DD, the following resolution
-was reviewed and adopted by the committee:
+On YYYY-MM-DD, the Steering Committee of the TODO Group reviewed and adopted the following resolution:
 
 {text of proposal}
 
