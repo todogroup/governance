@@ -8,4 +8,4 @@
 
 [2020-04](approved/2020-04.md) - Adopt Contributor Covenant as the Code of Conduct across all TODO Group Repositories
 
-[2020-05](proposed/2020-05.md) - Suggested changes for Steering Committee member selection
+[2020-05](approved/2020-05.md) - Suggested changes for Steering Committee member selection
