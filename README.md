@@ -16,8 +16,9 @@ The Steering Committee shall be elected for their expertise, contribution to the
 
 * Chris Aniszczyk (@caniszczyk) - (8/15/2019 -  12/31/2021)
 * Duane O'Brien (@duaneobrien) - (8/15/2019 - 12/31/2021)
-* Jeff McAffer (@jeffmcaffer) - (8/15/2019 - 12/31/2020)
+* Stormy Peters (@stormypeters - (1/1/2021 - 12/31/2022)
 * Kevin P. Fleming (@kpfleming) (8/15/2019 - 12/31/2021)
-* Remy DeCausemaker (@decause) (8/15/2019 - 12/31/2020)
-* VM Brasseur (@vmbrasseur) - Appointed, (1/1/2020 - 12/31/2020)
+* Dawn Foster (@geekygirldawn) (1/1/2021- 12/31/2022)
+* TBD - Appointed, (1/1/2021 - 12/31/2022)
 * Ashley Wolf (@ashleywolf)- Appointed, (6/1/2020 - 12/31/2021)
+
