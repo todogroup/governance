@@ -2,5 +2,8 @@
 
 * Brandon Keepers (@bkeepers)
 * Gil Yehuda (@gyehuda)
+* Jeff McAffer (@jeffmcaffer)
 * Nithya Ruff (@nruff)
-* Zaheda Borat
+* Remy DeCausemaker (@decause) 
+* VM Brasseur (@vmbrasseur) 
+* Zaheda Borat (@zahedab)
