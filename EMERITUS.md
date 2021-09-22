@@ -6,4 +6,4 @@
 * Nithya Ruff (@nruff)
 * Remy DeCausemaker (@decause) 
 * VM Brasseur (@vmbrasseur) 
-* Zaheda Borat
+* Zaheda Borat (@zahedab)
