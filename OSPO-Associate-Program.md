@@ -21,4 +21,17 @@ Benefits include:
 * Thanked at TODO conferences and initiatives
 * TODO support to co-create content
 
+## How can I Apply?
+
+Requests will be done through [OSPO Landscape project](https://github.com/todogroup/ospolandscape). If you think your project meet the criteria to be an OSPO Associate, please open a pull request to add it to [landscape.yml](https://github.com/todogroup/ospolandscape/blob/master/landscape.yml) under OSPO Adopter category and OSPO Associate subcategory. For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+
+Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add LGTM to the pull request confirming your review and requesting a merge.
+
+## Where can I find more info?
+
+There are a lot of initiatives & resources where an OSPO Associate can get involved that are listed in the TODO ORG README file: https://github.com/todogroup
+
+If you would like to know where your spcecific project initiatives can fit best in the TODO programs or would like to know more details, please contact ana@todogroup.org and she will schedule a Sync call to answer any questions.
+
+
 > Note: OSPO Associate Program is different from TODO Group Membership and not entitled to member benefits.
