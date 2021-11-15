@@ -1,13 +1,13 @@
 # TODO Strategic Goals
 
-As a result of the discussion from September's Steering Committee meeting, a set of strategic goals for 2021 H2 were defined and commented in the following deck:
+As a result of the discussion from September's Steering Committee meeting, a set of strategic goals for 2021 were defined and commented in the following deck:
 
 * TBD: Strategic goals deck 2022
 * [Strategic Goals 2021](https://docs.google.com/presentation/d/1IWFi7SMFBpjRq6xkaAu0dnsrDJ4KKCuTVj0HGA_uUyg/edit?usp=sharing)
 
 Based on this, we would like to bring the goals to the TODO Group for review and sign-off by the Steering Committee in order to let the TODO Group shape the program and execute.
 
-The goals will be revisited and updated for each half first and the second year.
+The goals will be revisited and updated yearly.
 
 ## 2022
 
