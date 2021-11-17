@@ -14,7 +14,7 @@ The TODO Group shall be composed of the General Members and a Steering Committee
  . *Steering Committee*
  .. Responsibility: The Steering Committee shall be responsible for:
  ... coordinating with the group's Program Manager to manage day-to-day operations of the group;
- ... overseeing all business and marketing matters;
+ ... overseeing all business and marketing matters, including approving new programs and initiatives that make use of the TODO Group name, logo, or branding, and approving use of the TODO Group name, logo, or branding for sponsorship or endorsement purposes;
  ... approving, modifying or eliminating Working Groups;
  ... adopting and maintaining policies, rules, and/or procedures for the group (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any other policies;
  ... approving procedures for the nomination, election, and appointment of Steering Committee members;
