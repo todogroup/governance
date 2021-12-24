@@ -1,4 +1,4 @@
-# TODO Group 
+# TODO Group
 
 The TODO Group is a group of companies who collaborate on practices, tools, and other ways to run successful and effective open source projects and programs.
 
@@ -8,12 +8,14 @@ Our mission is to identify key policy and process choices related to corporate o
 
 ## TODO Steering Committee (TSC)
 
-The Steering Committee shall be elected for their expertise and contribution to the advancement of open source program management. They are responsible for overall operations and budgetary issues:
+The Steering Committee shall be elected for their expertise and contribution to the advancement of open source program management. They are responsible for overall operations and budgetary issues.
 
-* Chris Aniszczyk (@caniszczyk) - (8/15/2019 -  12/31/2021)
-* Duane O'Brien (@duaneobrien) - (8/15/2019 - 12/31/2021)
-* Stormy Peters (@stormypeters - (1/1/2021 - 12/31/2022)
-* Kevin P. Fleming (@kpfleming) (8/15/2019 - 12/31/2021)
-* Dawn Foster (@geekygirldawn) (1/1/2021- 12/31/2022)
-* Stephen Jacobs (@itprofjacobs) - Appointed, (1/1/2021 - 12/31/2022)
-* Ashley Wolf (@ashleywolf)- Appointed, (6/1/2020 - 12/31/2021)
+| Name | Company | Elected/Appointed | Term |
+| --- | --- | --- | --- |
+| [Dawn Foster](https://github.com/geekygirldawn) | VMware | Elected | 2021-01-01 to 2022-12-31 |
+| [Stephen Jacobs](https://github.com/itprofjacobs) | RIT | Appointed | 2021-01-01 to 2022-12-31 |
+| [Stephen Augustus](https://github.com/justaugustus) | Cisco | Appointed | 2022-01-01 to 2022-12-31 |
+| [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2022-01-01 to 2023-12-31 |
+| [Shilla Saebi](https://github.com/shillasaebi) | Comcast | Appointed | 2022-01-01 to 2023-12-31 |
+| [Thomas Steenbergen](https://github.com/tsteenbe) | HERE Technologies | Elected | 2022-01-01 to 2023-12-31 |
+| [VM (Vicky) Brasseur](https://github.com/vmbrasseur) | Wipro | Elected | 2022-01-01 to 2023-12-31 |

@@ -14,7 +14,32 @@ repository:
 
 collaborators:
   # Steering Committee
+  - username: ashleywolf
+    permission: admin
+
+  - username: geekygirldawn
+    permission: admin
+
+  - username: itprofjacobs
+    permission: admin
+
+  - username: justaugustus
+    permission: admin
+
+  - username: shillasaebi
+    permission: admin
+
+  - username: tsteenbe
+    permission: admin
+
+  - username: vmbrasseur
+    permission: admin
+
+  # TODO members
   - username: caniszczyk
+    permission: admin
+
+  - username: DuaneOBrien
     permission: admin
 
   - username: kpfleming
@@ -22,7 +47,3 @@ collaborators:
 
   - username: jeffmcaffer
     permission: admin
-
-  - username: DuaneOBrien
-    permission: admin
-    

@@ -1,5 +1,7 @@
 # TODO Group Steering Committee
+
 ## Resolution YYYY-NN
+
 ## Status: Proposed on YYYY-MM-DD
 
 ## Subject: {subject goes here}
@@ -16,12 +18,12 @@ That the committee {approves/declines the proposed action}.
 
 ## Vote Results
 
-* Chris Aniszczyk - {approve/decline/abstain/absent}
-* VM Brasseur - {approve/decline/abstain/absent}
-* Remy Decausemaker - {approve/decline/abstain/absent}
-* Kevin P. Fleming - {approve/decline/abstain/absent}
-* Jeff McAffer - {approve/decline/abstain/absent}
-* Duane O'Brien - {approve/decline/abstain/absent}
-* Ashley Wolf - {approve/decline/abstain/absent}
+- Ashley Wolf - {approve/decline/abstain/absent}
+- Dawn Foster - {approve/decline/abstain/absent}
+- Shilla Saebi - {approve/decline/abstain/absent}
+- Stephen Augustus - {approve/decline/abstain/absent}
+- Stephen Jacobs - {approve/decline/abstain/absent}
+- Thomas Steenbergen - {approve/decline/abstain/absent}
+- VM (Vicky) Brasseur - {approve/decline/abstain/absent}
 
 ## Rationale
