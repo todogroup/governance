@@ -9,33 +9,20 @@ repository:
 
   # A URL with more information about the repository
   homepage: https://todogroup.org
-  
-  # Collaborators: give specific users access to this repository.
 
+# See https://docs.github.com/en/rest/reference/teams#add-or-update-team-repository-permissions for available options
+teams:
+  - name: steering-committee
+    # The permission to grant the team. Can be one of:
+    # * `pull` - can pull, but not push to or administer this repository.
+    # * `push` - can pull and push, but not administer this repository.
+    # * `admin` - can pull, push and administer this repository.
+    # * `maintain` - Recommended for project managers who need to manage the repository without access to sensitive or destructive actions.
+    permission: admin
+
+# Collaborators: give specific users access to this repository.
+# See https://docs.github.com/en/rest/reference/collaborators for available options
 collaborators:
-  # Steering Committee
-  - username: ashleywolf
-    permission: admin
-
-  - username: geekygirldawn
-    permission: admin
-
-  - username: itprofjacobs
-    permission: admin
-
-  - username: justaugustus
-    permission: admin
-
-  - username: shillasaebi
-    permission: admin
-
-  - username: tsteenbe
-    permission: admin
-
-  - username: vmbrasseur
-    permission: admin
-
-  # TODO members
   - username: caniszczyk
     permission: admin
 
