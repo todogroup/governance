@@ -24,13 +24,13 @@ teams:
 # See https://docs.github.com/en/rest/reference/collaborators for available options
 collaborators:
   - username: caniszczyk
-    permission: admin
+    permission: maintain
 
   - username: DuaneOBrien
-    permission: admin
+    permission: maintain
 
   - username: kpfleming
-    permission: admin
+    permission: maintain
 
   - username: jeffmcaffer
-    permission: admin
+    permission: maintain
