@@ -42,7 +42,7 @@ body:
 - type: checkboxes
   id: check
   attributes:
-    label: 
+    label: conditions
     description: By submitting this issue, you have checked the [current TODO initiatives](https://github.com/todogroup) and confirm that your proposal is not already implemented in any existing TODO initiative.
     options:
     - label: I have checked the existing TODO initiatives and confirm that my proposal is not implemented in any existing TODO initiative.
