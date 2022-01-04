@@ -1,89 +1,89 @@
-Name,Email,GitHub,Company,Primary Contact
-Chris Kelly,#,amateurhuman,#,#
-Josh Simmons,#,joshsimmons,#,#
-Simon MacDonald,smacdona@adobe.com,macdonst,Adobe,#
-Mark Atwood,atwoodm@amazon.com,MarkAtwood,Amazon,yes
-Alolita Sharma,alolitas@amazon.com,alolita,Amazon,# 
-Philippe Robin,Philippe.Robin@arm.com,,ARM,#
-Chris Lloyd-Jones,chris.lloyd-jones@avanade.com,Sealjay,Avanade,yes
-Jerry Tan,tanzhongyi@baidu.com,tanzhongyibidu,Baidu,#
-Sounil Yu,sounil.yu@bankofamerica.com,,Bank of America,#
-Alyssa Wright,alyssawright@bloomberg.net,#,Bloomberg,yes
-Kevin P. Fleming,kpfleming@bloomberg.net,kpfleming,Bloomberg,yes
-Benjamin VanEvery,vanevery@box.com,asheepapart,Box,#
-Jared Smith,#,jaredsmith,#,#
-John Mark Walker,#,johnmark,#,#
-Liam Randall,#,LiamRandall,#,#
-Stephen Augustus,augustus@cisco.com,justaugustus,Cisco,yes
-Nithya Ruff,nithya_ruff@comcast.com,nruff,Comcast,yes
-Shilla Saebi,shilla_saebi@cable.comcast.com,shillasaebi,Comcast,#
-Jeremy Garcia,jeremy.garcia@datadoghq.com,jeremy-lq,Datadog,yes
-Cornelius Schumacher,cornelius.schumacher@deutschebahn.com,cornelius,DB Systel,yes
-Yunbo Wang,wangyunbo@didichuxing.com,,Didi,#
-Luke Faraone,lfaraone@dropbox.com,lfaraone,Dropbox,#
-Justin Abrahms,jabrahms@ebay.com,justinabrahms,eBay,yes
-Greg Back,gregory.back@elastic.co,gtback,Elastic,yes
-Georg Kunz,georg.kunz@ericsson.com,gkunz,Ericsson,yes
-Gunnar Nilsson,gunnar.nilsson@ericsson.com,carvmeister,Ericsson,#
-Christine Abernathy,c.abernathy@f5.com,caabernathy,F5,yes
-Christopher Polanec,christopher.polanec@fmr.com,cpolanec,Fidelity Investments,yes
-Justin Rackliffe,justin.rackliffe@fmr.com,byjrack,Fidelity Investments,#
-Chris Xie,chris.xie@futurewei.com,chrisxie-fw,Futurewei,#
-Ashley Wolf,ashleywolf@github.com,ashleywolf,GitHub,#
-Jamie Jones,jbjonesjr@github.com,jbjonesjr,GitHub,#
-Jeff McAffer,jeffmcaffer@github.com,jeffmcaffer,GitHub,#
-Stormy Peters,stopeter@microsoft.com,stormypeters,GitHub,#
-William Bartholomew,iamwillbar@github.com,iamwillbar,GitHub,#
-David Panella,dplanella@gitlab.com,#,GitLab,yes
-Thomas Steenbergen,thomas.steenbergen@here.com,tsteenbe,HERE Technologies,yes
-Paul Holland,paul.holland@hpe.com,peholland,Hewlett Packard Enterprise,yes
-Jie Liu,liujiejo@huawei.com,-,Huawei,#
-Jeffrey Jagoda,jeffrey.jagoda@ibm.com,jagoda,IBM,#
-Duane O'Brien,duaneo@indeed.com,DuaneOBrien,Indeed,#
-Chris Aniszczyk,caniszczyk@gmail.com,caniszczyk,Linux Foundation,#
-Ibrahim Haddad,ibrahim@linux.com,,Linux Foundation,#
-Joel Marcey,joelm@fb.com,JoelMarcey,Meta,yes
-Michael Cheng,m@priorart.io,syotfs,Meta,#
-Jeff Wilcox,jwilcox@microsoft.com,jeffwilcox,Microsoft,yes
-Gianugo Rabellino,gianugo.rabellino@microsoft.com,gianugo,Microsoft,#
-Michael Phillips,michael.phillips@ni.com,benmont,National Instruments,#
-Andrew Spyker,aspyker@netflix.com,aspyker,Netflix,#
-Libby Meren,#,melbgirl,NGINX,yes
-Gergely Csatari,gegrely.csatari@nokia.com,CsatariGergely,Nokia,#
-Matthew Taylor,matt@numenta.org,rhyolight,Numenta,#
-Guy Martin,guy.martin@autodesk.com,guymartin,OASIS Foundation,#
-Jon Parise,jon@pinterest.com,jparise,Pinterest,yes
-Craig Northway,craign@qti.qualcomm.com,craigez,Qualcomm Technologies Inc,yes
-Mark Matyas,mmatyas@qti.qualcomm.com,mynameistechno,Qualcomm Technologies Inc,#
-Deborah Bryant,dbryant@redhat.com,-,Red Hat,yes
-Leslie Hawthorn,lhawthor@redhat.com,lhawthorn,Red Hat,#
-Ruth Suehle,rsuehle@redhat.com,suehle,Red Hat,#
-Jim Jagielski,jjagielski@salesforce.com,jimjag,Salesforce,yes
-Yoonhwan Jung,#,#,Samsung,yes
-Daniel Park,soohong.park@samsung.com,,Samsung,#
-Jaehun Lee,jaehun12.lee@samsung.com,-,Samsung,#
-Seo-Young Isabelle Hwang,seoyoung.hwang@samsung.com,Seo-Young,Samsung,#
-Peter Giese,peter.giese@sap.com,,SAP,yes
-Michael Picht,michael.picht@sap.com,,SAP,#
-Jonathan Lipps,jlipps@saucelabs.com,jlipps,Sauce Labs,#
-Dave Zolotusky,dzolo@spotify.com,dzolotusky,Spotify,#
-James Christopherson,james.christopherson@target.com,digitaljames,Target,#
-Joel Crabb,joel.crabb@target.com,joel-target,Target,#
-Michael Whitsitt,michael.whitsitt@target.com,michaelswhitsitt,Target,#
-Will Norris,wnorris@twitter.com,willnorris,Twitter,yes
-Julia Ferraioli,jferraioli@twitter.com,juliaferraioli,Twitter,#
-Gil Yehuda,gil@gilyehuda.com,gyehuda,US Bank,yes
-Dawn Foster,fosterd@vmware.com,geekygirldawn,VMware,yes
-Dirk Hohndel,dirkhh@vmware.com,dirkhh,VMware,#
-Tim Pepper,tpepper@vmware.com,tpepper,VMware,#
-Manfred Moser,mmoser@walmartlabs.com,mosabua,Walmart,#
-Sue Xia,sxia0@walmart.com,sxia9,Walmart,#
-Andrew Aitken,andrew.aitken@wipro.com,,Wipro,yes
-Gilles Gravier,#,gravax,Wipro,#
-VM (Vicky) Brasseur,#,vmbrasseur,Wipro,#
-Nathalie C. Chan King Choy,nathalie@xilinx.com,nathalie-ckc,Xilinx,yes
-Tomas Evensen,tomase@xilinx.com,#,Xilinx,#
-Lars Geyer-Blaumeiser,lars.geyer-blaumeiser@de.bosch.com,blaumeiser-at-bosch,Bosch,yes
-Christian Hoeppler,Christian.Hoeppler@de.bosch.com,#,Bosch,#
-Hans Malte Kern,HansMalte.Kern@de.bosch.com,#,Bosch,#
-Marcel Kurzmann,Marcel.Kurzmann@bosch.io,mkurzman,Bosch.IO,#
+Name,GitHub,Company,Primary Contact
+Chris Kelly,amateurhuman,#,#
+Jared Smith,jaredsmith,#,#
+John Mark Walker,johnmark,#,#
+Josh Simmons,joshsimmons,#,#
+Liam Randall,LiamRandall,#,#
+Simon MacDonald,macdonst,Adobe,#
+Mark Atwood,MarkAtwood,Amazon,yes
+Alolita Sharma,alolita,Amazon,#
+Philippe Robin,,ARM,#
+Chris Lloyd-Jones,Sealjay,Avanade,yes
+Jerry Tan,tanzhongyibidu,Baidu,#
+Sounil Yu,,Bank of America,#
+Alyssa Wright,#,Bloomberg,yes
+Kevin P. Fleming,kpfleming,Bloomberg,yes
+Lars Geyer-Blaumeiser,blaumeiser-at-bosch,Bosch,yes
+Christian Hoeppler,#,Bosch,#
+Hans Malte Kern,#,Bosch,#
+Marcel Kurzmann,mkurzman,Bosch.IO,#
+Benjamin VanEvery,asheepapart,Box,#
+Stephen Augustus,justaugustus,Cisco,yes
+Nithya Ruff,nruff,Comcast,yes
+Shilla Saebi,shillasaebi,Comcast,#
+Jeremy Garcia,jeremy-lq,Datadog,yes
+Cornelius Schumacher,cornelius,DB Systel,yes
+Yunbo Wang,,Didi,#
+Luke Faraone,lfaraone,Dropbox,#
+Justin Abrahms,justinabrahms,eBay,yes
+Greg Back,gtback,Elastic,yes
+Georg Kunz,gkunz,Ericsson,yes
+Gunnar Nilsson,carvmeister,Ericsson,#
+Christine Abernathy,caabernathy,F5,yes
+Christopher Polanec,cpolanec,Fidelity Investments,yes
+Justin Rackliffe,byjrack,Fidelity Investments,#
+Chris Xie,chrisxie-fw,Futurewei,#
+Ashley Wolf,ashleywolf,GitHub,#
+Jamie Jones,jbjonesjr,GitHub,#
+Jeff McAffer,jeffmcaffer,GitHub,#
+Stormy Peters,stormypeters,GitHub,#
+William Bartholomew,iamwillbar,GitHub,#
+David Panella,#,GitLab,yes
+Thomas Steenbergen,tsteenbe,HERE Technologies,yes
+Paul Holland,peholland,Hewlett Packard Enterprise,yes
+Jie Liu,-,Huawei,#
+Jeffrey Jagoda,jagoda,IBM,#
+Duane O'Brien,DuaneOBrien,Indeed,#
+Chris Aniszczyk,caniszczyk,Linux Foundation,#
+Ibrahim Haddad,,Linux Foundation,#
+Joel Marcey,JoelMarcey,Meta,yes
+Michael Cheng,syotfs,Meta,#
+Jeff Wilcox,jeffwilcox,Microsoft,yes
+Gianugo Rabellino,gianugo,Microsoft,#
+Michael Phillips,benmont,National Instruments,#
+Andrew Spyker,aspyker,Netflix,#
+Libby Meren,melbgirl,NGINX,yes
+Gergely Csatari,CsatariGergely,Nokia,#
+Matthew Taylor,rhyolight,Numenta,#
+Guy Martin,guymartin,OASIS Foundation,#
+Jon Parise,jparise,Pinterest,yes
+Craig Northway,craigez,Qualcomm Technologies Inc,yes
+Mark Matyas,mynameistechno,Qualcomm Technologies Inc,#
+Deborah Bryant,-,Red Hat,yes
+Leslie Hawthorn,lhawthorn,Red Hat,#
+Ruth Suehle,suehle,Red Hat,#
+Jim Jagielski,jimjag,Salesforce,yes
+Yoonhwan Jung,#,Samsung,yes
+Daniel Park,,Samsung,#
+Jaehun Lee,-,Samsung,#
+Seo-Young Isabelle Hwang,Seo-Young,Samsung,#
+Peter Giese,,SAP,yes
+Michael Picht,,SAP,#
+Jonathan Lipps,jlipps,Sauce Labs,#
+Dave Zolotusky,dzolotusky,Spotify,#
+James Christopherson,digitaljames,Target,#
+Joel Crabb,joel-target,Target,#
+Michael Whitsitt,michaelswhitsitt,Target,#
+Will Norris,willnorris,Twitter,yes
+Julia Ferraioli,juliaferraioli,Twitter,#
+Gil Yehuda,gyehuda,US Bank,yes
+Dawn Foster,geekygirldawn,VMware,yes
+Dirk Hohndel,dirkhh,VMware,#
+Tim Pepper,tpepper,VMware,#
+Manfred Moser,mosabua,Walmart,#
+Sue Xia,sxia9,Walmart,#
+Andrew Aitken,,Wipro,yes
+Gilles Gravier,gravax,Wipro,#
+VM (Vicky) Brasseur,vmbrasseur,Wipro,#
+Nathalie C. Chan King Choy,nathalie-ckc,Xilinx,yes
+Tomas Evensen,#,Xilinx,#
