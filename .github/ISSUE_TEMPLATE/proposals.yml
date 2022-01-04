@@ -4,9 +4,7 @@ title: "[Proposal]: "
 labels: "Proposal"
 body:
   - type: markdown
-    attributes:
-      value: |
-        If you have a proposal that you would like to see at TODO, please file the new initiative to be reviewed by the SC using this issue form.        
+    value: "## Please file the new initiative to be reviewed by the SC using this issue form."        
   - type: textarea
     id: proposal-title
     attributes:
