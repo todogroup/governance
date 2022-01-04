@@ -5,6 +5,7 @@ labels: "Proposal"
 body:
 - type: markdown
   attributes:
+    label: Proposal
     value: |
       Please file the new initiative to be reviewed by the SC using this issue form.        
 - type: textarea
