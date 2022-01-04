@@ -3,45 +3,47 @@ description: Proposal sumbission for new TODO initiatives
 title: "[Proposal]: "
 labels: "Proposal"
 body:
-  - type: markdown
-    value: "## Please file the new initiative to be reviewed by the SC using this issue form."        
-  - type: textarea
-    id: proposal-title
-    attributes:
-      label: Proposal Title
-      description: Please provide the desired title for your proposal
-      value: "Please provide more details about your proposal"
-    validations:
-      required: true      
-  - type: textarea
-    id: proposal-goal
-    attributes:
-      label: Proposal Goal
-      description: Please assign a goal for your proposal
-      value: "Please provide more details about your proposal"
-    validations:
+- type: markdown
+  attributes:
+    value: |
+      Please file the new initiative to be reviewed by the SC using this issue form.        
+- type: textarea
+  id: proposal-title
+  attributes:
+    label: Proposal Title
+    description: Please provide the desired title for your proposal
+    value: "Please provide more details about your proposal"
+  validations:
+    required: true      
+- type: textarea
+  id: proposal-goal
+  attributes:
+    label: Proposal Goal
+    description: Please assign a goal for your proposal
+    value: "Please provide more details about your proposal"
+  validations:
+    required: true
+- type: textarea
+  id: proposal-description
+  attributes:
+    label: Proposal Description
+    description: Please provide a description for your proposal
+    value: "Please provide more details about your proposal"
+  validations:
+    required: true
+- type: textarea
+  id: proposal-action-items
+  attributes:
+    label: Proposal Action Items
+    description: What set of action items should be accomplished in this proposal in order to succeed?
+    value: "Please provide more details about your proposal"
+  validations:
+    required: true
+- type: checkboxes
+  id: check
+  attributes:
+    label: 
+    description: By submitting this issue, you have checked the [current TODO initiatives](https://github.com/todogroup) and confirm that your proposal is not already implemented in any existing TODO initiative.
+    options:
+    - label: I have checked the existing TODO initiatives and confirm that my proposal is not implemented in any existing TODO initiative.
       required: true
-  - type: textarea
-    id: proposal-description
-    attributes:
-      label: Proposal Description
-      description: Please provide a description for your proposal
-      value: "Please provide more details about your proposal"
-    validations:
-      required: true
-  - type: textarea
-    id: proposal-action-items
-    attributes:
-      label: Proposal Action Items
-      description: What set of action items should be accomplished in this proposal in order to succeed?
-      value: "Please provide more details about your proposal"
-    validations:
-      required: true
-  - type: checkboxes
-    id: check
-    attributes:
-      label: 
-      description: By submitting this issue, you have checked the [current TODO initiatives](https://github.com/todogroup) and confirm that your proposal is not already implemented in any existing TODO initiative.
-      options:
-      - label: I have checked the existing TODO initiatives and confirm that my proposal is not implemented in any existing TODO initiative.
-        required: true
