@@ -13,7 +13,7 @@ body:
     label: Proposal Title
     description: Please provide the desired title for your proposal
     value: "Please provide more details about your proposal"
-   validations:
+  validations:
     required: true
 - type: textarea
   id: proposal-goal
