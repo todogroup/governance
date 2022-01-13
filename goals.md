@@ -9,7 +9,7 @@ Based on this, we would like to bring the goals to the TODO Group for review and
 
 The goals will be revisited and updated yearly.
 
-## 2022
+## 2022 [PROPOSED]
 
 ### 1. Cultivate growth and adoption of OSPOs
 
