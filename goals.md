@@ -9,29 +9,29 @@ Based on this, we would like to bring the goals to the TODO Group for review and
 
 The goals will be revisited and updated yearly.
 
-## 2022 [PROPOSED]
+## [PROPOSED] 2022
 
-### 1. Cultivate growth and adoption of OSPOs
+### 1 Cultivate growth and adoption of OSPOs
 
-* Release at least 6 new OSPO case studies
-* Launch 6 new OSPO guides
-* Host 12 OSPOlogy sessions
-* Build out and run OSPO Survey 2022
-* Create and publish a OSPO Maturity Model
+- Release at least 6 new OSPO case studies
+- Launch 6 new OSPO guides
+- Host 12 OSPOlogy sessions
+- Build out and run OSPO Survey 2022
+- Create and publish a OSPO Maturity Model
 
-## 2. Grow the membership base
+## 2 Grow the membership base
 
-* Grow TODO membership by 20%
-* Cultivate relationships with other OSPO adjacent communities like CHAOSS
-* Grow OSPO Ambassadors by 
+- Grow TODO membership by 20%
+- Cultivate relationships with other OSPO adjacent communities like CHAOSS
+- Grow OSPO Ambassadors by 
 
-## 3. Create value for all members
+## 3 Create value for all members
 
-* Run at least 2 surveys to get feedback, >80% satisfaction
-* Improve and refresh TODO Website, increase traffic by 20%
-* Host at least 2 OSPOCons
-* Host first OSPOCon in APAC
-* Break down silos and enhance communication across channels (slack, mailing lists, Social media)
+- Run at least 2 surveys to get feedback, >80% satisfaction
+- Improve and refresh TODO Website, increase traffic by 20%
+- Host at least 2 OSPOCons
+- Host first OSPOCon in APAC
+- Break down silos and enhance communication across channels (slack, mailing lists, Social media)
 
 ## 2021
 
