@@ -63,4 +63,4 @@ they have invites for the following meetings:
 
 ## Resources and initiatives
 
-- [ ] Ensure members are aware of the General Members [onboarding guide](/onboarding/general-member.md)
+- [ ] Ensure members are aware of the General Members [onboarding guide](https://github.com/todogroup/governance/blob/main/onboarding/general-member.md)
