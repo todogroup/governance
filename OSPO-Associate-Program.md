@@ -23,9 +23,17 @@ Benefits include:
 
 ## How can I Apply?
 
-Requests will be done through [OSPO Landscape project](https://github.com/todogroup/ospolandscape). If you think your project meet the criteria to be an OSPO Associate, please open a pull request to add it to [landscape.yml](https://github.com/todogroup/ospolandscape/blob/master/landscape.yml) under OSPO Adopter category and OSPO Associate subcategory. For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+Requests will be done through [OSPO Landscape project](https://github.com/todogroup/ospolandscape). If you think your project meet the criteria to be an OSPO Associate:
+
+(1) Open a new `TODO OSPO Associate - Request` [issue](https://github.com/todogroup/ospolandscape/issues/new/choose). Please, make sure you fulfil the pre-submission checklist and answer all the questions required within the issue.
+
+(2) Wait until the TODO PM checks if the organization meets the criteria and approves / declines the request
+
+(3) If the request is accepted, please open a pull request to add it to [landscape.yml](https://github.com/todogroup/ospolandscape/blob/master/landscape.yml) under OSPO Adopter category and OSPO Associate subcategory. For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
 
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add LGTM to the pull request confirming your review and requesting a merge.
+
+> If you have any issues, you can ask @anajsana to do this process for you instead.
 
 ## Where can I find more info?
 
