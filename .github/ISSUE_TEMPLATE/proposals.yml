@@ -6,13 +6,13 @@ body:
 - type: markdown
   attributes:
     value: |
-      Please file the new initiative to be reviewed by the SC using this issue form.        
+      This is a proposal sumbission for new TODO initiatives that are not already implemented in any existing TODO Resourcces. if you'd like to add resources for an existing TODO initative (e.g New Todo guides, new OSPO Case Study, OSPOlogy session, etc) please check TODO [contribution guidelines](https://github.com/todogroup/todogroup.org#-adding-resources]. If that's not the case, please continute and file the new initiative using this issue form and someone from the SC or the TODO PM will review the proposal ASAP.        
 - type: textarea
   id: proposal-title
   attributes:
     label: Proposal Title
     description: Please provide the desired title for your proposal
-    value: "Please provide more details about your proposal"
+    value: "For instance, create an awesome open source management working group"
   validations:
     required: true
 - type: textarea
@@ -20,7 +20,7 @@ body:
   attributes:
     label: Proposal Goal
     description: Please assign a goal for your proposal
-    value: "Please provide more details about your proposal"
+    value: "For instance, improve community engagement between open source leaders and help create quality resources"
   validations:
     required: true
 - type: textarea
@@ -28,7 +28,7 @@ body:
   attributes:
     label: Proposal Description
     description: Please provide a description for your proposal
-    value: "Please provide more details about your proposal"
+    value: "For instance, I'd like to create the awesome working group to sync with other interested communitiy members on how to do awesome open source management"
   validations:
     required: true
 - type: textarea
