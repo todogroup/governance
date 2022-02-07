@@ -6,7 +6,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      This is a proposal sumbission for new TODO initiatives that are not already implemented in any existing TODO Resourcces. if you'd like to add resources for an existing TODO initative (e.g New Todo guides, new OSPO Case Study, OSPOlogy session, etc) please check TODO [contribution guidelines](https://github.com/todogroup/todogroup.org#-adding-resources). If that's not the case, please continute and file the new initiative using this issue form and someone from the SC or the TODO PM will review the proposal ASAP.        
+      This is a proposal sumbission for new TODO initiatives that are not already implemented in any existing TODO Resourcces. if you'd like to add resources for an existing TODO initative (e.g New TODO Guides, new OSPO Case Study, OSPOlogy session, etc) please check TODO [contribution guidelines](https://github.com/todogroup/todogroup.org#-adding-resources). If that's not the case, please file the new initiative using this issue form. Once the issue is submitted, someone from the SC or the TODO PM will review the proposal ASAP.        
 - type: textarea
   id: proposal-title
   attributes:
