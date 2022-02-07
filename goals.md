@@ -27,7 +27,7 @@ The goals will be revisited and updated yearly.
 
 ### ➡️ Create value for all members
 
-- Run at least 2 surveys to get feedback, >80% satisfaction
+- Run 2 TODO Satisfaction Surveys to get feedback, >80% satisfaction
 - Improve and refresh TODO Website
 - Increase geographical availability 
 - Assess TODO tooling (slack, mailing lists, github)
@@ -50,7 +50,7 @@ The goals will be revisited and updated yearly.
 ### ➡️ Create value for all members
 
 - Improve and refresh TODO Website
-- Run at least 2 surveys to get feedback, >80% satisfaction
+- Run 2 TODO Satisfaction Surveys to get feedback, >80% satisfaction
 - Host at least 2 OSPOCons
 - Host first OSPOCon in APAC
 - Increase geographical availability 
