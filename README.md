@@ -1,6 +1,6 @@
 # TODO Group
 
-TODO is a open community of practicioners who aims to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective about Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its Community participants and General Members
+TODO is an open community of practicioners who aims to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective about Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its Community participants and General Members.
 
 ## Charter
 
