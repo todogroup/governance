@@ -39,7 +39,7 @@ Netlify will generate a staging server for you to preview your updates. Please c
 
 There are a lot of initiatives & resources where an OSPO Associate can get involved that are listed in the TODO ORG README file: https://github.com/todogroup
 
-If you would like to know where your spcecific project initiatives could fit in the TODO programs or would like to know more details, please contact ana@todogroup.org and she will schedule a Sync call to answer any questions.
+If you would like to know where your specific project initiatives could fit in the TODO programs or would like to know more details, please contact ana@todogroup.org and she will schedule a Sync call to answer any questions.
 
 
 > Note: OSPO Associate Program is different from TODO Group Membership and not entitled to member benefits.
