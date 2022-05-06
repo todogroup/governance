@@ -7,7 +7,8 @@ Liam Randall,LiamRandall,#,#
 Simon MacDonald,macdonst,Adobe,#
 Greg Haynes,#,Autodesk,yes
 Josep Prat,jlprat,Aiven,yes
-Mark Atwood,MarkAtwood,Amazon,yes
+Nithya Ruff,nruff,Amazon,yes
+Mark Atwood,MarkAtwood,Amazon,#
 Andrew Jorgensen,ajorg-aws,Amazon,#
 Alolita Sharma,alolita,Amazon,#
 Jenny Thayer,jrburcio,Apple,yes
@@ -28,9 +29,10 @@ Ulrike Liss,ulrikeliss,Camunda,#
 Kiran Oliver,celanthe,Camunda,#
 Zhiqiang Yu,zhiqiang-yu,China Mobile,yes
 Stephen Augustus,justaugustus,Cisco,yes
+Julia Ferraioli,juliaferraioli,Cisco,#
+Jason DeTiberus,detiber,Cisco,#
 Charles Eckel,eckelcu,Cisco,#
 Michael Riskin,riskin,Cisco,#
-Nithya Ruff,nruff,#,#
 Shilla Saebi,shillasaebi,Comcast,yes
 Jeremy Garcia,jeremy-lq,Datadog,yes
 Cornelius Schumacher,cornelius,DB Systel,yes
@@ -99,7 +101,6 @@ James Christopherson,digitaljames,Target,#
 Joel Crabb,joel-target,Target,#
 Michael Whitsitt,michaelswhitsitt,Target,#
 Will Norris,willnorris,Twitter,yes
-Julia Ferraioli,juliaferraioli,Twitter,#
 Stephanie Lieggi,slieggi,UC Santa Cruz,yes
 Carlos Maltzahn,carlosmalt,UC Santa Cruz,#
 Gil Yehuda,gyehuda,US Bank,yes
