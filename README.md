@@ -1,4 +1,4 @@
-# 🏛 TODO Group Governance
+# 🏛 TODO Group governance
 
 * About TODO charter
 * About TODO Steering committee (TSC)
@@ -9,7 +9,7 @@
    * Offboard
 
 
-## 📝 About TODO Charter
+## 📝 About TODO charter
 
 Our mission is to identify key policy and process related to open source within organizations and create tools and educational materials that promote open source management best practices. You can learn more about what the TODO Steering Committee does by reading TODO's General Member's [charter](https://github.com/todogroup/governance/blob/master/CHARTER.adoc) ([PDF version](https://github.com/todogroup/governance/blob/master/TODO%20Charter%20and%20Agreement%20v2.0.pdf)).
 
@@ -27,7 +27,7 @@ The Steering Committee shall be elected for their expertise and contribution to 
 | [Thomas Steenbergen](https://github.com/tsteenbe) | HERE Technologies | Elected | 2022-01-01 to 2023-12-31 |
 | [VM (Vicky) Brasseur](https://github.com/vmbrasseur) | Wipro | Elected | 2022-01-01 to 2023-12-31 |
 
-## 🧩 About TODO Structure
+## 🧩 About TODO structure
 
 The [TODO structure folder](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure) shares an overview of the TODO Group's structure, including existing communication channels, meetings, regional chapters and resources. A generated mind map screenshot has been added for better visualization of the different items.
 
