@@ -35,7 +35,7 @@ TODO Group is formed by its *Community Participants* including *OSPO Associates*
 
 ## 🗳 File proposals by the community
 
-The Community can fill proposals via the OSPO Forum. [The OSPO forum is at the ospology repo, under GH Discussions.](https://github.com/todogroup/ospology/discussions)
+The Community can file proposals via the OSPO Forum. [The OSPO forum is at the ospology repo, under GH Discussions.](https://github.com/todogroup/ospology/discussions)
 
 ### How to open a new proposal
 
