@@ -1,10 +1,10 @@
 ![ospoassocaite_program](https://user-images.githubusercontent.com/43671777/139878216-97c4ac50-d3c3-476a-a63c-2a0aeb15b12e.png)
 
-## 💚 Ways to support TODO as an entity
+## 💚 Ways you can support TODO
 
-TODO Group community is open to all. Sometimes, there are community participants who wish show their organization efforts on fostering OSPO adoption and enable the worldwide community of practitioners.
+TODO Group community is open to all and is formed by its Community participants and General Members. Sometimes, there are community participants who wish show their organization efforts on fostering OSPO adoption and enable the worldwide community of practitioners.
 
-* Community participants coming from an organization with an established OSPO or similar open source initiative can support TODO by becoming `General Members`.
+* Community participants coming from an organization with an established OSPO or similar open source initiative can support TODO by becoming [General Members](https://todogroup.org/join/).
 
 * Community participants coming from **entities focused on [OSPO-related topics](https://ospomindmap.todogroup.org/) who help OSPOs but may not have an OSPO**, they can support TODO by becoming `OSPO Associates`.
 
@@ -14,7 +14,7 @@ The OSPO Associate is a TODO Program that aims to work collaboratively across co
 
 Entities decide to apply for OSPO Associate Program for many reasons, inlcuding:
 
-* Brand value in demonstrating their open source effots to help the OSPO movement
+* Brand value in demonstrating their open source efforts to help the OSPO movement
 * Brand value in demonstrating their support to TODO mission and community
 * Brand value in demonstrating they are actively collaborating with TODO to build and improve OSPO-related resources and tooling
 
@@ -42,7 +42,7 @@ Benefits include:
 
 * TODO OSPO Associate Badge
 * Appear at OSPO Landscape as [OSPO Associate](https://landscape.todogroup.org/card-mode?category=ospo-associate&grouping=category)
-* Promotion at TODO Website and main communication channels (TODO mailing lists, newsletter and social media channels)
+* Promotion at TODO website and main communication channels (TODO mailing lists, newsletter and social media channels)
 * Brand value in demonstrating an active commitment to the OSPO movement
 * Thanked at TODO conferences and initiatives
 * TODO support to co-create content
