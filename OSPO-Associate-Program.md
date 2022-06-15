@@ -4,7 +4,7 @@
 
 TODO Group Community is open to all. Sometimes, there are community participants who wish show their organization efforts on fostering OSPO adoption and enable the worldwide community of practitioners.
 
-Community participants comming from and organization with an established OSPO or similar open source initiative can support TODO becoming `General Members`. To those open source communities or project focused on [OSPO-related topics](https://ospomindmap.todogroup.org/) who help OSPOs but may not have an OSPO, they can support TODO becoming `OSPO Associates`.
+Community participants coming from an organization with an established OSPO or similar open source initiative can support TODO by becoming `General Members`. To those open source communities or project focused on [OSPO-related topics](https://ospomindmap.todogroup.org/) who help OSPOs but may not have an OSPO, they can support TODO becoming `OSPO Associates`.
 
 OSPO Associates is a TODO Program that aims to work collaboratively across communities that are helping the OSPO movement to build the most comprehensive OSPO solutions infrastructure and network.
 
