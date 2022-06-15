@@ -3,7 +3,7 @@
 * About TODO charter
 * About TODO Steering Committee (TSC)
 * About TODO structure
-* Fill new proposals by the community
+* File new proposals by the community
 * Manage General Member teams and individuals
    * Onboard
    * Offboard
