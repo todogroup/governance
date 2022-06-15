@@ -24,7 +24,7 @@ The Steering Committee shall be elected for their expertise and contribution to 
 | [Stephen Augustus](https://github.com/justaugustus) | Cisco | Appointed | 2022-01-01 to 2022-12-31 |
 | [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2022-01-01 to 2023-12-31 |
 | [Shilla Saebi](https://github.com/shillasaebi) | Comcast | Appointed | 2022-01-01 to 2023-12-31 |
-| [Thomas Steenbergen](https://github.com/tsteenbe) | HERE Technologies | Elected | 2022-01-01 to 2023-12-31 |
+| [Thomas Steenbergen](https://github.com/tsteenbe) | EPAM | Elected | 2022-01-01 to 2023-12-31 |
 | [VM (Vicky) Brasseur](https://github.com/vmbrasseur) | Wipro | Elected | 2022-01-01 to 2023-12-31 |
 
 ## 🧩 About TODO structure
