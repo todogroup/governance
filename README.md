@@ -11,7 +11,7 @@
 
 ## 📝 About TODO Charter
 
-Our mission is to identify key policy and process choices related to corporate open source engagement and create tools and educational materials that promote best practices around such engagements. You can learn more about what we do by reading our [charter](https://github.com/todogroup/governance/blob/master/CHARTER.adoc) ([PDF version](https://github.com/todogroup/governance/blob/master/TODO%20Charter%20and%20Agreement%20v2.0.pdf)).
+Our mission is to identify key policy and process related to open source within organizations and create tools and educational materials that promote open source management best practices. You can learn more about what the TODO Steering Committee does by reading TODO's General Member's [charter](https://github.com/todogroup/governance/blob/master/CHARTER.adoc) ([PDF version](https://github.com/todogroup/governance/blob/master/TODO%20Charter%20and%20Agreement%20v2.0.pdf)).
 
 ## 🧭 About TODO Steering Committee (TSC)
 
@@ -31,9 +31,9 @@ The Steering Committee shall be elected for their expertise and contribution to 
 
 The [TODO structure folder](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure) shares an overview of the TODO Group's structure, including existing communication channels, meetings, regional chapters and resources. A generated mind map screenshot has been added for better visualization of the different items.
 
-TODO Group is formed by its *Community Participants* and *General Members*. TODO Group Community is open to all. Sometimes, there are community participants with an established OSPO or open source initiative who wish to become a General Member. Please see [TODO Group overview presentation](https://docs.google.com/presentation/d/1p4dhx0Dg8fZDO8yzp7nWC2r5WHyVH-jjSQM59lkKLdo/edit?usp=sharing) to learn more.
+TODO Group is formed by its *Community Participants* and *General Members*. TODO Group Community is open to all. Sometimes, there are community participants with an established OSPO or open source initiative who wish to support TODO by becoming a [General Member](https://todogroup.org/join/) or [OSPO Associate](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md). Please see [TODO Group overview presentation](https://docs.google.com/presentation/d/1p4dhx0Dg8fZDO8yzp7nWC2r5WHyVH-jjSQM59lkKLdo/edit?usp=sharing) to learn more.
 
-## 🗳 Fill New Proposals By The Community
+## 🗳 File proposals by the community
 
 The Community can fill proposals via the OSPO Forum. [The OSPO forum is at the ospology repo, under GH Discussions.](https://github.com/todogroup/ospology/discussions)
 
@@ -46,7 +46,7 @@ The Community can fill proposals via the OSPO Forum. [The OSPO forum is at the o
 5) TODO PM will label the new discussion as `proposal`
 6) Steerign Committe will review on a regular basis the discussions wihtin the [proposal tag](https://github.com/todogroup/ospology/discussions?discussions_q=label%3Aproposal) and give input.
 
-## 📚 Manage General Member Teams and Individuals
+## 📚 Manage general member teams and individuals
 
 To onboard a new organization and/or new team members from an existing organization that is TODO General Member, please:
 
