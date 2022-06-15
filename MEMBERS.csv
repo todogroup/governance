@@ -45,6 +45,7 @@ Oleg Nenashev,oleg-nenashev,Dynatrace,#
 David Hirsch,DavidPHirsch,Dynatrace,yes
 Justin Abrahms,justinabrahms,eBay,yes
 Chris Howard,cm-howard,EPAM Systems,yes
+Thomas Steenbergen,tsteenbe,EPAM Systems,#
 Greg Back,gtback,Elastic,yes
 Trishan de Lanerolle,trishan,Equinix,yes
 Alice Sowerby,alice-sowerby,Equinix,#
@@ -61,9 +62,10 @@ Jeff McAffer,jeffmcaffer,GitHub,#
 Stormy Peters,stormypeters,GitHub,#
 William Bartholomew,iamwillbar,GitHub,#
 David Panella,#,GitLab,yes
-Thomas Steenbergen,tsteenbe,HERE Technologies,yes
+#,#,HERE Technologies,yes
 Paul Holland,peholland,Hewlett Packard Enterprise,yes
 Jie Liu,-,Huawei,yes
+Libby Meren,melbgirl,Humio,yes
 Jeffrey Jagoda,jagoda,IBM,#
 Duane O'Brien,DuaneOBrien,Indeed,#
 Jessica Marz,jkmarz,Intel,#
