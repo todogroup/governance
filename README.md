@@ -39,24 +39,24 @@ The Community can fill proposals via the OSPO Forum. [The OSPO forum is at the o
 
 ### How to open a new proposal
 
-1) Go to Dicussions
+1) Go to [Dicussions](https://github.com/todogroup/ospology/discussions)
 2) Start a new Discussion
 3) Select the category `Ideas` or `Poll`
-4) Provide a description of the proposal as well as additional assets to succesfully implement the proposal such as frameworks, timelines or action items required.
+4) Provide a description of the proposal as well as additional assets to successfully implement the proposal such as frameworks, timelines or action items required.
 5) TODO PM will label the new discussion as `proposal`
-6) Steerign Committe will review on a regular basis the discussions wihtin the [proposal tag](https://github.com/todogroup/ospology/discussions?discussions_q=label%3Aproposal) and give input.
+6) Steering Committee will review on a regular basis the discussions wihtin the [proposal tag](https://github.com/todogroup/ospology/discussions?discussions_q=label%3Aproposal) and give input.
 
 ## 📚 Manage general member teams and individuals
 
 To onboard a new organization and/or new team members from an existing organization that is TODO General Member, please:
 
-1) [Open a New Onboarding issue template.](https://github.com/todogroup/governance/issues/new/choose): The new organization issue template works also to add additional members.
-2) [Read and share GM onboaring guide](https://github.com/todogroup/governance/blob/main/onboarding/general-member.md#general-member-onboarding)
+1) [Open a new onboarding issue template.](https://github.com/todogroup/governance/issues/new/choose): The new organization issue template works also to add additional members.
+2) [Read and share General Member onboaring guide](https://github.com/todogroup/governance/blob/main/onboarding/general-member.md#general-member-onboarding)
 3) TODO PM or SC will label this as `onboarding` and complete the checklist items.
 
-To offboard team members from an organization that is TODO General Member, please:
+To offboard team members from an organization that is a TODO General Member, please:
 
 1) Notify TODO PM via email or slack DM
-2) Remore contact info from MEMBERS.csv submitting a PR
+2) Remove contact info from MEMBERS.csv by submitting a PR
 
 
