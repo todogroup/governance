@@ -1,10 +1,10 @@
 # 🏛 TODO Group governance
 
 * About TODO charter
-* About TODO Steering committee (TSC)
-* About TODO Structure
+* About TODO Steering Committee (TSC)
+* About TODO structure
 * Fill new proposals by the community
-* Manage General Member Teams and Individuals
+* Manage General Member teams and individuals
    * Onboard
    * Offboard
 
@@ -31,7 +31,7 @@ The Steering Committee shall be elected for their expertise and contribution to 
 
 The [TODO structure folder](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure) shares an overview of the TODO Group's structure, including existing communication channels, meetings, regional chapters and resources. A generated mind map screenshot has been added for better visualization of the different items.
 
-TODO Group is formed by its *Community Participants* and *General Members*. TODO Group Community is open to all. Sometimes, there are community participants with an established OSPO or open source initiative who wish to support TODO by becoming a [General Member](https://todogroup.org/join/) or [OSPO Associate](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md). Please see [TODO Group overview presentation](https://docs.google.com/presentation/d/1p4dhx0Dg8fZDO8yzp7nWC2r5WHyVH-jjSQM59lkKLdo/edit?usp=sharing) to learn more.
+TODO Group is formed by its *Community Participants* including *OSPO Associates* and *General Members*. TODO Group Community is open to all. Sometimes, there are community participants with an established OSPO or open source initiative who wish to support TODO by becoming a [General Member](https://todogroup.org/join/) and/or [OSPO Associate](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md). Please see [TODO Group overview presentation](https://docs.google.com/presentation/d/1p4dhx0Dg8fZDO8yzp7nWC2r5WHyVH-jjSQM59lkKLdo/edit?usp=sharing) to learn more.
 
 ## 🗳 File proposals by the community
 
