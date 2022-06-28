@@ -28,7 +28,7 @@ TODO: Publish this info on the website to de-duplicate content
     * 💻 TODO Website (Guides, courses, end-user use cases and documentation): https://github.com/todogroup/todogroup.org
     * 🌅 OSPO Landscape view: https://github.com/anajsana/ospolandscape
     * ⚙️ OSPO and OS management tooling https://github.com/todogroup/awesome-ospo
-    * 📚 OSPO 101 coruse https://github.com/todogroup/ospo101
+    * 📚 OSPO 101 course https://github.com/todogroup/ospo101
     
 * Read TODO Group FAQ
 
