@@ -24,7 +24,7 @@ TODO: Publish this info on the website to de-duplicate content
 
 * Review the existing GitHub repos in the TODO Group org's README.md. Popular ones are:
 
-    * 🦄 *Begining the OSPO joruney* networking & resources: https://github.com/todogroup/ospology
+    * 🦄 *Beginning the OSPO joruney* networking & resources: https://github.com/todogroup/ospology
     * 💻 TODO Website (Guides, courses, end-user use cases and documentation): https://github.com/todogroup/todogroup.org
     * 🌅 OSPO Landscape view: https://github.com/anajsana/ospolandscape
     * ⚙️ OSPO and OS management tooling https://github.com/todogroup/awesome-ospo
