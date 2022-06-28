@@ -52,7 +52,7 @@ publicly available, but you can also subscribe to receive it via email!
 Public communication channels that need registration via third-party platforms
 to either see or interact with content e.g., Slack, LF Community Platform, GitHub
 
-- [TODO Group Slack](https://slack.todogroup.org/)
+- [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew)
 - [Community Mailing List](https://docs.google.com/forms/d/e/1FAIpQLSeU0YGM_IJ6gY8E5IIiwXKD_FZi3kAVc4E9_-3dtTDyKMSjdA/viewform)
 
 ### Social media
@@ -69,8 +69,12 @@ to either see or interact with content e.g., Slack, LF Community Platform, GitHu
 
 RSVP for the following Networking meetings:
 
-- [OSPOlogy Community Calls](https://community.linuxfoundation.org/todo-group/) (Monthly on Wednesdays)
-- TODO [EU Sync Meetings](https://community.linuxfoundation.org/todo-group-europe/) (Monthly on Thursdays)
+- [Global Community Meetings: OSPOlogy](https://community.linuxfoundation.org/todo-group/) (Monthly on Wednesdays)
+
+- Regional Sync calls
+
+    - [EU Chapter](https://community.linuxfoundation.org/todo-group-europe/) (Monthly on Thursdays)
+    - [APAC Chapter](https://github.com/todogroup/ospology/blob/main/meetings/Sync%20Chapters/APAC-Sync.md) (Monthly on Mondays)
 
 Contributor meetings:
 
