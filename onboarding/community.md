@@ -1,4 +1,4 @@
-# TODO Community Onboarding
+# 📖 TODO Community Onboarding
 
 Welcome to the TODO Group!
 
@@ -20,12 +20,18 @@ please reach out to the TODO Group Program Manager (@anajsana).
 TODO: Publish this info on the website to de-duplicate content
 -->
 
-## Getting started
+## 🙋 Getting started
 
-* Review the existing GitHub repos in the TODO Group org's README.md
+* Review the existing GitHub repos in the TODO Group org's README.md. Popular ones are:
+
+    * 🦄 *Begining the OSPO joruney* networking & resources: https://github.com/todogroup/ospology
+    * 💻 TODO Website (Guides, courses, end-user use cases and documentation): https://github.com/todogroup/todogroup.org
+    * 🌅 OSPO Landscape view: https://github.com/anajsana/ospolandscape
+    * ⚙️ OSPO and OS management tooling https://github.com/todogroup/awesome-ospo
+    
 * Read TODO Group FAQ
 
-### Contribution guides
+### 📝 Contribution guides
 
 Are you a first-time contributor to TODO Group?
 Here are some helpful guides to get you started:
@@ -36,7 +42,7 @@ Here are some helpful guides to get you started:
 - [OSPOlogy Meetings](https://github.com/todogroup/ospology/tree/main/meetings#what-are-ospology-monthly-meetings)
 - [OSPO Survey](https://github.com/todogroup/osposurvey/tree/master/2022#how-to-contribute)
 
-## Communication channels
+## 💬 Communication channels
 
 ### Discussions
 
@@ -64,7 +70,7 @@ to either see or interact with content e.g., Slack, LF Community Platform, GitHu
 
 - [TODO Group GH Org](https://github.com/todogroup/)
 
-## Meetings and Calls
+## 🚀 Meetings and Calls
 
 
 RSVP for the following Networking meetings:
