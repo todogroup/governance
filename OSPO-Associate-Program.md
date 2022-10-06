@@ -20,7 +20,7 @@ Entities decide to apply for OSPO Associate Program for many reasons, inlcuding:
 
 ## ✍️ Who can request to be an OSPO Associate?
 
-As an `OSPO Associate`, your organization needs to be focused on [OSPO-related topics](https://ospomindmap.todogroup.org/) and/or provide OSPO services & products. An OSPO Associate may not necessarily have an OSPO, but aims to collaborate with TODO to improve OSPO adoption and education, resources, and initiatives.
+As an `OSPO Associate`, your organization needs to be focused on [OSPO-related topics](https://ospomindmap.todogroup.org/). An OSPO Associate may not necessarily have an OSPO, but aims to collaborate with TODO to improve OSPO adoption and education, resources, and initiatives.
 
 Entities who can apply for OSPO Associate includes:
 
@@ -29,6 +29,8 @@ Entities who can apply for OSPO Associate includes:
 * Governments
 * Non-governmental organizations (NGOs)
 * Non-profit Organizations (NPO)
+
+Please note the OSPO Associates program is free of service providers and vendors. Individuals can always [join the community](https://todogroup.org/community/) and access our resources, following [TODO's code of conduct](https://github.com/todogroup/.github/blob/master/CODE_OF_CONDUCT.md#todo-group-code-of-conduct)
 
 > Note: if your organization (e.g academia, goverment, NGO) has a formal and recognized open source startegy, center of exellence around open source or Open Source Program Office (OSPO), please consider [supporting and sponsoring TODO as General Member](https://todogroup.org/members/) to be entitled to General Member benefits.
 
