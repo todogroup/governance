@@ -89,7 +89,7 @@ A generated mind map screenshot has been added for better visualization of the d
     - WIP: 2022
   - The Evolution of the OSPO
 
-## RRSS
+## Social Media
 
 - LinkedIn
 - Twitter
