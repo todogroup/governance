@@ -30,7 +30,7 @@ Entities who can apply for OSPO Associate includes:
 * Non-governmental organizations (NGOs)
 * Non-profit Organizations (NPO)
 
-Please note the OSPO Associates program is free of service providers and vendors. Individuals can always [join the community](https://todogroup.org/community/) and access our resources, following [TODO's code of conduct](https://github.com/todogroup/.github/blob/master/CODE_OF_CONDUCT.md#todo-group-code-of-conduct)
+The OSPO Associates program is not intended for service providers. Individuals can always [join the community](https://todogroup.org/community/) and access our resources, following [TODO's code of conduct](https://github.com/todogroup/.github/blob/master/CODE_OF_CONDUCT.md#todo-group-code-of-conduct)
 
 > Note: if your organization (e.g academia, goverment, NGO) has a formal and recognized open source startegy, center of exellence around open source or Open Source Program Office (OSPO), please consider [supporting and sponsoring TODO as General Member](https://todogroup.org/members/) to be entitled to General Member benefits.
 
