@@ -51,7 +51,7 @@ The Community can file proposals via the OSPO Forum. [The OSPO forum is at the o
 To onboard a new organization and/or new team members from an existing organization that is TODO General Member, please:
 
 1) [Open a new onboarding issue template.](https://github.com/todogroup/governance/issues/new/choose): The new organization issue template works also to add additional members.
-2) [Read and share General Member onboaring guide](https://github.com/todogroup/governance/blob/main/onboarding/general-member.md#general-member-onboarding)
+2) [Read and share General Member onboarding guide](https://github.com/todogroup/governance/blob/main/onboarding/general-member.md#general-member-onboarding)
 3) TODO PM or SC will label this as `onboarding` and complete the checklist items.
 
 To offboard team members from an organization that is a TODO General Member, please:
