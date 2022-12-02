@@ -3,74 +3,88 @@
 The following `.md` shares an overview of the TODO Group's structure, including existing communication channels, meetings, regional chapters and resources. 
 A generated mind map screenshot has been added for better visualization of the different items.
 
-## 🏞 2022 Screenshot
+## 🏞 2023 Screenshot
 
-![structure-mindmap](https://user-images.githubusercontent.com/43671777/162213426-520f5f7b-612f-46dc-9243-cccbc24c5539.png)
+![ScreenshotMarkmap](https://user-images.githubusercontent.com/43671777/205315993-ace91b80-c1a0-4d78-a99c-02efd30e97b5.png)
+
 
 *** 
-## 🧩 2022 Structure 
+# 2023 Structure 
 ## Communication Channels
-- Mailing Lists
-  - General Member 
-  - Community
-- Newsletter
-  -  OSPO News
-- Forum
-  - GH Discussions
-    - Label Compliance / Security
-    - Label Education / Learning
-    - Label Tools
-    - Label Structure strategy
-    - Label Proposals
-    
-- Chat
-  - Slack
-    - `Community` Space
-    - `General Member` Space
-    - `Europe Chapter` Space
-    - `APAC Chapter` Space
-    - `Topics` Space
-    - `GH Projects` Space
-    - `Guides` Space
 
+- OSPOlogy - Community
+  - Mailing List
+      - OSPOlogy Community
+  - Forum
+      - GH Discussions
+  -  Newsletter
+       -  OSPONews
+  - Forum
+    - GH Discussions
+      - OSPO Discussions
+      - OSPO Stories
+      - Community Proposals
+      - OSPO Wishlist
+      - Announcements
+      - Pools    
+  - Chat
+    - Slack
+      - `General` Space
+      - `OSPOlogy Chapter`Space
+        - Europe
+        - APAC
+        - Local Chapters
+          - Geneva
+          - Netherlands
+          - Helsinki
+      - `Topics` Space
+    
+- General Members
+  - Mailing List
+    - TODO General Member
+    
 ## Virtual meetings 
 
-- TODO Users
-  - OSPOlogy
-    - Global
-  - TODO Community Syncs
-    - Europe Chapter
-    - APAC Chapter
-  - TODO General Member Sync
-    - Touchpoints
-- TODO Contributors
-  - Work Day Activity
-    - APAC & EMEA
-    - AMER
+- OSPOlogy
+    - OSPOlogy Webinars - Global
+    - OSPOlogy Europe Chapter
+    - OSPOlogy APAC Chapter
+    - Contributors & Maintainers
+        - OSPOlogy APAC & EMEA
+        - OSPology AMER
+      
+- TODO General Member
+    - Touchpoints (AMER timezone) - Fridays
+    - Touchpoints (EMEA & APAC timezone) - Thursdays
 
 ## In-person meetings
 
-- Events
+- OSPOlogy Live Europe
+  - Sweden Workshop (2022)
+  - Amsterdam Workshop (2023)
+
+- OSPO Events
   - OSPOCon NA
   - OSPOCon Europe
   - OSPOCon Japan
 
-- Informal gatherings
+- Informal gatherings / OSPO Local Meetups
 
   - KubeCon: OSPO BoF + Happy Hour
+  - OSPO Local Meetup Helsinki (English)
+  - OSPO Local Meetup Geneva (French)
 
 
 ## Resources
 
 - OSPO Education
-
+  - OSPOlogy webinars (recorded videos)
   - TODO Guides
   - OSPO Use Cases
   - TODO Whitepapers
     - General
-    - TODO Chapters
+    - OSPOlogy Chapters
   - OSPO Maturity Model
-  - OSPO Archetypes / Personas
   - OSPO Landscape
   - OSPO Mind Map
 - OSPO Training
@@ -86,11 +100,13 @@ A generated mind map screenshot has been added for better visualization of the d
     - 2019
     - 2020
     - 2021
-    - WIP: 2022
+    - 2022
   - The Evolution of the OSPO
+  - A Deep Dive Into OSPOs
 
 ## Social Media
 
 - LinkedIn
+- Mastodon
 - Twitter
 - Youtube
