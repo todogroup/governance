@@ -1,9 +1,14 @@
+= Charter of The TODO Group
+
+:toc:
+
  . *Mission of the TODO Group (“TODO”).*
  The TODO Group’s mission is to identify key policy and process choices related to corporate open source engagement and create tools and educational materials that promote best practices around such engagements.
  . *Membership*
-The TODO Group membership is composed of individuals deeply involved in running open source programs setup to drive open source across divisions and product lines within their company. These individuals have learned from practical experience what it takes to successfully engage in or create open source projects and build effective internal open source programs that guide how developers in their company engage in external communities. +
+The TODO Group membership is composed of individuals deeply involved in running open source programs setup to drive open source across divisions and product lines within their organization. These individuals have learned from practical experience what it takes to successfully engage in or create open source projects and build effective internal open source programs that guide how developers in their company engage in external communities. +
 The TODO Group shall be composed of the General Members and a Steering Committee. Anyone may participate as a General Member as long as they meet the General Member Qualifications. At such time as a General Member no longer meets the qualifications, their General Member status will be rescinded.
  .. General Member Qualifications: An individual may be qualified to join TODO Group as a General Member if they:
+ ... Are an employee of an organization that is a member of The Linux Foundation at any membership level.
  ... Are an employee of an organization with development teams that use or contribute to open source projects across multiple divisions, products, or departments,
  ... in a role that manages, oversees, or guides the organization’s policies and contributions to open source projects (an “Open Source Program Office”),
  ... and the organization does not derive a significant portion of its revenue as a solution provider to other OSPOs. +
@@ -31,11 +36,17 @@ The TODO Group shall be composed of the General Members and a Steering Committee
  ... If any committee member should resign or otherwise be unable to complete their term for any reason, with more than six (6) months remaining in their term, the remaining committee members shall appoint a replacement member. For election or appointment purposes, that member's term will end when the outgoing member's term would have ended.
  ... If any committee member should resign or otherwise be unable to complete their term for any reason, with six (6) months or fewer remaining in their term, their position will be left unfilled until the regularly scheduled election or appointment process for that position.
  ... Elections shall be run using the Condorcet-IRV method through the Cornell online service (+++<u>+++http://civs.cs.cornell.edu/+++</u>+++). The methodology or service used in future elections may be changed via a five (5) member approval vote of current members of the committee at that time.
+ .. Removal:
+ ... Steering Committee members shall qualify for removal for:
+ .... Violation of the TODO Group Code of Conduct.
+ .... Inexcused absence from two (2) consecutive Steering Committee meetings.
+ .... Regular non-participation in Steering Committee votes and activities via email, real-time chat, or in person.
+ ... The Steering Committee may choose to remove qualifying members by a majority vote of all remaining current members.
  .. Any issues that the Steering Committee is unable to resolve shall be referred to The Linux Foundation for resolution.
  . *Officers*
-The Steering Committee shall elect a Chairperson, and if so desired, may elect such other officers as it may choose. All officers shall be elected annually. There are no limits on the number of terms an officer may serve.
+The Steering Committee shall elect a Chairperson and, if so desired, may elect such other officers as it may choose. All officers shall be elected annually. There are no limits on the number of terms an officer may serve.
  . *Voting*
-Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or IRC. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person and/or by conference call, when a quorum is so present. Quorum shall be met when at least five (5) members of the Steering Committee are present. Any vote may be taken without a meeting electronically but shall require a majority of the entire Steering Committee to pass.
+Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or real-time chat. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person and/or by conference call, when a quorum is so present. Quorum shall be met when at least five (5) members of the Steering Committee are present. Any vote may be taken without a meeting electronically but shall require a majority of the entire Steering Committee to pass.
  . *Working Groups*
 The TODO Group will host Working Groups for members to contribute to that are intended to accelerate its mission. Initial Working Groups are expected to cover topics including, but not limited to:
  * Well documented software to facilitate the management of open source software engagement by an organization
@@ -46,15 +57,15 @@ The TODO Group will host Working Groups for members to contribute to that are in
  ... Meetings will occur at least once per quarter.
  ... Details of meeting mechanisms and instructions for attendance will be published reasonably in advance to all members in good standing.
  .. Communication mechanisms
- ... All public communication not during meetings will take place over the public group mailing list(s) accessible to members and non-members alike.
- ... All private communication not during meetings will take place over the private group mailing list for members only.
+ ... All public communication not during meetings will take place over the public group mailing list(s), real-time chat, and GitHub and will be accessible to members and non-members alike.
+ ... All private communication not during meetings will take place over the private group mailing list, real-time chat, and GitHub and access will be limited to members only.
  .. Level of confidentiality
  ... All communication during meetings will be under+++<u>+++ Chatham House Rules+++</u>++++++<u>+++.+++</u>+++
- ... All communication on the private mailing list will be restricted to members only and not permitted for public distribution.
- ... All communication on the public mailing list will be public.
+ ... All private communication via all media as defined above will be restricted to members only and not permitted for public distribution.
+ ... All communication via all media as defined above will be public.
  . *Antitrust Guidelines*
  .. All members shall abide by The Linux Foundation Antitrust Policy available at: https://www.linuxfoundation.org/antitrust-policy/.
- .. All members shall encourage open participation from any organization able to meet the membership requirements, regardless of competitive interests. Put another way, the TODO Group shall not seek to exclude members based on any criteria, requirements or reasons other than those used for all members.
+ .. All members may encourage open participation from any organization able to meet the membership requirements, regardless of competitive interests. Put another way, the TODO Group shall not seek to exclude members based on any criteria, requirements, or reasons other than those used for all members.
  . *General Rules and Operations*.
 The TODO Group shall be conducted so as to:
  .. engage in the work of the project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of The Linux Foundation in the open source software community;
@@ -66,7 +77,7 @@ The TODO Group shall be conducted so as to:
  .. Under no circumstances shall The Linux Foundation be expected or required to undertake any action on behalf of TODO that is inconsistent with the tax exempt purpose of The Linux Foundation.
  . *Intellectual Property Policy*
  .. All contributions shall be accompanied by a Developer Certificate of Origin sign-off (http://developercertificate.org).
- .. All new inbound code contributions to TODO shall be made under the Apache License, Version 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0) or an alternative OSI-approved open source license clearly identified by the contributor in the contribution in accordance with the DCO. All documentation will be contributed to and made available to TODO under the Creative Commons Attribution 4.0 International License (available athttp://creativecommons.org/licenses/by/4.0/) or an alternative OSI-approved open source license clearly identified by the contributor in the contribution in accordance with the DCO.
+ .. All new inbound code contributions to TODO shall be made under the Apache License, Version 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0) or an alternative OSI-approved open source license clearly identified by the contributor in the contribution in accordance with the DCO. All documentation will be contributed to and made available to TODO under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/) or an alternative OSI-approved open source license clearly identified by the contributor in the contribution in accordance with the DCO.
  .. All outbound code will be made available under the license for the inbound contribution.
  .. Any TODO member may raise an objection or concern regarding any contribution made under an alternative license to the Steering Committee for resolution.
 
