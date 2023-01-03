@@ -29,9 +29,10 @@ TODO: Publish this info on the website to de-duplicate content
 
 ## Getting started
 
-- Review the existing GitHub repos in the TODO Group org's [`README.md`](https://github.com/todogroup)
-- Read TODO Group [FAQ](https://todogroup.org/faq/)
+- Review TODO Group [Structure](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure)
+- Read [TODO Strategic Goals](https://github.com/todogroup/governance/blob/main/goals.md)
 - Read the [TODO Charter](https://github.com/todogroup/governance/blob/main/CHARTER.adoc)
+- Review the existing GitHub repos in the TODO Group org's [`README.md`](https://github.com/todogroup)
 
 ### Contribution guides
 
@@ -41,8 +42,10 @@ Here are some helpful guides to get you started:
 - [OSPO Case Study](https://todogroup.org/guides/casestudies/todo-contribution-guidelines/)
 - [TODO Guides](https://todogroup.org/guides/todo-guides-contribution-guidelines/)
 - [Whitepapers](https://todogroup.org/guides/whitepaper-guidelines/)
-- [OSPOlogy Meetings](https://github.com/todogroup/ospology/tree/main/meetings#what-are-ospology-monthly-meetings)
+- [OSPOlogy Webinars](https://github.com/todogroup/ospology/tree/main/meetings#what-are-ospology-monthly-meetings)
 - [OSPO Survey](https://github.com/todogroup/osposurvey/tree/master/2022#how-to-contribute)
+
+> TODO has specific [working hours](https://github.com/todogroup/working-hours) to work on general OSPO content (e.g OSPO newsletter, OSPO mind map, etc), as well as specific working groups (e.g OSPO Career Path, Employee Engagement Guide, CHAOSS OSPO Metrics, etc). [TODO Community Calendar](https://todogroup.org/community/) shows when each of these calls happens during the month.
 
 ## Communication channels
 
@@ -50,9 +53,9 @@ Here are some helpful guides to get you started:
 
 - [OSPO Forum Discussions](https://github.com/todogroup/ospology/discussions)
 
-### Newsletters
+### Newsletter
 
-Issues of the [OSPO Newsletter](https://www.getrevue.co/profile/osponews) are
+Issues of the [OSPO Newsletter](https://ospo-news.ghost.io/) are
 publicly available, but you can also subscribe to receive it via email!
 
 ### Registration required
@@ -66,11 +69,13 @@ to either see or interact with content e.g., Slack, LF Community Platform, GitHu
 ### Social media
 
 - [Twitter](https://twitter.com/todogroup)
+- Mastodon
 - [LinkedIn](https://www.linkedin.com/company/todo-group/)
+- [Youtube](https://www.youtube.com/@ospology)
 
 ### GitHub
 
-- Verify membership to [TODO Group GitHub Organization](https://github.com/orgs/todogroup/people)
+- Verify `core team` membership to [TODO Group GitHub Organization](https://github.com/orgs/todogroup/people)
 
 ### General Member channels
 
@@ -88,7 +93,8 @@ RSVP for the following events:
 
 ### General Member calls
 
-- General Members Touchpoint (an invite is sent once you are added to the TODO private mailing list): Bi-weekly informal meetings on Fridays
+- General Members Touchpoint AMER (an invite is sent once you are added to the TODO private mailing list): Bi-weekly informal meetings on Fridays
+- General Members Touchpoint EMEA & APAC (an invite is sent once you are added to the TODO private mailing list): Bi-weekly informal meetings on Thursdays
 - General Members AMA session (an invite is sent once you are added to the TODO private mailing list): Quarterly on mondays
 
 [todo-pm]: https://github.com/anajsana
