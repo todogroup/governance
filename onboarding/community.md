@@ -30,8 +30,8 @@ TODO: Publish this info on the website to de-duplicate content
     * 🌅 OSPO Landscape view: https://github.com/anajsana/ospolandscape
     * ⚙️ OSPO and OS management tooling: https://github.com/todogroup/awesome-ospo
     * 📚 OSPO 101 course: https://github.com/todogroup/ospo101
-    
-* Read TODO Group FAQ
+   
+* Review TODO Group [Structure](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure)
 
 ### 📝 Contribution guides
 
@@ -52,7 +52,7 @@ Here are some helpful guides to get you started:
 
 ### Newsletters
 
-Issues of the [OSPO Newsletter](https://www.getrevue.co/profile/osponews) are
+Issues of the [OSPO Newsletter](https://ospo-news.ghost.io/) are
 publicly available, but you can also subscribe to receive it via email!
 
 ### Registration required
@@ -66,7 +66,9 @@ to either see or interact with content e.g., Slack, LF Community Platform, GitHu
 ### Social media
 
 - [Twitter](https://twitter.com/todogroup)
+- Mastodon
 - [LinkedIn](https://www.linkedin.com/company/todo-group/)
+- Youtube
 
 ### GitHub
 
@@ -79,9 +81,9 @@ RSVP for the following Networking meetings:
 
 - [Global Community Meetings: OSPOlogy](https://community.linuxfoundation.org/todo-group/) (Monthly on Wednesdays)
 
-- Regional Sync calls
+- Regional OSPOlogy Sync calls
 
-    - [EU Chapter](https://community.linuxfoundation.org/todo-group-europe/) (Monthly on Thursdays)
+    - [Europe Chapter](https://community.linuxfoundation.org/todo-group-europe/) (Monthly on Thursdays)
     - [APAC Chapter](https://github.com/todogroup/ospology/blob/main/meetings/Sync%20Chapters/APAC-Sync.md) (Monthly on Mondays)
 
 Contributor meetings:
