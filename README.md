@@ -19,13 +19,13 @@ The Steering Committee shall be elected for their expertise and contribution to 
 
 | Name | Company | Elected/Appointed | Term |
 | --- | --- | --- | --- |
-| [Dawn Foster](https://github.com/geekygirldawn) | VMware | Elected | 2021-01-01 to 2022-12-31 |
-| [Stephen Jacobs](https://github.com/itprofjacobs) | RIT | Appointed | 2021-01-01 to 2022-12-31 |
-| [Stephen Augustus](https://github.com/justaugustus) | Cisco | Appointed | 2022-01-01 to 2022-12-31 |
+| [Leslie Hawthorn](https://github.com/lhawthorn) | RedHat | Elected | 2023-01-01 to 2024-12-31 |
+| [Georg Kunz ](https://github.com/gkunz) | Ericsson | Appointed | 2023-01-01 to 2024-12-31 |
+| [Annania Melaku](https://github.com/annania) | F5 | Appointed | 2023-01-01 to 2024-12-31 |
 | [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2022-01-01 to 2023-12-31 |
 | [Shilla Saebi](https://github.com/shillasaebi) | Comcast | Appointed | 2022-01-01 to 2023-12-31 |
 | [Thomas Steenbergen](https://github.com/tsteenbe) | EPAM | Elected | 2022-01-01 to 2023-12-31 |
-| [VM (Vicky) Brasseur](https://github.com/vmbrasseur) | Wipro | Elected | 2022-01-01 to 2023-12-31 |
+| [VM (Vicky) Brasseur](https://github.com/vmbrasseur) | - | Elected | 2022-01-01 to 2023-12-31 |
 
 ## 🧩 About TODO structure
 
