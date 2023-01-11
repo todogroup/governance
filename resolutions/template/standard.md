@@ -18,10 +18,10 @@ That the committee {approves/declines the proposed action}.
 
 ## Vote Results
 
-- Ashley Wolf - {approve/decline/abstain/absent}
-- Leslie Hawthorn - {approve/decline/abstain/absent}
-- Georg Kunz - {approve/decline/abstain/absent}
 - Annania Melaku - {approve/decline/abstain/absent}
+- Ashley Wolf - {approve/decline/abstain/absent}
+- Georg Kunz - {approve/decline/abstain/absent}
+- Leslie Hawthorn - {approve/decline/abstain/absent}
 - Shilla Saebi - {approve/decline/abstain/absent}
 - Thomas Steenbergen - {approve/decline/abstain/absent}
 - VM (Vicky) Brasseur - {approve/decline/abstain/absent}
