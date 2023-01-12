@@ -1,19 +1,35 @@
 # 🧩 TODO Strategic Goals
 
-As a result of the discussion from September's Steering Committee meeting, a set of strategic goals for 2021 were defined and commented in the following deck:
+Bellow is a set of yearly goals to the TODO Group for review and sign-off by the Steering Committee in order to let the TODO Group shape the program and execute. The goals will be revisited and updated yearly.
 
-* [Strategic Goals 2022](#proposed-2022)
-* [Strategic Goals 2021](https://docs.google.com/presentation/d/1IWFi7SMFBpjRq6xkaAu0dnsrDJ4KKCuTVj0HGA_uUyg/edit?usp=sharing)
+# 📌 [Proposed] 2023
 
-Based on this, we would like to bring the goals to the TODO Group for review and sign-off by the Steering Committee in order to let the TODO Group shape the program and execute.
+> IMPORTANT: 2023 GOALS IS A WIP LIST
 
-The goals will be revisited and updated yearly.
+## ➡️ Cultivate growth and adoption of OSPOs
 
-# 📌[PROPOSED] 2022
+- Make easier for the community and general members to produce high quality OSPO Resources
+- Define processes to help the formation and growth of Working Groups
+- Foster OSPO Panel discussions in the community
+
+## ➡️ Grow the community
+
+- Champion community efforts: work on creation, selection criteria and responsibilities for *OSPO Ambassadors*
+- Foster both, global and local OSPO Initiatives
+- Cultivate relationships with other communities across regions and sectors
+
+
+## ➡️ Create value for community participants and general members
+
+- Design survey questionnaire to gather feedback
+- Maintain and sustain geographical availability
+- Update TODO Charter to match with current TODO Structure (OSPOlogy, OSPO Associates, TODO General Members and Steering Committee)
+- Define processes to review working group effors and archive inactive initatives
+
+# 📌 2022
 
 2022 Strategic Goals have been divided between TODO Steering Committee and LF Staff goals. Please note that some of these goals may be the same for both. 
 
-## Steering Committee SG:
 
 ### ➡️ Cultivate growth and adoption of OSPOs
 
@@ -31,32 +47,6 @@ The goals will be revisited and updated yearly.
 - Improve and refresh TODO Website
 - Increase geographical availability 
 - Assess TODO tooling (slack, mailing lists, github)
-
-
-## LF Staff SG:
-
-### ➡️ Cultivate growth and adoption of OSPOs
-
-- Release at least 6 new OSPO case studies
-- Launch 6 new OSPO guides
-- Host 8 OSPOlogy sessions
-- Build out and run OSPO Survey 2022
-- Create and publish a OSPO Maturity Model
-
-### ➡️ Grow the membership base
-
-- Grow TODO membership by 20%
-
-### ➡️ Create value for all members
-
-- Improve and refresh TODO Website
-- Run 2 TODO Satisfaction Surveys to get feedback, >80% satisfaction
-- Host at least 2 OSPOCons
-- Host first OSPOCon in APAC
-- Increase geographical availability 
-- Assess TODO tooling (slack, mailing lists, github)
-
-> TBD: We will soon open a TODO Strategic goals Wishlist for 2023, so (1) the TODO Community can share their ideas for next year and (2) we have a place to store the ideas that can be accomplished for 022
 
 ## 📌 2021
 
