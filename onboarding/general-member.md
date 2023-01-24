@@ -86,10 +86,13 @@ to either see or interact with content e.g., Slack, LF Community Platform, GitHu
 
 ### Public calls
 
-RSVP for the following events:
+All public calls are in the TODO Community Calendar (Public): https://todogroup.org/community/
 
-- [OSPOlogy Community Calls](https://community.linuxfoundation.org/todo-group/) (Monthly on Wednesdays)
-- TODO [EU Sync Meetings](https://community.linuxfoundation.org/todo-group-europe/) (Monthly on Thursdays)
+- [OSPOlogy Global Webinars](https://community.linuxfoundation.org/todo-group/) (Monthly on Wednesdays)
+- [OSPOlogy Europe Sync Meetings](https://community.linuxfoundation.org/todo-group-europe/) (Monthly on Thursdays)
+- OSPOlogy APAC Sync Meetings (Monthly on Mondays)
+- Working Groups
+- Work Day Calls
 
 ### General Member calls
 
