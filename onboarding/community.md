@@ -1,11 +1,11 @@
-# 📖 TODO Community Onboarding
+# 📖 OSPOlogy Community Onboarding
 
-Welcome to the TODO Group!
+Welcome to the OSPology!
 
-If you are new to TODO Group Community, this guide should provide helpful onboarding resources. If you run into any issues during the onboarding process, 
+If you are new to OSPOlogy Community, this guide should provide helpful onboarding resources. If you run into any issues during the onboarding process, 
 please reach out to the TODO Group Program Manager (@anajsana).
 
-- [📖 TODO Community Onboarding](#-todo-community-onboarding)
+- [📖 OSPOlogy Community Onboarding](#-todo-community-onboarding)
   - [🙋 Getting started](#-getting-started)
     - [📝 Contribution guides](#-contribution-guides)
   - [💬 Communication channels](#-communication-channels)
@@ -25,17 +25,17 @@ TODO: Publish this info on the website to de-duplicate content
 
 * Review the existing GitHub repos in the TODO Group org's README.md. Popular ones are:
 
-    * 🦄 *Beginning the OSPO journey* networking & resources: https://github.com/todogroup/ospology
+    * 🦄 Networking & OSPO Artifacts: https://github.com/todogroup/ospology
     * 💻 TODO Website (Guides, courses, end-user use cases and documentation): https://github.com/todogroup/todogroup.org
     * 🌅 OSPO Landscape view: https://github.com/anajsana/ospolandscape
     * ⚙️ OSPO and OS management tooling: https://github.com/todogroup/awesome-ospo
     * 📚 OSPO 101 course: https://github.com/todogroup/ospo101
    
-* Review TODO Group [Structure](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure)
+* Review TODO Group / OSPOlogy [Structure](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure)
 
 ### 📝 Contribution guides
 
-Are you a first-time contributor to TODO Group?
+Are you a first-time contributor to TODO Group / OSPOlogy?
 Here are some helpful guides to get you started:
 
 - [OSPO Case Study](https://todogroup.org/guides/casestudies/todo-contribution-guidelines/)
@@ -88,7 +88,7 @@ RSVP for the following Networking meetings:
 
 Contributor meetings:
 
-- [Work Day Activities](https://github.com/todogroup/work-day-activities#schedule-and-meetings)(AMER and APAC & EMEA monthly calls)
+- [Work Day Activities](https://github.com/todogroup/work-day-activities#schedule-and-meetings)(APAC & EMEA monthly calls)
 
 
 [todo-pm]: https://github.com/anajsana
