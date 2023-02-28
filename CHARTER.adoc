@@ -40,7 +40,7 @@ The TODO Group shall be composed of the General Members and a Steering Committee
  ... Steering Committee members shall qualify for removal for:
  .... Violation of the TODO Group Code of Conduct.
  .... Inexcused absence from two (2) consecutive Steering Committee meetings.
- .... Regular non-participation in Steering Committee votes and activities via email, real-time chat, or in person.
+ .... Non-participation in Steering Committee votes and activities via email, real-time chat, or in person for more than consecutive 8 weeks.
  ... The Steering Committee may choose to remove qualifying members by a majority vote of all remaining current members.
  .. Any issues that the Steering Committee is unable to resolve shall be referred to The Linux Foundation for resolution.
  . *Officers*
