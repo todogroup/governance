@@ -39,12 +39,12 @@ The Community can file proposals via the OSPO Forum. [The OSPO forum is at the o
 
 ### How to open a new proposal
 
-1) Go to [Dicussions](https://github.com/todogroup/ospology/discussions)
+1) Go to [Discussions](https://github.com/todogroup/ospology/discussions)
 2) Start a new Discussion
 3) Select the category `Ideas` or `Poll`
 4) Provide a description of the proposal as well as additional assets to successfully implement the proposal such as frameworks, timelines or action items required.
 5) TODO PM will label the new discussion as `proposal`
-6) Steering Committee will review on a regular basis the discussions wihtin the [proposal tag](https://github.com/todogroup/ospology/discussions?discussions_q=label%3Aproposal) and give input.
+6) Steering Committee will review on a regular basis the discussions within the [proposal tag](https://github.com/todogroup/ospology/discussions?discussions_q=label%3Aproposal) and give input.
 
 ## 📚 Manage general member teams and individuals
 
