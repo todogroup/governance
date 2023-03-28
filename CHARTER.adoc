@@ -58,7 +58,7 @@ The TODO Group will host Working Groups for members to contribute to that are in
  ... Details of meeting mechanisms and instructions for attendance will be published reasonably in advance to all members in good standing.
  .. Communication mechanisms
  ... All public communication not during meetings will take place over the public group mailing list(s), real-time chats, issue trackers, or source code management systems and will be accessible to members and non-members alike.
- ... All private communication not during meetings will take place over the private group mailing list, real-time chat, and GitHub and access will be limited to members only.
+ ... All private communication not during meetings will take place over the private group mailing list, real-time chats, issue trackers and source code management systems, and access will be limited to members only.
  .. Level of confidentiality
  ... All communication during meetings will be under+++<u>+++ Chatham House Rules+++</u>++++++<u>+++.+++</u>+++
  ... All private communication via all media as defined above will be restricted to members only and not permitted for public distribution.
