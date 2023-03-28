@@ -6,7 +6,7 @@
  The TODO Group’s mission is to identify key policy and process choices related to corporate open source engagement and create tools and educational materials that promote best practices around such engagements.
  . *General Membership*
 The TODO Group membership is composed of individuals deeply involved in running open source programs, tasked to drive open source across divisions and product lines within their organization. These individuals have learned from practical experience what it takes to successfully engage in or create open source projects and build effective internal open source programs that guide how developers in their company engage in external communities. +
-The TODO Group shall be composed of the General Members and a Steering Committee. Anyone may participate as a General Member as long as they meet the General Member Qualifications. At such time as a General Member no longer meets the qualifications, their General Member status will be rescinded.
+The TODO Group's general membership shall be composed of the General Members and a Steering Committee. Anyone may participate as a General Member as long as they meet the General Member Qualifications. At such time as a General Member no longer meets the qualifications, their General Member status will be rescinded.
  .. General Member Qualifications: An individual may be qualified to join TODO Group as a General Member if they:
  ... Are an employee of an organization that is a member of The Linux Foundation at any membership level.
  ... Are an employee of an organization with development teams that use or contribute to open source projects across multiple divisions, products, or departments,
