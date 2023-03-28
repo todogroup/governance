@@ -1,20 +1,20 @@
-= Charter of The TODO Group
+= Charter of The TODO Group General Members (GM) and Steering Committee (SC)
 
 :toc:
 
  . *Mission of the TODO Group (“TODO”).*
- The TODO Group’s mission is to identify key policy and process choices related to corporate open source engagement and create tools and educational materials that promote best practices around such engagements.
+ The TODO Group’s primary focus is to identify key policy and process choices related to corporate open source engagement and create tools and educational materials that promote best practices around such engagements.
  . *General Membership*
-The TODO Group membership is composed of individuals deeply involved in running open source programs, tasked to drive open source across divisions and product lines within their organization. These individuals have learned from practical experience what it takes to successfully engage in or create open source projects and build effective internal open source programs that guide how developers in their company engage in external communities. +
-The TODO Group's general membership shall be composed of the General Members and a Steering Committee. Anyone may participate as a General Member as long as they meet the General Member Qualifications. At such time as a General Member no longer meets the qualifications, their General Member status will be rescinded.
+The TODO Group General Members are composed of individuals deeply involved in running open source offices, tasked to drive open source across divisions and product lines within their organization. These individuals have learned from practical experience what it takes to successfully engage in or create open source offices and build effective internal open source education and initiatives that guide how developers and non-developers in their organization engage in external communities. +
+The TODO Group's general membership shall be composed of the General Members. Anyone may participate as a General Member as long as they meet the General Member Qualifications. At such time as a General Member no longer meets the qualifications, their General Member voting rights and general member bi-weekly meetings will be rescinded (they will become emeritus members).
  .. General Member Qualifications: An individual may be qualified to join TODO Group as a General Member if they:
- ... Are an employee of an organization that is a member of The Linux Foundation at any membership level.
- ... Are an employee of an organization with development teams that use or contribute to open source projects across multiple divisions, products, or departments,
- ... in a role that manages, oversees, or guides the organization’s policies and contributions to open source projects (an “Open Source Program Office”),
+ ... Are an employee, worker, team or staff member of an organization that is a member of The Linux Foundation at any membership level.
+ ... Are an employee, worker, team or staff member of an organization with development teams that use or contribute to open source projects across multiple divisions, products, or departments,
+ ... in a role that manages, oversees, or guides the organization’s policies, processes and contributions to open source projects
  ... and the organization does not derive a significant portion of its revenue as a solution provider to other OSPOs. +
  .. General Members shall be entitled to:
  ... Participate in TODO Group Working Groups, meetings, initiatives, events and any other activities;
- ... identify their company as a member or participant in the TODO Group; and
+ ... identify their organization as a member or participant in the TODO Group; and
  ... nominate one individual for election to the Steering Committee.
  . *Steering Committee*
  .. Responsibility: The Steering Committee shall be responsible for:
@@ -48,14 +48,14 @@ The Steering Committee shall elect a Chairperson and, if so desired, may elect s
  . *Voting*
 Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or real-time chat. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person and/or by conference call, when a quorum is so present. Quorum shall be met when at least five (5) members of the Steering Committee are present. Any vote may be taken without a meeting electronically but shall require a majority of the entire Steering Committee to pass.
  . *Working Groups*
-The TODO Group will host Working Groups for members to contribute to that are intended to accelerate its mission. Initial Working Groups are expected to cover topics including, but not limited to:
- * Well documented software to facilitate the management of open source software engagement by an organization
- * Blog and wiki articles providing recommendations on how to manage open source engagement by an organization
+The TODO Group will host Working Groups for everyone, including its general members to contribute to that are intended to accelerate its mission. Initial Working Groups are expected to cover topics including, but not limited to:
+ * Well documented software to facilitate the management of open source software engagement and operations by an organization
+ * Blog and wiki articles providing recommendations on how to manage open source operations and implement open source usage and contributions best practices by an organization
  . *Operating Principles*
  .. TODO member meeting mechanisms and expected frequency
- ... Member meetings may take place via electronic means or face-to-face. Face-to-face meeting locations and times will be set by the Steering Committee.
- ... Meetings will occur at least once per quarter.
- ... Details of meeting mechanisms and instructions for attendance will be published reasonably in advance to all members in good standing.
+ ... General Member meetings may take place via electronic means or face-to-face. Face-to-face meeting locations and times will be set by the Steering Committee.
+ ... General Member Meetings will occur at least once per quarter.
+ ... Details of meeting mechanisms and instructions for attendance will be published reasonably in advance to all general members in good standing.
  .. Communication mechanisms
  ... All public communication not during meetings will take place over the public group mailing list(s), real-time chats, issue trackers, or source code management systems and will be accessible to members and non-members alike.
  ... All private communication not during meetings will take place over the private group mailing list, real-time chats, issue trackers and source code management systems, and access will be limited to members only.
