@@ -79,7 +79,7 @@ The TODO Group shall be conducted so as to:
  .. All contributions shall be accompanied by a Developer Certificate of Origin sign-off (http://developercertificate.org).
  .. All new inbound code contributions to TODO shall be made under the Apache License, Version 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0) or an alternative OSI-approved open source license clearly identified by the contributor in the contribution in accordance with the DCO. All documentation will be contributed to and made available to TODO under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/) or an alternative OSI-approved open source license clearly identified by the contributor in the contribution in accordance with the DCO.
  .. All outbound code will be made available under the license for the inbound contribution.
- .. Any TODO member may raise an objection or concern regarding any contribution made under an alternative license to the Steering Committee for resolution.
+ .. Any TODO General Member may raise an objection or concern regarding any contribution made under an alternative license to the Steering Committee for resolution.
 
  . *Amendments and Notice*
  .. This Charter may be amended, and additional rules may be adopted, at any time by a two-thirds majority of all then serving Steering Committee members with final approval from The Linux Foundation.
