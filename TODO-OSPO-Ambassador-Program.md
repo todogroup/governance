@@ -15,7 +15,7 @@ Program requirements for becoming an official TODO OSPO Ambassador are:
 * Must be 18 years of age or older
 * Must follow [TODO Code Of Conduct](https://todogroup.org/code-of-conduct/)
 * Must comply with [LF antitrust policy](https://www.linuxfoundation.org/legal/antitrust-policy)
-* Must participate in AT LEAST ONE of the following areas of expertise:
+* Must meet AT LEAST ONE of the following criteria:
   * An active contributor to a TODO initiative (OSPOlogy, OSPO Landscape, Website, OSPO Book, etc)
   * A representative from a TODO General Member or OSPO Associate organization
   * An OSPO Local Organizer and/or OSPOlogy Organizer
