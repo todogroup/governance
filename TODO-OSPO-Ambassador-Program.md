@@ -4,7 +4,7 @@ Responsibilities*
 
 The TODO OSPO Ambassador Program encompases a group of community leaders who provide support, training, mentorship, guidance, and rewards to:
 
-* Engage and enable TODO community through local meetups, OSPOlogy meetings, OSPO content, and mentoring
+* Engage and enable the TODO community through local meetups, OSPOlogy meetings, OSPO content, and mentoring
 * Foster strong community collaboration and relationships
 * Attract and onboard new community participants
 * Provide valuable input and feedback to TODO about community programs and initiatives
