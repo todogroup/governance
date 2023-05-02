@@ -32,7 +32,7 @@ As a TOA, you are also eligible for Ambassador specific benefits, such as:
 * Network with equally passionate Ambassadors globally
 * Receive support from the TODO and LF community platform for hosting events, speaking, creating content, or mentoring others
 * Receive discount codes for you to attend LF sponsored events
-* Enjoy exclusive swag, and giveaways
+* Enjoy exclusive swag and giveaways
 * Receive a TODO OSPO Ambassadors Credly badge issued by teh Linux Foundation
 
 ## 🙋‍♀️ Frequent Asked Questions:
