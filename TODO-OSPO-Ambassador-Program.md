@@ -49,7 +49,7 @@ No, the TODO OSPO Ambassador is not a paid position. However, TOAs will receive 
 * Ambassadorship Start: November 1st, 2023
 
 ### How long does my ambassadorship last?
-All ambassadorships will be a two-year commitment. An Ambassador accepted in november 2023 will be an Ambassador until november 2025.
+All ambassadorships will be a two-year commitment. For example, an Ambassador accepted in November 2023 will be an Ambassador until November 2025.
 
 ## Who do I contact with questions?
 For questions, please contact info@todogroup.org
