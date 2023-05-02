@@ -2,7 +2,7 @@
 *TODO OSPO Ambassadors (TOAs) are official advocates within TODO helping the OSPO ecosystem
 Responsibilities*
 
-The TODO OSPO Ambassador Program encompases a group of community leaders with support, training, mentorship, guidance, and rewards to:
+The TODO OSPO Ambassador Program encompases a group of community leaders who provide support, training, mentorship, guidance, and rewards to:
 
 * Engage and enable TODO community through local meetups, OSPOlogy meetings, OSPO content, and mentoring
 * Foster strong community collaboration and relationships
