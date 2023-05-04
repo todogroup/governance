@@ -37,8 +37,7 @@ As a TOA, you are also eligible for Ambassador specific benefits, such as:
 
 ## 🙋‍♀️ Frequent Asked Questions:
 ### What is the process for becoming an Ambassador?
-To become an Ambassador, an individual must review and meet the current requirements. We invite you to submit your application for consideration if you meet the requirements 
-[application form via Github issues TBD]
+To become an Ambassador, an individual must review and meet the current requirements. We invite you to [submit your application for consideration](https://github.com/todogroup/governance/issues/new/choose) if you meet the requirements.
 ### Is the TODO OSPO Ambassador (TOAs) a paid position?
 No, the TODO OSPO Ambassador is not a paid position. However, TOAs will receive rewards like limited edition swag and exclusive discounts to LF events for their service.
 
