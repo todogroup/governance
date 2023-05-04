@@ -41,12 +41,6 @@ To become an Ambassador, an individual must review and meet the current requirem
 [application form via Github issues TBD]
 ### Is the TODO OSPO Ambassador (TOAs) a paid position?
 No, the TODO OSPO Ambassador is not a paid position. However, TOAs will receive rewards like limited edition swag and exclusive discounts to LF events for their service.
-### Important Dates
-
-* Application Opens: September 1st, 2023
-* Application Closes: October 1st, 2023
-* Application Notifications: October 15th,, 2023
-* Ambassadorship Start: November 1st, 2023
 
 ### How long does my ambassadorship last?
 All ambassadorships will be a two-year commitment. For example, an Ambassador accepted in November 2023 will be an Ambassador until November 2025.
