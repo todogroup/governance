@@ -2,7 +2,7 @@
 *TODO OSPO Ambassadors (TOAs) are official advocates within TODO helping the OSPO ecosystem
 ## 🧩 Responsibilities
 
-The TODO OSPO Ambassador Program encompases a group of community leaders who provide support, training, mentorship, guidance, and rewards to:
+The TODO OSPO Ambassador Program encompasses a group of community leaders who provide support, training, mentorship, guidance, and rewards to:
 
 * Engage and enable the TODO community through local meetups, OSPOlogy meetings, OSPO content, and mentoring
 * Foster strong community collaboration and relationships
@@ -13,10 +13,10 @@ The TODO OSPO Ambassador Program encompases a group of community leaders who pro
 ## ✅ Requirements
 Program requirements for becoming an official TODO OSPO Ambassador are:
 * Must be 18 years of age or older
-* Must follow [TODO Code Of Conduct](https://todogroup.org/code-of-conduct/)
+* Must follow the [TODO Code Of Conduct](https://todogroup.org/code-of-conduct/)
 * Must comply with [LF antitrust policy](https://www.linuxfoundation.org/legal/antitrust-policy)
 * Must meet AT LEAST ONE of the following criteria:
-  * An active contributor to a TODO initiative (OSPOlogy, OSPO Landscape, Website, OSPO Book, etc)
+  * An active contributor to a TODO initiative (OSPOlogy, OSPO Landscape, Website, OSPO Book, etc.)
   * A representative from a TODO General Member or OSPO Associate organization
   * An OSPO Local Organizer and/or OSPOlogy Organizer
   * An active leader in the TODO community with a minimum of 1 year of experience in:
@@ -30,8 +30,8 @@ Program requirements for becoming an official TODO OSPO Ambassador are:
 As a TOA, you are also eligible for Ambassador specific benefits, such as:
 * Gain recognition for your expertise and contributions to the community
 * Network with equally passionate Ambassadors globally
-* Receive support from the TODO and LF community platform for hosting events, speaking, creating content, or mentoring others
-* Receive discount codes for you to attend LF sponsored events
+* Receive support from the TODO and LF community platforms for hosting events, speaking, creating content, or mentoring others
+* Receive discount codes for you to attend LF-sponsored events
 * Enjoy exclusive swag and giveaways
 * Receive a TODO OSPO Ambassadors Credly badge issued by the Linux Foundation
 
@@ -50,4 +50,4 @@ For questions, please contact info@todogroup.org
 
 ## 💚 Attribution
 
-This Ambassador Program is adapted from the CNCF Ambassador Program , version 2.0, available at https://www.cncf.io/people/ambassadors/.
+This Ambassador Program is adapted from the CNCF Ambassador Program, version 2.0, available at https://www.cncf.io/people/ambassadors/.
