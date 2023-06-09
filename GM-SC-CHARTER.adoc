@@ -66,7 +66,7 @@ The TODO Group will host Working Groups for everyone, including its general memb
  ... All communication via all media as defined above will be public.
  . *Antitrust Guidelines*
  .. All members shall abide by The Linux Foundation Antitrust Policy available at: https://www.linuxfoundation.org/antitrust-policy/.
- .. All members may encourage open participation from any organization able to meet the membership requirements, regardless of competitive interests. Put another way, the TODO Group shall not seek to exclude members based on any criteria, requirements, or reasons other than those used for all members.
+ .. All members shall encourage open participation from any organization able to meet the membership requirements, regardless of competitive interests. Put another way, the TODO Group shall not seek to exclude members based on any criteria, requirements, or reasons other than those used for all members.
  . *General Rules and Operations*.
 The TODO Group shall be conducted so as to:
  .. engage in the work of the project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of The Linux Foundation in the open source software community;
