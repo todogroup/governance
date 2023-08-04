@@ -14,7 +14,7 @@ If you run into any issues during the onboarding process, please reach out to th
   - [Contribution guides](#contribution-guides)
 - [Communication channels](#communication-channels)
   - [Discussions](#discussions)
-  - [Newsletters](#newsletters)
+  - [Newsletter](#newsletter)
   - [Registration required](#registration-required)
   - [Social media](#social-media)
   - [GitHub](#github)
