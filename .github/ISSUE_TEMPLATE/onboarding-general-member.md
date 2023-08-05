@@ -37,7 +37,7 @@ This is an issue created to onboard new TODO Group General Members.
 
 Ensure that member representatives have joined the following:
 
-- [ ] [TODO Group Slack](https://slack.todogroup.org/)
+- [ ] [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew)
 - [ ] [Community Mailing List](https://docs.google.com/forms/d/e/1FAIpQLSeU0YGM_IJ6gY8E5IIiwXKD_FZi3kAVc4E9_-3dtTDyKMSjdA/viewform)
 
 ### GitHub
