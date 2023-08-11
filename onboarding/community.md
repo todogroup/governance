@@ -5,7 +5,7 @@ Welcome to the OSPology!
 If you are new to OSPOlogy Community, this guide should provide helpful onboarding resources. If you run into any issues during the onboarding process, 
 please reach out to the TODO Group Program Manager (@anajsana).
 
-- [📖 OSPOlogy Community Onboarding](#-todo-community-onboarding)
+- [📖 OSPOlogy Community Onboarding](#-ospology-community-onboarding)
   - [🙋 Getting started](#-getting-started)
     - [📝 Contribution guides](#-contribution-guides)
   - [💬 Communication channels](#-communication-channels)
