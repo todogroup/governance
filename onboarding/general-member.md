@@ -3,7 +3,7 @@
 Welcome to the TODO Group!
 
 This guide should provide your company representatives helpful onboarding
-resources once your [TODO General Membership Application](https://joinnow.todogroup.org/)
+resources once your [TODO General Membership Application](https://todogroup.org/join/)
 has been validated and processed.
 
 An issue should have been created to process your company's membership (via this [template](/.github/ISSUE_TEMPLATE/onboarding-general-member.md)).
@@ -31,7 +31,7 @@ TODO: Publish this info on the website to de-duplicate content
 
 - Review TODO Group [Structure](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure)
 - Read [TODO Strategic Goals](https://github.com/todogroup/governance/blob/main/goals.md)
-- Read the [TODO Charter](https://github.com/todogroup/governance/blob/main/CHARTER.adoc)
+- Read the [TODO Charter](https://github.com/todogroup/governance/blob/main/GM-SC-CHARTER.adoc)
 - Review the existing GitHub repos in the TODO Group org's [`README.md`](https://github.com/todogroup)
 
 ### Contribution guides
