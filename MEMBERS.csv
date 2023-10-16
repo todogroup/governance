@@ -47,11 +47,10 @@ Chan Voong,,Comcast,yes
 Gale McCommons,galemccommons,Comcast,#
 Jeremy Garcia,jeremy-lq,Datadog,yes
 Cornelius Schumacher,cornelius,DB Systel,yes
-Yunbo Wang,,Didi,#
+Yunbo Wang,,Didi,yes
 Luke Faraone,lfaraone,Dropbox,#
-Oleg Nenashev,oleg-nenashev,Dynatrace,#
 David Hirsch,DavidPHirsch,Dynatrace,yes
-Justin Abrahms,justinabrahms,eBay,yes
+#,#,eBay,yes
 Chris Howard,cm-howard,EPAM Systems,yes
 Thomas Steenbergen,tsteenbe,EPAM Systems,#
 Greg Back,gtback,Elastic,yes
