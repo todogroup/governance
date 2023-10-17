@@ -10,9 +10,9 @@ assignees: anajsana
 
 This is an issue created to onboard new TODO Group General Members.
 
-## Company
+## Organization
 
-[COMPANY]
+[Organization]
 
 ### Members
 
@@ -29,9 +29,7 @@ This is an issue created to onboard new TODO Group General Members.
   - company email address
   - GitHub username
   - whether or not the representative is the primary contact for the company
-- [ ] Update the members list to included the collected contact information
-  - [ ] [administration repo](https://github.com/todogroup/administration/MEMBERS.csv)
-  - [ ] [governance repo](/MEMBERS.csv)
+- [ ] Update the members list to included the collected contact information at [governance repo](https://github.com/todogroup/governance/blob/main/MEMBERS.csv)
 
 ## Communication channels
 
@@ -59,7 +57,6 @@ Google Groups should automatically invites members to meetings, but ensure that
 they have invites for the following meetings:
 
 - [ ] General Members Touchpoint
-- [ ] General Members AMA session
 
 ## Resources and initiatives
 
