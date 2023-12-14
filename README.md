@@ -20,18 +20,18 @@ The Steering Committee shall be elected for their expertise and contribution to 
 | Name | Company | Elected/Appointed | Term |
 | --- | --- | --- | --- |
 | [Leslie Hawthorn](https://github.com/lhawthorn) | RedHat | Elected | 2023-01-01 to 2024-12-31 |
-| [Georg Kunz ](https://github.com/gkunz) | Ericsson | Appointed | 2023-01-01 to 2024-12-31 |
+| [Georg Kunz](https://github.com/gkunz) | Ericsson | Appointed | 2023-01-01 to 2024-12-31 |
 | [Annania Melaku](https://github.com/annania) | F5 | Appointed | 2023-01-01 to 2024-12-31 |
-| [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2022-01-01 to 2023-12-31 |
-| [Shilla Saebi](https://github.com/shillasaebi) | Comcast | Appointed | 2022-01-01 to 2023-12-31 |
-| [Thomas Steenbergen](https://github.com/tsteenbe) | EPAM | Elected | 2022-01-01 to 2023-12-31 |
-| [VM (Vicky) Brasseur](https://github.com/vmbrasseur) | - | Elected | 2022-01-01 to 2023-12-31 |
+| [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2024-01-01 to 2026-12-31 |
+| [Brittany Istenes](https://github.com/BrittanyIstenes) | Fannie Mae | Appointed | 2024-01-01 to 2026-12-31 |
+| [Nik Peters](https://github.com/nikpete) | Porsche | Elected | 2024-01-01 to 2026-12-31 |
+| [Stephen Augustus](https://github.com/justaugustus) | Cisco | Elected | 2024-01-01 to 2026-12-31 |
 
 ## 🧩 About TODO structure
 
 The [TODO structure folder](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure) shares an overview of the TODO Group's structure, including existing communication channels, meetings, regional chapters and resources. A generated mind map screenshot has been added for better visualization of the different items.
 
-TODO Group is formed by its *Community Participants* including *OSPO Associates* and *General Members*. TODO Group Community is open to all. Sometimes, there are community participants with an established OSPO or open source initiative who wish to support TODO by becoming a [General Member](https://todogroup.org/join/) and/or [OSPO Associate](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md). Please see [TODO Group overview presentation](https://docs.google.com/presentation/d/1p4dhx0Dg8fZDO8yzp7nWC2r5WHyVH-jjSQM59lkKLdo/edit?usp=sharing) to learn more.
+TODO Group is formed by its *Community Participants* including *OSPO Associates* and *General Members*. TODO Group Community is open to all. Sometimes, there are community participants with an established OSPO or open source initiative who wish to support TODO by becoming a [General Member](https://todogroup.org/about/members/) and/or [OSPO Associate](https://todogroup.org/about/associates/). Please see [TODO Group overview presentation](https://todogroup.org/about/about-us/) to learn more.
 
 ## 🗳 File proposals by the community
 
