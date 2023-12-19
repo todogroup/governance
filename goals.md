@@ -2,9 +2,26 @@
 
 Bellow is a set of yearly goals to the TODO Group for review and sign-off by the Steering Committee in order to let the TODO Group shape the program and execute. The goals will be revisited and updated yearly.
 
-# 📌 [Proposed] 2023
+# 📌 [Proposed] 2024
 
-> IMPORTANT: 2023 GOALS IS A WIP LIST
+> IMPORTANT: 2024 GOALS IS A WIP LIST
+
+## ➡️ Cultivate growth and adoption of OSPOs
+- TBD
+- TBD
+- TBD
+
+## ➡️ Grow the community
+- TBD
+- TBD
+- TBD
+
+## ➡️ Create value for community participants and general members
+- TBD
+- TBD
+- TBD
+
+# 📌 2023
 
 ## ➡️ Cultivate growth and adoption of OSPOs
 
