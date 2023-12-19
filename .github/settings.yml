@@ -25,9 +25,3 @@ teams:
 collaborators:
   - username: caniszczyk
     permission: maintain
-
-  - username: DuaneOBrien
-    permission: maintain
-
-  - username: jeffmcaffer
-    permission: maintain
