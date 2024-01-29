@@ -18,9 +18,9 @@ Andrew Jorgensen,ajorg-aws,Amazon,#
 Alolita Sharma,alolita,Amazon,#
 Nathalie C. Chan King Choy,nathalie-ckc,AMD,yes
 Tomas Evensen,tomasevensen,AMD,#
-Jenny Thayer,jrburcio,Apple,yes
-Tim Kolecke,#,Apple,#
-Arun Gupta,#,Apple,#
+Jenny Thayer,jrburcio,Apple,#
+Tim Kolecke,kolecke,Apple,yes
+Federico Bucci,federicobucchi,Apple,#
 Philippe Robin,,ARM,#
 Chris Lloyd-Jones,Sealjay,Avanade,yes
 Zhongyi Tan,#,Baidu,yes
@@ -34,6 +34,7 @@ Marcel Kurzmann,mkurzman,Bosch.IO,#
 Benjamin VanEvery,asheepapart,Box,#
 Jaxin Shan,jeffwan,ByteDance,#
 Le Ma,lema0601,ByteDance,yes
+Yuchen Jia,#,CAICT,yes
 Zhiqiang Yu,zhiqiang-yu,China Mobile,yes
 Stephen Augustus,justaugustus,Cisco,yes
 Lelia Bray-Musso,lelia,Cisco,#
@@ -88,6 +89,7 @@ Jeffrey Jagoda,jagoda,IBM,#
 Duane O'Brien,DuaneOBrien,Indeed,#
 Rishi Pratap Singh,#,infosys,yes
 Jessica Marz,jkmarz,Intel,#
+Arun Gupta,#,Intel,yes
 Sriram Ramkrishna,sramkrishna,ITRenew,#
 Eric Riedel,er1p,ITRenew,yes
 Jinghe Ma,majinghe,JiHu(GitLab),yes
