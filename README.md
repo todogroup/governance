@@ -1,12 +1,13 @@
 # 🏛 TODO Group governance
 
-* About TODO charter
-* About TODO Steering Committee (TSC)
-* About TODO structure
-* File new proposals by the community
-* Manage General Member teams and individuals
-   * Onboard
-   * Offboard
+- About TODO charter
+- About TODO Steering Committee (TSC)
+- About TODO structure
+- File new proposals by the community
+- Manage General Member teams and individuals
+   - Onboard
+   - Offboard
+- Shutting Down Inactive Channels or Working Groups
 
 
 ## 📝 About TODO charter
@@ -58,5 +59,18 @@ To offboard team members from an organization that is a TODO General Member, ple
 
 1) Notify TODO PM via email or slack DM
 2) Remove contact info from MEMBERS.csv by submitting a PR
+
+## 🤝 Process for Shutting Down Inactive Channels or Working Groups
+
+This section outlines the procedure for managing and eventually shutting down inactive Slack channels, mailing lists, or working groups within 
+the TODO and OSPOlogy groups. The goal is to ensure active engagement and efficient resource use across the community.
+
+- Phase 1: No activity for 3 months in any Slack channel, mailing list, or working group.
+    - Responsible: Project Manager (PM) monitors and identifies inactivity.
+    - Action: PM sends a warning to inactive groups, asking for volunteers to re-engage, and notifies the Steering Committee for awareness.
+    - Deadline: 2 weeks for volunteers to come forward.
+- Phase 2: If no one volunteers within 2 weeks, PM sends a closure notification.
+    - Action: PM archives all related materials and officially closes the group and notifies the Steering Committee for awareness.
+    - Documentation: Record the process via the GH discussions for transparency.
 
 
