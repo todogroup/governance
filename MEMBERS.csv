@@ -115,8 +115,8 @@ Ben Hutton,relequestual,Postman,#
 Michael Jancar,#,Progressive Insurance,yes
 Craig Northway,craigez,Qualcomm Technologies Inc,yes
 Mark Matyas,mynameistechno,Qualcomm Technologies Inc,#
-Kimberly Craven,kimberlycraven,Red Hat,yes
-Leslie Hawthorn,lhawthorn,Red Hat,#
+Kimberly Craven,kimberlycraven,Red Hat,#
+Leslie Hawthorn,lhawthorn,Red Hat,yes
 Boris Dolley,,RTE France,yes
 Ruth Suehle,suehle,SAS,yes
 Jim Jagielski,jimjag,Salesforce,yes
@@ -132,7 +132,7 @@ Miley Fu,mileyfu,Second State,yes
 Masayuki Kuwata,#,Sony,yes
 Alin Jerpelea,#,Sony,#
 Hiroyuki Fukuchi,#,Sony,#
-Per Ploug,pploug,Spotify,yes
+#,#,Spotify,yes
 Mike Fix,#,Stripe,yes
 James Christopherson,digitaljames,Target,#
 Joel Crabb,joel-target,Target,#
