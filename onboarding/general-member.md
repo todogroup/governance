@@ -1,6 +1,4 @@
-# General Member onboarding
-
-Welcome to the TODO Group!
+# General Member Onboarding
 
 This guide should provide your company representatives helpful onboarding
 resources once your [TODO General Membership Application](https://todogroup.org/join/)
@@ -11,41 +9,16 @@ An issue should have been created to process your company's membership (via this
 If you run into any issues during the onboarding process, please reach out to the TODO Group Program Manager ([@anajsana][todo-pm]).
 
 - [Getting started](#getting-started)
-  - [Contribution guides](#contribution-guides)
 - [Communication channels](#communication-channels)
-  - [Discussions](#discussions)
-  - [Newsletter](#newsletter)
-  - [Registration required](#registration-required)
-  - [Social media](#social-media)
-  - [GitHub](#github)
-  - [General Member channels](#general-member-channels)
-- [Meetings and Calls](#meetings-and-calls)
-  - [Public calls](#public-calls)
-  - [General Member calls](#general-member-calls)
-
-<!--
-TODO: Publish this info on the website to de-duplicate content
--->
+- [Virtual Meetings and Calls](#meetings-and-calls)
 
 ## Getting started
 
-- Review TODO Group [Structure](https://github.com/todogroup/governance/blob/main/TODO%20Structure/structure-mindmap.md#todo-groups-structure)
-- Read [TODO Strategic Goals](https://github.com/todogroup/governance/blob/main/goals.md)
-- Read the [TODO Charter](https://github.com/todogroup/governance/blob/main/GM-SC-CHARTER.adoc)
-- Review the existing GitHub repos in the TODO Group org's [`README.md`](https://github.com/todogroup)
+- Read our [get started](https://todogroup.org/community/get-started/) page to get involved in the community
+- Meet the [Steering Committee](https://todogroup.org/about/steering-committee/) members
+- Explore [TODO Strategic Goals](https://github.com/todogroup/governance/blob/main/goals.md)
+- Review the [TODO General Member Charter](https://todogroup.org/about/charter/)
 
-### Contribution guides
-
-Are you a first-time contributor to TODO Group?
-Here are some helpful guides to get you started:
-
-- [OSPO Case Study](https://todogroup.org/guides/casestudies/todo-contribution-guidelines/)
-- [TODO Guides](https://todogroup.org/guides/todo-guides-contribution-guidelines/)
-- [Whitepapers](https://todogroup.org/guides/whitepaper-guidelines/)
-- [OSPOlogy Webinars](https://github.com/todogroup/ospology/tree/main/meetings#what-are-ospology-monthly-meetings)
-- [OSPO Survey](https://github.com/todogroup/osposurvey/tree/master/2022#how-to-contribute)
-
-> TODO has specific [working hours](https://github.com/todogroup/working-hours) to work on general OSPO content (e.g OSPO newsletter, OSPO mind map, etc), as well as specific working groups (e.g OSPO Career Path, Employee Engagement Guide, CHAOSS OSPO Metrics, etc). [TODO Community Calendar](https://todogroup.org/community/) shows when each of these calls happens during the month.
 
 ## Communication channels
 
@@ -55,20 +28,22 @@ Here are some helpful guides to get you started:
 
 ### Newsletter
 
-Issues of the [OSPO Newsletter](https://ospo-news.ghost.io/) are
+Issues of the [OSPO Newsletter](https://todogroup.org/community/osponews/) are
 publicly available, but you can also subscribe to receive it via email!
 
-### Registration required
+### IRC and Mailing Lists
 
-Public communication channels that need registration via third-party platforms
-to either see or interact with content e.g., Slack, LF Community Platform, GitHub
+The following public communication channels need registration via third-party platforms
+to either see or interact with content.
 
-- [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew)
-- [Community Mailing List](https://docs.google.com/forms/d/e/1FAIpQLSeU0YGM_IJ6gY8E5IIiwXKD_FZi3kAVc4E9_-3dtTDyKMSjdA/viewform)
+- [TODO Group IRC](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew)
+- [Community Mailing List](https://lists.todogroup.org/g/community)
+- [LF Virtual Community Platform| OSPOlogy](https://community.linuxfoundation.org/todo-group-ospology/)
+
 
 ### Social media
 
-- [Twitter](https://twitter.com/todogroup)
+- [X - former Twitter](https://twitter.com/todogroup)
 - Mastodon
 - [LinkedIn](https://www.linkedin.com/company/todo-group/)
 - [Youtube](https://www.youtube.com/@ospology)
@@ -82,22 +57,18 @@ to either see or interact with content e.g., Slack, LF Community Platform, GitHu
 - [General Member mailing list](https://groups.google.com/g/private-todogroup)
 - General Member Slack channel: [#private](https://thetodogroup.slack.com/archives/G5TBGTX29)
 
-## Meetings and Calls
+## Virtual Meetings and Calls
 
-### Public calls
+Explore our monthly meetings available on the [TODO website](https://todogroup.org/community/meetings/).
 
-All public calls are in the TODO Community Calendar (Public): https://todogroup.org/community/
+- Please check your mailbox to accept the regular Touchpoint meeting series. If you are on Slack, our OSPOchi Bot reminds you when an upcoming meeting is near via private-generalmembers channel.
+- If you are looking for more hands-on work, we encourage you to join the various community working group calls  - check the calendar here. explore the working groups here: https://todogroup.org/community/meetings/#calendar
+- For public office hours, we invite you to join the OSPOlogy & TODO Europe touchpoint meetings, where General members meet the wider TODO community (Ambassadors, associates, maintainers, etc)  - check the calendar here: https://todogroup.org/community/meetings/#calendar
 
-- [OSPOlogy Global Webinars](https://community.linuxfoundation.org/todo-group/) (Monthly on Wednesdays)
-- [OSPOlogy Europe Sync Meetings](https://community.linuxfoundation.org/todo-group-europe/) (Monthly on Thursdays)
-- OSPOlogy APAC Sync Meetings (Monthly on Mondays)
-- Working Groups
-- Work Day Calls
 
-### General Member calls
+### Touchpoint meeting series
 
-- General Members Touchpoint AMER (an invite is sent once you are added to the TODO private mailing list): Bi-weekly informal meetings on Fridays
-- General Members Touchpoint EMEA & APAC (an invite is sent once you are added to the TODO private mailing list): Bi-weekly informal meetings on Thursdays
-- General Members AMA session (an invite is sent once you are added to the TODO private mailing list): Quarterly on mondays
+- General Members Touchpoint AMER (an invite is sent once you are added to the TODO private mailing list): Every three weeks - informal meetings on Fridays
+
 
 [todo-pm]: https://github.com/anajsana
