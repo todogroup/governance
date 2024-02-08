@@ -68,7 +68,8 @@ Explore our monthly meetings available on the [TODO website](https://todogroup.o
 
 ### Touchpoint meeting series
 
-- General Members Touchpoint AMER (an invite is sent once you are added to the TODO private mailing list): Every three weeks - informal meetings on Fridays
+- AMER General Members Touchpoint (an invite is sent once you are added to the TODO general member mailing list): Every three weeks - informal calls on Fridays
+- Europe General Members & OSPOlogy Touchpoint (an invite is sent once you are added to the community mailing list): Monthly - project updates and public office hours on Thursdays
 
 
 [todo-pm]: https://github.com/anajsana
