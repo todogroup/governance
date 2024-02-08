@@ -1,6 +1,6 @@
 # General Member Onboarding
 
-This guide should provide your company representatives helpful onboarding
+This guide should provide your organizaiton's representatives helpful onboarding
 resources once your [TODO General Membership Application](https://todogroup.org/join/)
 has been validated and processed.
 
