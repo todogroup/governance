@@ -58,7 +58,7 @@ TODO Open Office Hours
 
 Who Are These Touchpoints For?
 
-These meetings are limited to General Members, but summary notes are open to the broader community, always following Chatham House Rules.
+These meetings are limited to General Members and presenters (guests), but summary notes are open to the broader community, always following Chatham House Rules.
 
 ### Pre-Meeting Information:
 
