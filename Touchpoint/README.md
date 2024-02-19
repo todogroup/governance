@@ -6,7 +6,7 @@
 for Open Source Program Offices (OSPOs). It follows Chatham House Rules for privacy and openness. The goal is to integrate OSPO operations into broader organizational strategies, enhancing their recognition and success.
 
 
-The TODO Group hosts two Touchpoints every month, with content being cross-shared between both sessions. Conversations are governed under Chatham House Rules:
+The TODO Group hosts two kinds of Touchpoints every month, happening on different days and at varying cadences and times, with content being cross-shared between both sessions. Conversations are governed under Chatham House Rules:
 
 * TODO General Member and OSPOlogy Touchpoints Europe (Thursdays)
 * TODO General Member Touchpoints (Fridays)
