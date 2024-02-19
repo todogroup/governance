@@ -30,7 +30,7 @@ TODO Group Steering Committee aims to find ways to integrate OSPO day-to-day ope
 
 ### Establish Office Hours dedicated to Strategic Value Initiative
 
-- Update the way Touchpoint calls operate. Work on an improved framework to make touchpoint calls to become a space where:
+Update the way Touchpoint calls operate. Work on an improved framework to make touchpoint calls to become a space where:
 - [Keep Doing] Share pain points and success stories from OSPO professionals
 - [New] Invite C-level executives and independent practitioners to discuss strategic alignment and pain points, enriching the conversation with diverse perspectives. Introduce an approach of preparing a brief 5-minute presentation in advance of discussions to provide a structured starting point for dialogue.
 - [New] Create more concrete outcomes, such as insights gathered to contribute to the OSPO Book, present findings at OSPOCons, and possibly develop a whitepaper, documenting best practices and tactics for OSPO integration into business strategies.
