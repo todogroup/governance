@@ -4,12 +4,12 @@ Bellow is a set of yearly goals to the TODO Group for review and sign-off by the
 
 # 📌 [Proposed] 2024
 
-Conversations within the TODO Community are increasingly centered around securing the supply chain, the adoption of new regulations, nurturing open source culture, and the integration of artificial intelligence software tools. These topics have emerged as key points in the operational and strategic decisions within organizations. The TODO Group Steering Committee aims for OSPOs to remain at the forefront of these conversations, advocating for and sharing best practices that put open source integration as a priority in the organization’s goals and IT strategy. 
+Conversations within the TODO Community are increasingly centered around securing the supply chain, the adoption of new regulations, nurturing open source culture, and the integration of artificial intelligence software tools. These topics have emerged as key points in the operational and strategic decisions within organizations. The TODO Group aims for OSPOs to remain at the forefront of these conversations, advocating for and sharing best practices that put open source integration as a priority in the organization’s goals and IT strategy. 
 
-Below is a set of strategic goals that the TODO steering committee has agreed to focus on during 2024. These goals are divided into three pillars: Cross-community collaboration; Adoption and sustainability and Community Engagement
+Below is a set of strategic goals that TODO Group and TODO Steering Committee members agreed to focus on during 2024. These goals are divided into three pillars: Cross-community Collaboration; Adoption and Sustainability; Community Engagement
 
 
-## ➡️ Cross-community collaboration
+## ➡️ Cross-community Collaboration
 
 While TODO Group is committed to collaborate closely with a variety of projects and foundations worldwide, this year we are placing a special emphasis on strengthening our collaboration with specific open source foundations and projects, 
 alongside a focused exploration of the AI topic by partnering with existing initiatives driving conversations important to the day-to-day operations of OSPOS and strategy:
@@ -24,7 +24,7 @@ alongside a focused exploration of the AI topic by partnering with existing init
 ### Focus Area in 2024
 Explore potential collaborations with existing AI SIG closer to OSPO core needs (e.g open chain AI Compliance SIG, Open Source Initiative AI definition WG, etc). Plan and host a webinar on AI compliance best practices, inviting speakers from related communities and allowing time for open discussions.
 
-## ➡️ Adoption and project sustainability
+## ➡️ Adoption and Project Sustainability
 
 TODO Group Steering Committee aims to find ways to integrate OSPO day-to-day operations into broader organizational strategies and execution plans, enhancing their recognition as a key component of business success. 
 
@@ -69,7 +69,6 @@ Encourage continued dialogue over multiple Touchpoint sessions
 - Foster both, global and local OSPO Initiatives
 - Cultivate relationships with other communities across regions and sectors
 
-
 ## ➡️ Create value for community participants and general members
 
 - Design survey questionnaire to gather feedback
@@ -78,9 +77,6 @@ Encourage continued dialogue over multiple Touchpoint sessions
 - Define processes to review working group effors and archive inactive initatives
 
 # 📌 2022
-
-2022 Strategic Goals have been divided between TODO Steering Committee and LF Staff goals. Please note that some of these goals may be the same for both. 
-
 
 ### ➡️ Cultivate growth and adoption of OSPOs
 
@@ -129,4 +125,3 @@ Encourage continued dialogue over multiple Touchpoint sessions
 
 * Organize OSPO conferences/meetings
 * Measure TODO resources impact
-
