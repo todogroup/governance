@@ -44,7 +44,7 @@ To become an Ambassador, an individual must review and meet the current requirem
 No, the TODO OSPO Ambassador is not a paid position. However, TOAs will receive rewards like limited edition swag and exclusive discounts to LF events for their service.
 
 ### How does changing organizations or ceasing activities within an organization affect Ambassador status?
-The Ambassador title is granted to an individual, regardless of their affiliation. Thus, moving to a different organization or ceasing activities in a given organization does not affect the Ambassador's title unless the individual determines that this shift will affect their responsibilities and believes they can no longer commit to their duties.
+The Ambassador title is granted to an individual, regardless of their affiliation. Thus, moving to a different organization or ceasing activities in a given organization does not affect the Ambassador's title unless the individual determines to no longer be able to commit to the duties of a TODO OSPO Ambassador.
 
 ### How long does my ambassadorship last?
 All ambassadorships will be a two-year commitment. For example, an Ambassador accepted in November 2023 will serve until November 2025. The Ambassador's 
