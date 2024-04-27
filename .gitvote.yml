@@ -5,7 +5,8 @@ profiles:
     duration: 4w
     pass_threshold: 67
     allowed_voters:
-      teams: gitvote-steering
+      teams:
+      - gitvote-steering
       exclude_team_maintainers: true
     periodic_status_check: 1 week
     close_on_passing: true
