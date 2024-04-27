@@ -7,7 +7,7 @@ profiles:
     allowed_voters:
       teams:
       - gitvote-steering
-      exclude_team_maintainers: true
+      exclude_team_maintainers: false
     periodic_status_check: 1 week
     close_on_passing: true
 
