@@ -6,7 +6,7 @@ profiles:
     pass_threshold: 51
     allowed_voters:
       teams:
-      - gitvote-steering
+        - gitvote-steering
       exclude_team_maintainers: false
     periodic_status_check: 1 week
     close_on_passing: true
@@ -22,16 +22,9 @@ profiles:
 # desired configuration based on the patterns matched. Rules are processed in
 # the order provided, and the first match wins.
 #
-# automation:
-#   enabled: true
-#   rules:
-#     - patterns:
-#         - "README.md"
-#         - "*.txt"
-#       profile: default
-#
 automation:
-  enabled: false
+  enabled: true
   rules:
-    - patterns: []
-      profile: profile1
+    - patterns:
+        - "/resolutions/proposed/*.md"
+      profile: default
