@@ -20,7 +20,7 @@ The purpose of having a charter for the TODO Group is to help people understand 
 
 <details>
   <summary>
-    <strong>🧭 About TODO Steering Committee (TSC)</strong>
+    <strong>🧭 TODO Steering Committee Member Responsibilities </strong>
   </summary><br />
 
 In TODO, it is the community that shapes the project initiatives. The Steering Committee exists to support the community by helping drive progress. They serve the community by ensuring that TODO’s strategic goals are aligned with our mission, that these goals are met,and that the voices of all participants are heard. SC members are responsible for:
@@ -32,6 +32,17 @@ In TODO, it is the community that shapes the project initiatives. The Steering C
 
 
 The Steering Committee shall be elected for their expertise and contribution to the advancement of open source program management.
+</details>
+
+<details>
+  <summary>
+    <strong>⏰ TODO Steering Committee Member Commitment Expectations </strong>
+  </summary><br />
+
+Steering Committee Members meet for a 1-hour Zoom call each month to review community proposals and address key discussion topics that require further attention. We ask that members attend at least three consecutive calls and actively contribute to the discussions.
+
+In addition to the monthly calls, most of the Steering Committee’s work is conducted asynchronously via slack Pull Request Reviews and mailing list discussions. Each member has the flexibility to determine how much time they can dedicate to supporting the community’s efforts.
+
 </details>
 
 <details>
