@@ -9,14 +9,14 @@ assignees: anajsana
 # TODO OSPO Ambassador Request
 
 This is an issue created to request to become an OSPO Ambassador. If you (as individual) are interested to apply, please make sure you have (1) read the [TODO OSPO Ambassador Program documentation](https://github.com/todogroup/governance/blob/main/TODO-OSPO-Ambassador-Program.md)
-and (2) fulfil the requirements from the Pre-submission checklist.
+and (2) fulfill the requirements from the pre-submission checklist.
 
 ## Pre-submission checklist:
 
 - [ ] I am 18 years of age or older
 - [ ] I abide the [TODO Code Of Conduct](https://todogroup.org/code-of-conduct/)
 - [ ] I abide the [LF antitrust policy](https://www.linuxfoundation.org/legal/antitrust-policy)
-- [ ] I Confirm I meet AT LEAST ONE of the criteria documented at [TODO OSPO Ambassador Program documentation](https://github.com/todogroup/governance/blob/main/TODO-OSPO-Ambassador-Program.md)
+- [ ] I confirm I meet AT LEAST ONE of the criteria documented at [TODO OSPO Ambassador Program documentation](https://github.com/todogroup/governance/blob/main/TODO-OSPO-Ambassador-Program.md)
 
 ## Contact Information
 
@@ -44,5 +44,4 @@ Who are you?
 ## REQUIRED: What do you expect from TODO Group as an TODO OSPO Ambassador? Whow would you help the community to thrive?
 
 This is a very important section to understand how you would like to help the OSPO Ecosystem and engage in the TODO community. 
-Here you can also provide links to resources (blogs on OSPOs, Community calls and/or OSPOlogy live micro-conferences where you participated, etc)
-
+Here you can also provide links to resources (blogs on OSPOs, Community calls and/or OSPOlogy live micro-conferences where you participated, etc.).
