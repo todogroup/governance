@@ -22,7 +22,7 @@ That the committee {approves/declines the proposed action}.
 - Ashley Wolf - {approve/decline/abstain/absent}
 - Brittany Istenes - {approve/decline/abstain/absent}
 - Georg Kunz - {approve/decline/abstain/absent}
-- Leslie Hawthorn - {approve/decline/abstain/absent}
+- Natali Vlatko - {approve/decline/abstain/absent}
 - Nik Peters - {approve/decline/abstain/absent}
 - Stephen Augustus - {approve/decline/abstain/absent}
 
