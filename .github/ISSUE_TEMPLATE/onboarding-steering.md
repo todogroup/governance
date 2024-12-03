@@ -29,7 +29,6 @@ labels: sc-change
   - [ ] Ensure contact info and affiliation is up-to-date in [`MEMBERS.csv`](https://github.com/todogroup/governance/blob/main/MEMBERS.csv)
   - [ ] [`README.md`](https://github.com/todogroup/governance/blob/main/README.md) on the governance repo
   - [ ] The SC member list on the [resolution template](https://github.com/todogroup/governance/blob/main/resolutions/template/standard.md)
-  - [ ] Remove any previous SC members from the `collaborators` array in [settings.yml](https://github.com/todogroup/governance/blob/main/.github/settings.yml)
   - [ ] Update [`EMERITUS.md`](https://github.com/todogroup/governance/blob/main/EMERITUS.md)
 - [ ] `todogroup/administration`:
   - [ ] Ensure contact info and affiliation is up-to-date in [`MEMBERS.csv`](https://github.com/todogroup/administration/blob/main/MEMBERS.csv)

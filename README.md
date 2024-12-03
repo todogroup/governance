@@ -52,13 +52,13 @@ In addition to the monthly calls, most of the Steering Committee’s work is con
    
 | Name | Company | Elected/Appointed | Term |
 | --- | --- | --- | --- |
-| [Leslie Hawthorn](https://github.com/lhawthorn) | Red Hat | Elected | 2023-01-01 to 2024-12-31 |
-| [Georg Kunz](https://github.com/gkunz) | Ericsson | Appointed | 2023-01-01 to 2024-12-31 |
-| [Annania Melaku](https://github.com/annania) | F5 — NGINX | Appointed | 2023-01-01 to 2024-12-31 |
+| [Georg Kunz](https://github.com/gkunz) | Ericsson | Elected | 2023-01-01 to 2026-12-31 |
+| [Annania Melaku](https://github.com/annania) | F5 — NGINX | Appointed | 2023-01-01 to 2026-12-31 |
 | [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2024-01-01 to 2025-12-31 |
 | [Brittany Istenes](https://github.com/BrittanyIstenes) | Fannie Mae | Appointed | 2024-01-01 to 2025-12-31 |
 | [Nik Peters](https://github.com/nikpete) | Porsche | Elected | 2024-01-01 to 2025-12-31 |
 | [Stephen Augustus](https://github.com/justaugustus) | Independent | Elected | 2024-01-01 to 2025-12-31 |
+| [Natali Vlatko](https://github.com/natalisucks) | Cisco | Appointed | 2025-01-01 to 2026-12-31 |
 
 </details>
 
