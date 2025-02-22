@@ -57,7 +57,7 @@ In addition to the monthly calls, most of the Steering Committee’s work is con
 | [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2024-01-01 to 2025-12-31 |
 | [Brittany Istenes](https://github.com/BrittanyIstenes) | Fannie Mae | Appointed | 2024-01-01 to 2025-12-31 |
 | [Nik Peters](https://github.com/nikpete) | Porsche | Elected | 2024-01-01 to 2025-12-31 |
-| [Stephen Augustus](https://github.com/justaugustus) | Bloomberg L.P. | Elected | 2024-01-01 to 2025-12-31 |
+| [Stephen Augustus](https://github.com/justaugustus) | Bloomberg | Elected | 2024-01-01 to 2025-12-31 |
 | [Natali Vlatko](https://github.com/natalisucks) | Cisco | Appointed | 2025-01-01 to 2026-12-31 |
 
 </details>
