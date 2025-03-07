@@ -2,7 +2,23 @@
 
 Bellow is a set of yearly goals to the TODO Group for review and sign-off by the Steering Committee in order to let the TODO Group shape the program and execute. The goals will be revisited and updated yearly.
 
-# 📌 [Proposed] 2024
+# 📌 2025
+
+## ➡️ Develop Shared Goals with Partner Communities
+Related issues https://github.com/todogroup/governance/milestone/16
+
+
+## ➡️ Establish Touchpoint Committee & Plan in Advance Sessions with Speakers
+Related issues https://github.com/todogroup/governance/milestone/17
+
+## ➡️ Recognize TODO Contributors and Build Processes
+Related issues https://github.com/todogroup/governance/milestone/18
+
+## ➡️ TODO Repo Maintenance and Clean Up
+Related issues https://github.com/todogroup/governance/milestone/19
+
+
+# 📌 2024
 
 Conversations within the TODO Community are increasingly centered around securing the supply chain, the adoption of new regulations, nurturing open source culture, and the integration of artificial intelligence software tools. These topics have emerged as key points in the operational and strategic decisions within organizations. The TODO Group aims for OSPOs to remain at the forefront of these conversations, advocating for and sharing best practices that put open source integration as a priority in the organization’s goals and IT strategy. 
 
