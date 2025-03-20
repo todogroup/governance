@@ -1,4 +1,4 @@
-# Emeritus Steering Committee members
+# Active TODO Amasadors
 
 | Name | Organization | Location | Local Efforts | Term |
 | --- | --- | --- | --- | --- |
@@ -10,3 +10,5 @@
 | [Masayuki Kuwata](https://github.com/kuwatm) | Sony | Japan 🇯🇵 | [OSPO Local Meetup Japan](https://community.linuxfoundation.org/ospo-local-meetup-japan-japanese-speaking/) | January 2025 - 2027 |
 | [Thomas Steenbergen](https://github.com/tsteenbe) |  | Europe (Netherlands 🇳🇱, Belgium 🇧🇪, Germany 🇩🇪) | OSPOlogy.live organizer | October 2024 - 2026 |
 | [Zhiqiang Yu](https://github.com/zhiqiang-yu) | China Mobile, LF APAC | China 🇨🇳 | OSPO Local Meetup China | March 2024 - 2026 |
+
+# Emeritus TODO Ambassadors
