@@ -19,7 +19,6 @@ The program requirements for becoming an official TODO OSPO Ambassador are:
 * Must be 18 years of age or older
 * Must follow the [TODO Code Of Conduct](https://todogroup.org/code-of-conduct/)
 * Must comply with [LF antitrust policy](https://www.linuxfoundation.org/legal/antitrust-policy)
-* Must be a representative from a TODO General Member or OSPO Associate organization
 
 ## 🔍 Evaluation Criteria
 
@@ -64,7 +63,7 @@ The Ambassador title is granted to an individual, regardless of their affiliatio
 
 ### How long does my ambassadorship last?
 
-All ambassadorships will be a two-year commitment. For example, an Ambassador accepted in November 2023 will serve until November 2025. The Ambassador's title will automatically renew every two years unless the individual requests in writing via email not to continue with their title, or if no activity has been recorded during the two-year period.
+All ambassadorships will be a two-year commitment. For example, an Ambassador accepted in November 2023 will serve until November 2025. After the term ends, the individual can immediately request renewal of the ambassador status by (re-)submitting an application via the [submission form](https://github.com/todogroup/governance/issues/new/choose).
 
 ### Who do I contact with questions?
 
