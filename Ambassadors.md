@@ -2,7 +2,7 @@
 
 | Name | Organization | Location | Local Efforts | Term |
 | --- | --- | --- | --- | --- |
-| [Alin Jerpelea](https://github.com/jerpelea) | Sony | Sweden 🇸🇪 | OSPO Local Meetup Sweden | June 2025 - 2027 |
+| [Alin Jerpelea](https://github.com/jerpelea) | Sony | Sweden 🇸🇪 | OSPOlogy Sweden Chapter | June 2025 - 2027 |
 | [Angel Ramirez](https://github.com/ar4mirez) | Cuemby | LATAM (Mexico 🇲🇽, Colombia 🇨🇴) | [OSPOlogy LATAM Chapter](https://community.linuxfoundation.org/ospo-local-meetup-latam-spanish-speaking/) | May 2024 - 2026 |
 | [Gergely Csatári](https://github.com/CsatariGergely) | Nokia | Finland 🇫🇮 | [OSPOlogy Helsinki Chapter](https://community.linuxfoundation.org/ospo-local-meetup-helsinki/) | Nov 2024 - 2026 |
 | [Hitomi Mizugaki](https://github.com/hit0mim)| Cuemby | United States (Florida 🇺🇸) | OSPOlogy Florida Chapter | May 2024 - 2026 |
