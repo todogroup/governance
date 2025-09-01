@@ -43,8 +43,6 @@ to either see or interact with content.
 
 ### Social media
 
-- [X - former Twitter](https://twitter.com/todogroup)
-- Mastodon
 - [LinkedIn](https://www.linkedin.com/company/todo-group/)
 - [Youtube](https://www.youtube.com/@ospology)
 
@@ -61,15 +59,8 @@ to either see or interact with content.
 
 Explore our monthly meetings available on the [TODO website](https://todogroup.org/community/meetings/).
 
-- Please check your mailbox to accept the regular Touchpoint meeting series. If you are on Slack, our OSPOchi Bot reminds you when an upcoming meeting is near via private-generalmembers channel.
+- Please check our regular Touchpoint meeting series. If you are on Slack, our OSPOchi Bot reminds you when an upcoming meeting is.
 - If you are looking for more hands-on work, we encourage you to join the various community working group calls  - check the calendar here. explore the working groups here: https://todogroup.org/community/meetings/#calendar
-- For public office hours, we invite you to join the OSPOlogy & TODO Europe touchpoint meetings, where General members meet the wider TODO community (Ambassadors, associates, maintainers, etc)  - check the calendar here: https://todogroup.org/community/meetings/#calendar
-
-
-### Touchpoint meeting series
-
-- AMER General Members Touchpoint (an invite is sent once you are added to the TODO general member mailing list): Every three weeks - informal calls on Fridays
-- Europe General Members & OSPOlogy Touchpoint (an invite is sent once you are added to the community mailing list): Monthly - project updates and public office hours on Thursdays
 
 
 [todo-pm]: https://github.com/anajsana
