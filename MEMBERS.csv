@@ -1,7 +1,3 @@
-# This file lists TODO member organizations and their OSPO/OSS manager representatives
-# Blank entries may be due to organizational changes (e.g., OSPO leaders moving roles or companies) 
-# If you are part of a TODO member organization and don’t see your name here, please submit a PR to add yourself in alphabetical order by organization.
-
 Name,GitHub,Company,Primary Contact
 Simon MacDonald,macdonst,Adobe,
 Brian Scott,bscott,Adobe,Yes
