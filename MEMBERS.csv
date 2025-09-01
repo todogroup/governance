@@ -1,159 +1,163 @@
+# This file lists TODO member organizations and their OSPO/OSS manager representatives
+# Blank entries may be due to organizational changes (e.g., OSPO leaders moving roles or companies) 
+# If you are part of a TODO member organization and don’t see your name here, please submit a PR to add yourself in alphabetical order by organization.
+
 Name,GitHub,Company,Primary Contact
-Simon MacDonald,macdonst,Adobe,#
-Brian Scott,bscott,Adobe,yes
-Baubak Gandomi,baubakg,Adobe,#
-Kevin Chen,kevincatwork,Adobe,#
-Greg Haynes,#,Autodesk,yes
-Angie Byron,webchick,Aiven,#
-Josep Prat,jlprat,Aiven,yes
-Floor Drees,FloorD,Aiven,#
-Ahmed Sobeh,ahmedsobeh,Aiven,#
-Kevin Webber,rocketpages,Aiven,#
-Jonas van den Bogaard,Jonasvdbo,Alliander,yes
-Nico Rikken,nicorikken,Alliander,#
-Nithya Ruff,nruff,Amazon,yes
-Mark Atwood,MarkAtwood,Amazon,#
-Neil Zhao,zhaoyuheng200,Amazon,#
-Nathalie C. Chan King Choy,nathalie-ckc,AMD,yes
-Tomas Evensen,tomasevensen,AMD,#
-Jenny Thayer,jrburcio,Apple,#
-Tim Kolecke,kolecke,Apple,yes
-Federico Bucci,federicobucchi,Apple,#
-Philippe Robin,,ARM,#
-Chris Lloyd-Jones,Sealjay,Avanade,yes
-Zhongyi Tan,#,Baidu,yes
-Sounil Yu,,Bank of America,#
-Alyssa Wright,awright,Bloomberg,yes
-Michael Moss,michaelmoss,Bloomberg,#
-Stephen Augustus,justaugustus,Bloomberg,#
-Chris Hoeppler,choeppler,Bosch,yes
-Hans Malte Kern,#,Bosch,#
-Marcel Kurzmann,mkurzman,Bosch,#
-Benjamin VanEvery,asheepapart,Box,#
-Jaxin Shan,jeffwan,ByteDance,#
-Le Ma,lema0601,ByteDance,yes
-Yuchen Jia,#,CAICT,yes
-Zhiqiang Yu,zhiqiang-yu,China Mobile,yes
-Natali Vlatko,natalisucks,Cisco,yes
-Charles Eckel,eckelcu,Cisco,#
-Severin Neumann,svrnm,Cisco,#
-Michael Riskin,riskin,Cisco,#
-Karolyn Maynard,KMay246,Comcast,yes
-Fei Wan,fwan2000,Comcast,#
-Bipul Kumar Kuri,bipulkkuri,Comcast,#
-Gale McCommons,galemccommons,Comcast,#
-Anusha Pavuluri,anu1025sha,Comcast,#
-Jeremy Garcia,jeremy-lq,Datadog,yes
-Justin Mclean,justinmclean,Datastrato,yes
-Cornelius Schumacher,cornelius,DB Systel,yes
-Yunbo Wang,,Didi,yes
-Luke Faraone,lfaraone,Dropbox,#
-David Hirsch,DavidPHirsch,Dynatrace,yes
-#,#,eBay,yes
-Chris Howard,cm-howard,EPAM Systems,yes
-Thomas Steenbergen,tsteenbe,EPAM Systems,#
-Greg Back,gtback,Elastic,yes
-William Chaparro,wchaparro,Elastic,#
-Rohan Kale,KaleRohan,Elastic,#
-Jamie Tanna,jamietanna,Elastic,#
-Bo Huang,bauxwulf,Elastic,#
-Edward Vielmetti,vielmetti,Equinix,#
-Georg Kunz,gkunz,Ericsson,yes
-Jimmy Ahlberg,Jimmy-ahlberg,Ericsson,#
-Trishan de Lanerolle,trishan,F5,yes
-Christopher Polanec,cpolanec,Fidelity Investments,yes
-Justin Rackliffe,byjrack,Fidelity Investments,#
-Chris Xie,chrisxie-fw,Futurewei,yes
-Ashley Wolf,ashleywolf,GitHub,yes
-Jamie Jones,jbjonesjr,GitHub,#
-Lynette Rayle,elrayle,GitHub,#
-Eric Sorenson,ahpook,GitHub,#
-Kevin Dangoor,dangoor,GitHub,#
-Andrew Henry,ajhenry,GitHub,#
-Derek Prior,derekprior,GitHub,#
-Zack Koppert,zkoppert,GitHub,#
-Jeff McAffer,jeffmcaffer,GitHub,#
-William Bartholomew,iamwillbar,GitHub,#
-#,#,GitLab,yes
-Andrew Aitken,#,Hedera,yes
-Sachin Bhakar,sachinbhakar,HERE Technologies,yes
-Paul Holland,peholland,Hewlett Packard Enterprise,yes
-Yuichi Nakamura,yuichi-nakamura,Hitachi,yes
-Nao Nishijima,naonishijima,Hitachi,#
-Ayumi Watanabe,AWatanabe418,Hitachi,#
-Jie Liu,-,Huawei,yes
-Jeffrey Jagoda,jagoda,IBM,#
-Duane O'Brien,DuaneOBrien,Indeed,#
-Rishi Pratap Singh,#,infosys,yes
-Jessica Marz,jkmarz,Intel,#
-Arun Gupta,#,Intel,yes
-Christian Taylor,thatguyllc,Intersect,yes
-Terence McCutcheon,ranchhand87,Intersect,#
-Sriram Ramkrishna,sramkrishna,ITRenew,#
-Eric Riedel,er1p,ITRenew,yes
-Jinghe Ma,majinghe,JiHu(GitLab),yes
-Kiran Kuchibhotla,,Kyndryl,yes
-Nithya Pathirapandian,,Kyndryl,#
-Arvind Shetty,,Kyndryl,#
-Max Körbächer,,Liquid Reply,yes
-David Viner,dviner,Meta,#
-Paul O'Shannessy,#,Meta,yes
-Emma Irwin,emmairwin,Microsoft,#
-Justin Gosses,justinGOSSES,Microsoft,#
-James Siri,jamessiri,Microsoft,#
-Brittany Drandolph,brittanydrandolph,Microsoft,#
-Jeff Wilcox,jeffwilcox,Microsoft,yes
-Gianugo Rabellino,gianugo,Microsoft,#
-Michael Phillips,benmont,National Instruments,#
-Andrew Spyker,aspyker,Netflix,#
-Annania Melaku,annania,NGINX,yes
-Dave McAllister,dwmcallister,NGINX,#
-Gergely Csatari,CsatariGergely,Nokia,#
-Matthew Taylor,rhyolight,Numenta,#
-Robert Crockett,#,Optum UnitedHealth Group,yes
-#,#,Pinterest,yes
-Nigel Simpson,#,Pint72,yes
-Nikita Peters,nikpete,Porsche,yes
-Eduard Itrich,itrich,Porsche,#
-Ben Hutton,relequestual,Postman,#
-Michael Jancar,#,Progressive Insurance,yes
-Craig Northway,craigez,Qualcomm Technologies Inc,yes
-Mark Matyas,mynameistechno,Qualcomm Technologies Inc,#
-Kimberly Craven,kimberlycraven,Red Hat,#
-Leslie Hawthorn,lhawthorn,Red Hat,yes
-Boris Dolley,,RTE France,yes
-Ruth Suehle,suehle,SAS,yes
-Jim Jagielski,jimjag,Salesforce,yes
-Yoonhwan Jung,#,Samsung,yes
-Daniel Park,,Samsung,#
-Jaehun Lee,-,Samsung,#
-Seo-Young Isabelle Hwang,Seo-Young,Samsung,#
-Peter Giese,peter-giese,SAP,yes
-Lesley Boveri,lesleyboveri,SAP,#
-Michael Picht,,SAP,#
-Jonathan Lipps,jlipps,Sauce Labs,#
-Miley Fu,mileyfu,Second State,yes
-Masayuki Kuwata,#,Sony,yes
-Alin Jerpelea,#,Sony,#
-Hiroyuki Fukuchi,#,Sony,#
-#,#,Spotify,yes
-Mike Fix,#,Stripe,yes
-James Christopherson,digitaljames,Target,#
-Joel Crabb,joel-target,Target,#
-Michael Whitsitt,michaelswhitsitt,Target,#
-Stephanie Lieggi,slieggi,UC Santa Cruz,yes
-Carlos Maltzahn,carlosmalt,UC Santa Cruz,#
-Gil Yehuda,gyehuda,US Bank,yes
-Chris Yang,node,Vivo Mobile,yes
-Radoslava Zheleva,rzheleva,VMware,yes
-Dirk Hohndel,dirkhh,VMware,#
-Tim Pepper,tpepper,VMware,#
-April BaSaing,abasaing,VMware,#
-Rhonda Edwards,rhondae,VMware,#
-Manfred Moser,mosabua,Walmart,#
-Sue Xia,sxia9,Walmart,yes
-Dan Rowe,draco2003,Wayfair,#
-Gilles Gravier,gravax,Wipro,#
-Maria Silverhardt,msdatadetective,Wipro,#
-Mekhla Mukherjee,mekhla18,Wipro,yes
-Liya Yuan,yuanliya,ZTE,yes
+Simon MacDonald,macdonst,Adobe,
+Brian Scott,bscott,Adobe,Yes
+Baubak Gandomi,baubakg,Adobe,
+Kevin Chen,kevincatwork,Adobe,
+Greg Haynes,,Autodesk,Yes
+Angie Byron,webchick,Aiven,
+Josep Prat,jlprat,Aiven,Yes
+Floor Drees,floord,Aiven,
+Ahmed Sobeh,ahmedsobeh,Aiven,
+Kevin Webber,rocketpages,Aiven,
+Jonas van den Bogaard,jonasvdbo,Alliander,Yes
+Nico Rikken,nicorikken,Alliander,
+Nithya Ruff,nruff,Amazon,Yes
+Mark Atwood,markatwood,Amazon,
+Neil Zhao,zhaoyuheng200,Amazon,
+Nathalie C. Chan King Choy,nathalie-ckc,AMD,Yes
+Tomas Evensen,tomasevensen,AMD,
+Jenny Thayer,jrburcio,Apple,
+Tim Kolecke,kolecke,Apple,Yes
+Federico Bucci,federicobucchi,Apple,
+Philippe Robin,,ARM,
+Chris Lloyd-Jones,sealjay,Avanade,Yes
+Zhongyi Tan,,Baidu,Yes
+Sounil Yu,,Bank of America,
+Alyssa Wright,awright,Bloomberg,Yes
+Michael Moss,michaelmoss,Bloomberg,
+Stephen Augustus,justaugustus,Bloomberg,
+Chris Hoeppler,choeppler,Bosch,Yes
+Hans Malte Kern,,Bosch,
+Marcel Kurzmann,mkurzman,Bosch,
+Benjamin VanEvery,asheepapart,Box,
+Jaxin Shan,jeffwan,ByteDance,
+Le Ma,lema0601,ByteDance,Yes
+Yuchen Jia,,CAICT,Yes
+Zhiqiang Yu,zhiqiang-yu,China Mobile,Yes
+Natali Vlatko,natalisucks,Cisco,Yes
+Charles Eckel,eckelcu,Cisco,
+Severin Neumann,svrnm,Cisco,
+Michael Riskin,riskin,Cisco,
+Karolyn Maynard,kmay246,Comcast,Yes
+Fei Wan,fwan2000,Comcast,
+Bipul Kumar Kuri,bipulkkuri,Comcast,
+Gale McCommons,galemccommons,Comcast,
+Anusha Pavuluri,anu1025sha,Comcast,
+Jeremy Garcia,jeremy-lq,Datadog,Yes
+Justin Mclean,justinmclean,Datastrato,Yes
+Cornelius Schumacher,cornelius,DB Systel,Yes
+Yunbo Wang,,Didi,Yes
+Luke Faraone,lfaraone,Dropbox,
+David Hirsch,davidphirsch,Dynatrace,Yes
+,,eBay,Yes
+Chris Howard,cm-howard,EPAM Systems,Yes
+Thomas Steenbergen,tsteenbe,EPAM Systems,
+Greg Back,gtback,Elastic,Yes
+William Chaparro,wchaparro,Elastic,
+Rohan Kale,kalerohan,Elastic,
+Jamie Tanna,jamietanna,Elastic,
+Bo Huang,bauxwulf,Elastic,
+Edward Vielmetti,vielmetti,Equinix,
+Georg Kunz,gkunz,Ericsson,Yes
+Jimmy Ahlberg,jimmy-ahlberg,Ericsson,
+Trishan de Lanerolle,trishan,F5,Yes
+Christopher Polanec,cpolanec,Fidelity Investments,Yes
+Justin Rackliffe,byjrack,Fidelity Investments,
+Chris Xie,chrisxie-fw,Futurewei,Yes
+Ashley Wolf,ashleywolf,GitHub,Yes
+Jamie Jones,jbjonesjr,GitHub,
+Lynette Rayle,elrayle,GitHub,
+Eric Sorenson,ahpook,GitHub,
+Kevin Dangoor,dangoor,GitHub,
+Andrew Henry,ajhenry,GitHub,
+Derek Prior,derekprior,GitHub,
+Zack Koppert,zkoppert,GitHub,
+Jeff McAffer,jeffmcaffer,GitHub,
+William Bartholomew,iamwillbar,GitHub,
+,,GitLab,Yes
+Andrew Aitken,,Hedera,Yes
+Sachin Bhakar,sachinbhakar,HERE Technologies,Yes
+Paul Holland,peholland,Hewlett Packard Enterprise,Yes
+Yuichi Nakamura,yuichi-nakamura,Hitachi,Yes
+Nao Nishijima,naonishijima,Hitachi,
+Ayumi Watanabe,awatanabe418,Hitachi,
+Jie Liu,,Huawei,Yes
+Jeffrey Jagoda,jagoda,IBM,
+Duane O'Brien,duaneobrien,Indeed,
+Rishi Pratap Singh,,Infosys,Yes
+Jessica Marz,jkmarz,Intel,
+Arun Gupta,,Intel,Yes
+Christian Taylor,thatguyllc,Intersect,Yes
+Terence McCutcheon,ranchhand87,Intersect,
+Sriram Ramkrishna,sramkrishna,ITRenew,
+Eric Riedel,er1p,ITRenew,Yes
+Jinghe Ma,majinghe,JiHu (GitLab),Yes
+Kiran Kuchibhotla,,Kyndryl,Yes
+Nithya Pathirapandian,,Kyndryl,
+Arvind Shetty,,Kyndryl,
+Max Körbächer,,Liquid Reply,Yes
+David Viner,dviner,Meta,
+Paul O'Shannessy,,Meta,Yes
+Emma Irwin,emmairwin,Microsoft,
+Justin Gosses,justingosSES,Microsoft,
+James Siri,jamessiri,Microsoft,
+Brittany Drandolph,brittanydrandolph,Microsoft,
+Jeff Wilcox,jeffwilcox,Microsoft,Yes
+Gianugo Rabellino,gianugo,Microsoft,
+Michael Phillips,benmont,National Instruments,
+Andrew Spyker,aspyker,Netflix,
+Annania Melaku,annania,NGINX,Yes
+Dave McAllister,dwmcallister,NGINX,
+Gergely Csatari,csatarigergely,Nokia,
+Matthew Taylor,rhyolight,Numenta,
+Robert Crockett,,Optum UnitedHealth Group,Yes
+,,Pinterest,Yes
+Nigel Simpson,,Pint72,Yes
+Nikita Peters,nikpete,Porsche,Yes
+Eduard Itrich,itrich,Porsche,
+Ben Hutton,relequestual,Postman,
+Michael Jancar,,Progressive Insurance,Yes
+Craig Northway,craigez,Qualcomm Technologies Inc,Yes
+Mark Matyas,mynameistechno,Qualcomm Technologies Inc,
+Kimberly Craven,kimberlycraven,Red Hat,
+Leslie Hawthorn,lhawthorn,Red Hat,Yes
+Boris Dolley,,RTE France,Yes
+Ruth Suehle,suehle,SAS,Yes
+Jim Jagielski,jimjag,Salesforce,Yes
+Yoonhwan Jung,,Samsung,Yes
+Daniel Park,,Samsung,
+Jaehun Lee,,Samsung,
+Seo-Young Isabelle Hwang,seo-young,Samsung,
+Peter Giese,peter-giese,SAP,Yes
+Lesley Boveri,lesleyboveri,SAP,
+Michael Picht,,SAP,
+Jonathan Lipps,jlipps,Sauce Labs,
+Miley Fu,mileyfu,Second State,Yes
+Masayuki Kuwata,,Sony,Yes
+Alin Jerpelea,,Sony,
+Hiroyuki Fukuchi,,Sony,
+,,Spotify,Yes
+Mike Fix,,Stripe,Yes
+James Christopherson,digitaljames,Target,
+Joel Crabb,joel-target,Target,
+Michael Whitsitt,michaelswhitsitt,Target,
+Stephanie Lieggi,slieggi,UC Santa Cruz,Yes
+Carlos Maltzahn,carlosmalt,UC Santa Cruz,
+Gil Yehuda,gyehuda,US Bank,Yes
+Chris Yang,node,Vivo Mobile,Yes
+Radoslava Zheleva,rzheleva,VMware,Yes
+Dirk Hohndel,dirkhh,VMware,
+Tim Pepper,tpepper,VMware,
+April BaSaing,abasaing,VMware,
+Rhonda Edwards,rhondae,VMware,
+Manfred Moser,mosabua,Walmart,
+Sue Xia,sxia9,Walmart,Yes
+Dan Rowe,draco2003,Wayfair,
+Gilles Gravier,gravax,Wipro,
+Maria Silverhardt,msdatadetective,Wipro,
+Mekhla Mukherjee,mekhla18,Wipro,Yes
+Liya Yuan,yuanliya,ZTE,Yes
