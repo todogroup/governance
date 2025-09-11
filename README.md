@@ -53,25 +53,9 @@ In addition to the monthly calls, most of the Steering Committee’s work is con
 | [Annania Melaku](https://github.com/annania) | F5 — NGINX | Appointed | 2023-01-01 to 2026-12-31 |
 | [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2024-01-01 to 2025-12-31 |
 | [Brittany Istenes](https://github.com/BrittanyIstenes) | Fannie Mae | Appointed | 2024-01-01 to 2025-12-31 |
-| [Nik Peters](https://github.com/nikpete) | Porsche | Elected | 2024-01-01 to 2025-12-31 |
+| [Alice Sowerby]() | Independent | Elected | 2024-01-01 to 2025-12-31 |
 | [Stephen Augustus](https://github.com/justaugustus) | Bloomberg | Elected | 2024-01-01 to 2025-12-31 |
 | [Natali Vlatko](https://github.com/natalisucks) | Cisco | Appointed | 2025-01-01 to 2026-12-31 |
-
-</details>
-
-<details>
-  <summary>
-    <strong>🗳 2025 Steering Committee Election Process </strong>
-  </summary><br />
-
-The Steering Committee Election happens every year during October and anyone can become a candidate by submitting the [application form](https://forms.gle/CXgUJhjuXYqsjsXr6) before October 10th, 2024.
-
-While participation is open to all, individuals who actively engage with the TODO community or projects are more likely to be elected. Active participation or contribution in TODO includes: (1) Supporting TODO as a General Member, OSPO associate representative, or TODO Ambassador OR (2) Acting as a Maintainer and/or contributing actively to any of the TODO GitHub repositories (such as OSPOlogy, RepoLinter, OSPO Book, OSPO Landscape, etc. OR (3) Hosting local events supported by TODO, like OSPO Local Meetups, or participating in the OSPOlogyLive series.
-
-There are two types of seats: Elected seats and Appointed seats. **Appointed seats exist as a mechanism to ensure diversity in terms of region, gender, and industry**.
-
-- Elected seats: Each TODO General Member's main contact reviews candidate applications and casts their votes during October. Elected Candidates will be notified in November, and the SC onboarding period will begin.
-- Appointed seats: Current Steering Committee members appoint a candidate from the 2025 list.
 
 </details>
 
