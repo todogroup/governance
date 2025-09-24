@@ -26,7 +26,7 @@ Elected leadership body responsible for guiding TODO’s overall strategy and go
 - Serve as Code of Conduct stewards 
 
 ## Ambassadors (Individuals)  
-Advocates on TODO’s values and mission globally and/or locally 
+Advocates for TODO’s values and mission globally and/or locally 
 
 - Organize and lead local chapters and meetups
 - Localize TODO initiatives (e.g., translations, adapting resources to regional contexts) and advocate in their region
