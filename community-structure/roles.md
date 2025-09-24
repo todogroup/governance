@@ -53,7 +53,7 @@ Community participants who stay connected with activities but with limited engag
 
 
 ## Members & Associates (Organizations)  
-Recognized organizations (companies, universities, governments and public administration, non-profits, etc) with established OSPOs (either physical or virtual) with an open source management strategy that formally support the TODO Group.
+Recognized organizations (companies, universities, governments and public administration, non-profits, etc) with established OSPOs (either physical or virtual) with an open source management strategy that formally support the TODO Group
 
 - Brings market visibility
 - Contributes organizational credibility and thought leadership
