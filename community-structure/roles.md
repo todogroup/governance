@@ -31,7 +31,7 @@ Advocates on TODO’s values and mission globally and/or locally
 - Organize and lead local chapters and meetups
 - Localize TODO initiatives (e.g., translations, adapting resources to regional contexts) and advocate in their region
 - Support overall community management
-- Advocate for TODO’s mission and projects across technology events and coferences thoruh presentations, peanles or other activities
+- Advocate for TODO’s mission and projects across technology events and conferences through presentations, panels or other activities
 - Represent TODO publicly
   
 ## Project Leads (Individuals)  
