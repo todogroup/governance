@@ -43,7 +43,7 @@ Working group chairs, co-creators, developers, localization partners, and/or con
 - Encourages participation and ensures outputs are completed 
 
 
-## Observers and Ocasional Contributors (Individuals)
+## Observers and Occasional Contributors (Individuals)
 
 Community participants who stay connected with activities but with limited engagement
 
