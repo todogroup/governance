@@ -35,7 +35,7 @@ Advocates on TODO’s values and mission globally and/or locally
 - Represent TODO publicly
   
 ## Project Leads (Individuals)  
-working group chairs, co-creators, developers, localization partners, and/or content reviewers of the TODO’s open collaborative projects hosted in the TODO GitHub organization
+Working group chairs, co-creators, developers, localization partners, and/or content reviewers of the TODO’s open collaborative projects hosted in the TODO GitHub organization
 
 - Maintain GitHub project(s)
 - Coordinates a specific WG’s activities and meetings
