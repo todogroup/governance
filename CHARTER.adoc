@@ -1,4 +1,4 @@
-= Charter of The TODO Group General Members (GM) and Steering Committee (SC)
+= Charter of General Members and Steering Committee
 *Disclaimer: Please note this charter covers the activities and responsibilities of general members and the steering committee. There are many other folks active in TODO Group, such as individuals employed by OSPO Associate Organizations and individuals who are OSPO practitioners and contributors to open source projects and communities. Individual persons are welcome and encouraged to join and participate in the TODO Group as long as they abide by our code of conduct. For information, please visit the [TODO Group community & network page](https://todogroup.org/community/)*
 :toc:
 
