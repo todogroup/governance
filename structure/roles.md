@@ -2,18 +2,7 @@
 
 This document describes the main roles within the TODO Group community and outlines the responsibilities expected for each
 
-```
-               Observer
-                   ↓
-          Ocasional Contributor
-                   ↓
-             Project Lead
-          ↙                  ↘
-    Ambassador              WG Chair
-   ↙           ↘         ↙           ↘
-WG Chair       SC    Ambassador       SC
-
-```
+<img width="2304" height="1728" alt="todo-structure" src="https://github.com/user-attachments/assets/c44898c4-361d-4a4a-a8f2-bf1f490b0f76" />
 
 
 ## Steering Committee (Individuals)  
@@ -71,3 +60,20 @@ Staff member from the Linux Foundation who provides operational, logistical, and
 - Assist the Steering Committee in executing strategic goals 
 - Facilitate engagements between Linux Foundation team (marketing, design, research LFX, events)
 - Ensure alignment with Linux Foundation policies and practices
+
+# Contributor Career Ladder
+
+The following diagram illustrates how individuals can progressively increase their involvement and responsibility within the community. People often start as **Observers**, gradually move into **Occasional Contributors**, and over time may take on more defined leadership roles such as **Project Lead**, **Ambassador**, **Working Group Chair**, or eventually **Steering Committee** member.
+
+```
+               Observer
+                   ↓
+          Ocasional Contributor
+                   ↓
+             Project Lead
+          ↙                  ↘
+    Ambassador              WG Chair
+   ↙           ↘         ↙           ↘
+WG Chair       SC    Ambassador       SC
+
+```
