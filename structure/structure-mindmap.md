@@ -34,6 +34,7 @@ A generated mind map screenshot has been added for better visualization of the d
         - OSPO Metrics (CHAOSS)
         - Employee Engagement Guide
         - Career Path (LF Training & Certification)
+        - OSPO for Agents
 - Steering Committee
   - Mailing List
     - Steering Committee
@@ -83,6 +84,7 @@ A generated mind map screenshot has been added for better visualization of the d
 - WG Career Path
 - WG OSPO Metrics (CHAOSS)
 - WG Employee OS Engagement
+- WG OSPO for Agents
 
 ## Resources
 
