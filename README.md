@@ -13,7 +13,7 @@ The Steering Committee (SC) holds a supporter role, providing scaffolding proces
     <strong> 📝 About TODO Charter</strong>
   </summary><br />
 
-The purpose of having a charter for the TODO Group is to help people understand its mission and scope. The TODO Group Charter is a living document, allowing the community to propose changes and updates as the project evolves. TODO mission is to elevate the professional practice of OSPOs by sharing best practices and other collaborative educational resources on open source management and strategy within organizations. You can learn more by reading TODO [charter](https://github.com/todogroup/governance/blob/main/CHARTER.adoc).
+The purpose of having a charter for the TODO Group is to help people understand its mission and scope. The TODO Group Charter is a living document, allowing the community to propose changes and updates as the project evolves. TODO mission is to elevate the professional practice of OSPOs by sharing best practices and other collaborative educational resources on open source management and strategy within organizations. You can learn more by reading TODO [charter](/CHARTER.adoc).
 </details>
 
 <details>
