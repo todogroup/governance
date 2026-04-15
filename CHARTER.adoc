@@ -70,7 +70,10 @@ The TODO Group Steering Committee may appoint one or more Working Group Liaison(
 
 Actions of the Steering Committee may be taken at in-person meetings, via conference call, or through electronic means, including email or real-time chat. In order for any action to be effective, it shall be approved by a simple majority of the Steering Committee members participating in person and/or by conference call, when a quorum is so present. Quorum shall be met when at least five (5) members of the Steering Committee are present. Any vote may be taken without a meeting electronically but shall require a majority of the entire Steering Committee to pass.
 
-. *Working Groups*
+. *Topic Discussion Groups (TDG)*
+A Topic Discussion Group is a community discussion space for exploring ideas, sharing perspectives, and developing topics at an early stage.
+. *Working Groups (WG)*
+A Working Group is a group of community participants responsible for developing and maintaining a specific artifact or output, such as documentation, frameworks, reference implementations, or other recurring deliverables.
 The TODO Group will host Working Groups for everyone, including its general members to contribute to that are intended to accelerate its mission. Initial Working Groups are expected to cover topics including, but not limited to:
  * Well documented software to facilitate the management of open source software engagement and operations by an organization
  * Blog and wiki articles providing recommendations on how to manage open source operations and implement open source usage and contributions best practices by an organization
