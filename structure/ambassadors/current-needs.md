@@ -2,7 +2,7 @@
 
 ## Where we need your help right now as an Ambassador
 
-These are the roles where TODO most needs Ambassador energy today. Pick the one that fits you (you don't have to do all of them). Each maps to the points model in the [TODO OSPO Ambassador Manual](./TODO-OSPO-Ambassador-manual.md).
+These are the roles where TODO most needs Ambassador energy today. Pick the one that fits you (you don't have to do all of them). Each maps to the points model in the [TODO OSPO Ambassador Manual](./Ambassador-manual.md).
 
 ### 1. Awesome OSPO Tooling: Maintainer & Technical Reviewer
 
