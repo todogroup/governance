@@ -12,7 +12,7 @@ Overall, we ask ambassadors to:
 - Support the TODO Group community
 
 
-> Where the [TODO Ambassadors page](https://todogroup.org/community/ambassadors/) page introduces the program, this manual explains how to participate
+> 💡 The [TODO Ambassadors page](https://todogroup.org/community/ambassadors/) page introduces the program. This manual explains how to participate
 
 
 ## About TODO
@@ -28,7 +28,7 @@ Ambassadors help more practitioners find, use, and contribute to that work
 The TODO Group OSPO Ambassador Program is a group of community leaders who advocate OSPO best practices and TODO initiatives globally, support and mentor newcomers, and help the TODO Group community grow.
 
 > 💡 The program historically centered on organizing local meetups and OSPOlogy chapters. That work still matters, but it is now one path among several. We are broadening the program so Ambassadors are encouraged and recognized for a wider contribution types to TODO Group initiatives: writing and
-speaking about our working groups and resources, contributing to our repos and deliverables, co-chairing working groups, and helping newcomers get started.
+speaking about our working groups and resources, contributing to our repos and deliverables, co-chairing working groups, and helping newcomers get started
 
 ## What Ambassadors Do
 
@@ -43,7 +43,7 @@ As a TODO OSPO Ambassador, you are expected to:
 - Bring community feedback back to TODO
 - Follow the [TODO Code of Conduct](https://todogroup.org/about/code-of-conduct/)
 
-> 💡 You are not expected to know everything. You are expected to be curious, honest, helpful, and grounded in what practitioners actually need.
+> 💡 You are not expected to know everything. You are expected to be curious, honest, helpful, and grounded in what practitioners actually need
 
 
 ## Ways to Contribute
@@ -67,7 +67,7 @@ Title examples:
 - Good: a talk introducing the OSS in Business working group's findings
 - Weak: a general open source talk that did not mention TODO Group efforts
   
-**Educational posts and threads** about OSPO and open source management that point directly to TODO resources (the Book, guides, glossary, MindMap,training, case studies)
+**Educational posts and threads** about OSPO and open source management that point directly to TODO resources (the Book, guides, glossary, MindMap, training, case studies)
 
 - Good: a thread walking through the OSPO MindMap with a link
 - Weak: OSPO comment with no reference to TODO's work
@@ -78,7 +78,7 @@ Title examples:
 
 ### Contribute
 
-Contributions that improve TODO's shared resources directly. TODO isn't a code-heavy project (our repos are docs, curated lists, and working-group resources) but several of them need real technical and open source management judgment to review what goes in.
+Contributions that improve TODO's shared resources directly. TODO isn't a code-heavy project (our repos are docs, curated lists, and working-group resources), but several of them need real technical and open source management judgment to review what goes in.
 
 - **Review and help maintain Awesome OSPO Tooling**
   ([`todogroup/awesome-ospo`](https://github.com/todogroup/awesome-ospo)).
@@ -159,7 +159,7 @@ You do not calculate your own points. You simply submit your work and we review 
 | Organizing or running an OSPOlogy chapter meetup | 40 |
 | PR, issue, deliverable contribution to a TODO repo or initiative | 5 - 50 |
 
-These are baselines. Final scoring may reflect quality, depth, relevance, and the evidence provided. Contributions may relate to more than one initiative; listing several helps our reporting but does not automatically increase points.
+These are baselines. Final scoring may reflect quality, depth, relevance, and the evidence provided. Contributions may relate to more than one initiative.
 
 ## How to Submit a Contribution
 
@@ -186,7 +186,7 @@ on. For community help, include enough detail to review without exposing private
 
 ## Recognition, Status, and Badges
 
-Approved contributions are recorded as scorecards. Scorecards generate the monthly reports, recognition roundups, and program analysis. You don't create scorecards yourself, the review process does.
+Approved contributions are recorded as scorecards. Scorecards generate the monthly reports, recognition roundups, and program analysis. You don't create scorecards yourself. The review process does.
 
 Active Ambassadors are recognized through:
 
@@ -195,8 +195,7 @@ Active Ambassadors are recognized through:
 - A **TODO OSPO Ambassadors Credly badge** issued by the Linux Foundation
 - Amplification through TODO/OSPONews and community channels
 
-Status is meant to make participation visible and motivating — not to turn
-community work into a grind.
+Status is meant to make participation visible and motivating, not to turn community work into a grind
 
 ## Requirements, Benefits, and Renewal
 
@@ -213,8 +212,7 @@ community work into a grind.
   chair/co-chair in a TODO working group with 1+ year of experience organizing
   events, speaking, mentoring, or creating content.
 
-Apply via the
-[TODO governance repo](https://github.com/todogroup/governance/issues/new/choose).
+Apply via the [TODO governance repo](https://github.com/todogroup/governance/issues/new/choose).
 
 ### Benefits
 
@@ -244,10 +242,10 @@ Ambassadors are visible members of the TODO community. Represent the program in 
 No. Submit the contribution; the review system will follow up and recommend a score.
 
 **Can I submit after the month ends?**
-Yes. Late submissions can count toward annual totals.
+Yes. Late submissions can count.
 
 **Does answering community questions count?**
-Yes, when it's tied to a TODO initiative and there's enough evidence to review. Remove private or sensitive details from any screenshots or summaries.
+Yes, when it's tied to a TODO initiative, and there's enough evidence to review. Remove private or sensitive details from any screenshots or summaries.
 
 **Do I have to organize a meetup?**
 No. Meetups are one path. Blogging, speaking, contributing to repos and deliverables, co-chairing a working group, and supporting the community all
