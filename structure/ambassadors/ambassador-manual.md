@@ -51,7 +51,7 @@ As a TODO OSPO Ambassador, you are expected to:
 Every contribution should connect to a real TODO initiative or resource and help someone understand, try, use, or contribute to it. Contributions fall into four buckets. Lead with whichever fits your strengths — you do not need to do all of
 them.
 
-> 💡 If you are sure where to start, see the **[TODO Ambassador Current Needs](./TODO-Ambassador-current-needs.md) sheet for where we need the most help right now
+> 💡 If you are sure where to start, see the [TODO Ambassador Current Needs](./current-needs.md) sheet for where we need the most help right now
 
 ### Advocate
 
