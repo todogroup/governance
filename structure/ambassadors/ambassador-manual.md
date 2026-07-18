@@ -1,8 +1,8 @@
-# DRAFT: TODO OSPO Ambassador Manual (2026 Edition)
+# DRAFT: TODO Group OSPO Ambassador Manual (2026 Edition)
 
 > Draft Version - July 5th, 2026
 
-TODO Group OSPO Ambassadors (TOAs) are experienced practitioners who help OSPO teams and open source managers and practitioners get started in this field, advance open source management and operations in their organizations **using TODO Group resources and best practices**. 
+TODO Group OSPO Ambassadors (shortened to *TODO Ambassadors*) are experienced practitioners who help OSPO teams and open source managers and practitioners get started in this field, advance open source management and operations in their organizations **using TODO Group resources and best practices**. 
 This document is the operating manual: what Ambassadors do, what counts as a contribution, how to submit it, and how contributions are tracked.
 
 Overall, we ask ambassadors to:
@@ -32,7 +32,7 @@ speaking about our working groups and resources, contributing to our repos and d
 
 ## What Ambassadors Do
 
-As a TODO OSPO Ambassador, you are expected to:
+As a TODO Ambassador, you are expected to:
 
 - Make at least one contribution per month
 
@@ -48,10 +48,8 @@ As a TODO OSPO Ambassador, you are expected to:
 
 ## Ways to Contribute
 
-Every contribution should connect to a real TODO initiative or resource and help someone understand, try, use, or contribute to it. Contributions fall into four buckets. Lead with whichever fits your strengths — you do not need to do all of
-them.
-
-> 💡 If you are sure where to start, see the [TODO Ambassador Current Needs](./current-needs.md) sheet for where we need the most help right now
+Every contribution should connect to a real TODO initiative or resource and help someone understand, try, use, or contribute to it. Contributions fall into four buckets. Lead with whichever fits your strengths, you do not need to do all of
+them!
 
 ### Advocate
 
@@ -121,7 +119,7 @@ A strong contribution does at least one of:
 
 - Explains a real problem practitioners have
 - Shows how a TODO resource helps; helps someone get started
-- teaches a concept clearly; shares lessons from real usage
+- Teaches a concept clearly; shares lessons from real usage
 - Makes it easier for someone else to contribute
 - Supports another community member
 - Improves a TODO initiative directly
@@ -138,36 +136,27 @@ Unless there's clear added value:
 - AI-generated content you haven't meaningfully reviewed, tested, or improved
 - Anything inaccurate, misleading, or harmful
 
-## TODO Group Points
+## Examples of contributions
 
-,
-You do not calculate your own points. You simply submit your work and we review the process, classify and score it.
-
-| Contribution | Points |
-| --- | --- |
-| Social thread / short educational post (references a TODO resource) | 5 |
-| Community question answered / support | 5 – 15 |
-| Onboarding or mentoring a newcomer | 10 |
-| Blog post (external blog or the TODO blog) | 20 |
-| Short Video | 20 |
-| Tutorial / Walkthrough | 25 |
-| Meetup talk | 25 |
-| Podcast guest | 25 |
-| Conference talk (that connects with a TODO working group or resource) | 30 |
-| Co-chairing or moderating a TODO working group call (per active month) | 30 |
-| Workshop | 35 |
-| Organizing or running an OSPOlogy chapter meetup | 40 |
-| PR, issue, deliverable contribution to a TODO repo or initiative | 5 - 50 |
-
-These are baselines. Final scoring may reflect quality, depth, relevance, and the evidence provided. Contributions may relate to more than one initiative.
+- Social thread / short educational post (references a TODO resource) 
+- Community question answered / support
+- Onboarding or mentoring a newcomer 
+- Blog post (external blog or the TODO blog)
+- Short Video
+- Tutorial / Walkthrough
+- Meetup talk 
+- Podcast guest
+- Conference talk (that connects with a TODO working group or resource) 
+- Co-chairing or moderating a TODO working group call (per active month) 
+- Workshop 
+- Organizing or running an OSPOlogy chapter meetup 
+- PR, issue, deliverable contribution to a TODO repo or initiative
 
 ## How to Submit a Contribution
 
-
 Ambassadors submit through the private TODO Ambassadors submissions repository (`todogroup/ambassadors`) using GitHub issues
 
-**Step 1: Open a submission issue.** Use the Ambassador Contribution Submission
-template
+**Step 1: Open a submission issue.** Use the Ambassador Contribution Submission template
 
 **Step 2: Fill in the few required fields:**
 
@@ -176,26 +165,20 @@ template
 - The related TODO initiative(s) or working group(s)
 
 
-**Step 3: Submit.** The system reviews the contribution, classifies it,
-checks relevance, recommends a score, and asks for anything missing. a 
-
+**Step 3: Submit.** The system reviews the contribution, classifies it, checks relevance and asks for anything missing.
 
 > Examples of good contribution URLs include: a blog post, GitHub PR or issue, YouTube video, a conference or meetup session page, slide deck, social thread, podcast episode, or a link to the working-group deliverable you worked
 on. For community help, include enough detail to review without exposing private information
 
+## Recognition and Contribution Opportunities
 
-## Recognition, Status, and Badges
+TODO Ambassadors may be recognized for their contributions and invited to participate in additional opportunities through:
 
-Approved contributions are recorded as scorecards. Scorecards generate the monthly reports, recognition roundups, and program analysis. You don't create scorecards yourself. The review process does.
-
-Active Ambassadors are recognized through:
-
-- The Ambassador leaderboard and monthly roundups
-- Recognition on the [TODO Ambassadors page](https://todogroup.org/community/ambassadors/)
-- A **TODO OSPO Ambassadors Credly badge** issued by the Linux Foundation
-- Amplification through TODO/OSPONews and community channels
-
-Status is meant to make participation visible and motivating, not to turn community work into a grind
+- Features in Ambassador monthly roundups shared with the community, Steering Committee, and TODO Group members
+- Amplification of their work through the TODO Group blog, OSPO Newsletter, and social channels
+- Invitations to selected Steering Committee meetings to share community perspectives
+- Opportunities to contribute reviews, quotes, or expertise to TODO-branded white papers and studies developed with the Linux Foundation
+- Consideration for event program committees and other relevant TODO Group initiatives
 
 ## Requirements, Benefits, and Renewal
 
@@ -216,21 +199,23 @@ Apply via the [TODO governance repo](https://github.com/todogroup/governance/iss
 
 ### Benefits
 
- Recognition across TODO Group and Linux Foundation social channels, and priority consideration for opportunities across the LF ecosystem.
+TODO OSPO Ambassadors receive:
 
-- Recognition for your expertise and contributions, including amplification across TODO Group and Linux Foundation social channels
-- Consideration for opportunities across the Linux Foundation ecosystem when they come up (forewords, report reviews, event program committees, and more)
-- A global network of fellow Ambassadors
-- TODO/LF platform support for events, speaking, content, and mentoring
-- Discount codes for LF-sponsored events
-- Exclusive swag and giveaways (when resources are available)
-- A TODO OSPO Ambassadors Credly badge from the Linux Foundation
+- An official profile on the TODO Ambassadors page
+- A TODO OSPO Ambassador Credly badge issued by the Linux Foundation
+- Access to a global network of fellow Ambassadors
+- TODO Group and Linux Foundation platform support for events and local meetups
+- Consideration for relevant opportunities across the Linux Foundation ecosystem
+- Discount codes for selected Linux Foundation events
+- Exclusive swag and giveaways, when available
 
-The TOA role is **NOT** a paid position
+This role is **NOT** a paid position
 
-### Commitment and renewal
+### Commitment and Renewal
 
 Ambassadorships run for two years. Ongoing participation is measured by your monthly contributions to our Steering Committe and reviewed mid-term, which may consider consistency, quality, project relevance, community impact, professionalism, responsiveness, and continued interest.
+
+Sustained inactivity or lack of response to program communications may result in an earlier review and, where appropriate, removal from the program.
 
 ## Code of Conduct
 
@@ -238,13 +223,7 @@ Ambassadors are visible members of the TODO community. Represent the program in 
 
 ## FAQ
 
-**Do I need to calculate my own points?**
-No. Submit the contribution; the review system will follow up and recommend a score.
-
-**Can I submit after the month ends?**
-Yes. Late submissions can count.
-
-**Does answering community questions count?**
+**Does answering community questions count as contributions?**
 Yes, when it's tied to a TODO initiative, and there's enough evidence to review. Remove private or sensitive details from any screenshots or summaries.
 
 **Do I have to organize a meetup?**
