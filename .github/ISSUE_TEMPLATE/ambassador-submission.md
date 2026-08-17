@@ -1,6 +1,10 @@
-name: "TODO OSPO Ambassador Contribution"
-description: "Submit a contribution to TODO Group resources and community"
-title: "[Ambassador Contribution]: "
+---
+name: TODO Ambassador Contribution
+about: Report a contribution to TODO Group resources, initiatives, and community
+title: "[AMBASSADOR CONTRIBUTION] - [CONTRIBUTION]"
+labels: ambassador contribution
+assignees: anajsana
+---
 
 body:
   - type: markdown
