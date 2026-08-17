@@ -154,16 +154,11 @@ Unless there's clear added value:
 
 ## How to Submit a Contribution
 
-Ambassadors submit through the private TODO Ambassadors submissions repository (`todogroup/ambassadors`) using GitHub issues
+Ambassadors submit through the TODO Governance repository (`todogroup/governance`) using the GitHub issues [ambassador submission template](https://github.com/todogroup/governance/issues)
 
 **Step 1: Open a submission issue.** Use the Ambassador Contribution Submission template
 
 **Step 2: Fill in the few required fields.**
-
-- Your GitHub handle
-- The contribution URL (see below)
-- The related TODO initiative(s) or working group(s)
-
 
 **Step 3: Submit.** 
 
