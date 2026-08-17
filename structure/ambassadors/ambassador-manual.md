@@ -1,6 +1,6 @@
-# DRAFT: TODO Group OSPO Ambassador Manual (2026 Edition)
+# TODO Group OSPO Ambassador Manual
 
-> Draft Version - July 5th, 2026
+> Last Version - July 25th, 2026
 
 TODO Group OSPO Ambassadors (shortened to *TODO Ambassadors*) are experienced practitioners who help OSPO teams and open source managers and practitioners get started in this field, advance open source management and operations in their organizations **using TODO Group resources and best practices**. 
 This document is the operating manual: what Ambassadors do, what counts as a contribution, how to submit it, and how contributions are tracked.
