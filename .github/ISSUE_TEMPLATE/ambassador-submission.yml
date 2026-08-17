@@ -1,0 +1,79 @@
+name: TODO OSPO Ambassador Contribution
+description: Report a contribution to TODO Group resources and community
+title: "[AMBASSADOR CONTRIBUTION] "
+labels:
+  - ambassador contribution
+assignees:
+  - anajsana
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## TODO Ambassador Contribution
+
+        Use this form to report contributions to TODO Group resources, initiatives, and community activities.
+        General OSPO activities that are not connected to TODO Group or its resources should not be submitted.
+
+  - type: input
+    id: github-handle
+    attributes:
+      label: GitHub handle
+      placeholder: "@username"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: todo-resource
+    attributes:
+      label: TODO resource or initiative
+      description: Which TODO resource or community initiative did you contribute to?
+      options:
+        - OSPO Book / TODO Guides
+        - TODO research studies / whitepapers
+        - TODO Blog / Newsletter
+        - OSPO Maturity Model / Mind Map / Glossary
+        - Awesome OSPO / OSS Management resources
+        - TODO Working Groups
+        - OSPOlogy / TODO meetups and events
+        - TODO website / repositories
+        - TODO community support
+        - Other TODO resource or initiative
+    validations:
+      required: true
+
+  - type: textarea
+    id: contribution
+    attributes:
+      label: What did you contribute?
+      description: Briefly describe your contribution and your role.
+      placeholder: "I contributed..."
+    validations:
+      required: true
+
+  - type: input
+    id: contribution-url
+    attributes:
+      label: Contribution link / evidence
+      description: Link to a PR, issue, TODO resource, event, meeting notes, publication, recording, or other evidence.
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn profile
+      description: Optional. Share your profile if you'd like TODO to consider promoting the contribution and tagging you.
+      placeholder: "https://www.linkedin.com/in/..."
+    validations:
+      required: false
+
+  - type: input
+    id: x-handle
+    attributes:
+      label: X handle
+      description: Optional. Share your handle if you'd like TODO to consider promoting the contribution and tagging you.
+      placeholder: "@handle"
+    validations:
+      required: false
