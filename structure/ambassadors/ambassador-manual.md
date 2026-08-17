@@ -158,14 +158,20 @@ Ambassadors submit through the private TODO Ambassadors submissions repository (
 
 **Step 1: Open a submission issue.** Use the Ambassador Contribution Submission template
 
-**Step 2: Fill in the few required fields:**
+**Step 2: Fill in the few required fields.**
 
 - Your GitHub handle
 - The contribution URL (see below)
 - The related TODO initiative(s) or working group(s)
 
 
-**Step 3: Submit.** The system reviews the contribution, classifies it, checks relevance and asks for anything missing.
+**Step 3: Submit.** 
+
+The system reviews the contribution, classifies it, checks relevance and asks for anything missing.
+
+**Step 4: Share.** 
+
+Once your PR is merged, share it in applicable TODO Slack channels and Social Media content
 
 > Examples of good contribution URLs include: a blog post, GitHub PR or issue, YouTube video, a conference or meetup session page, slide deck, social thread, podcast episode, or a link to the working-group deliverable you worked
 on. For community help, include enough detail to review without exposing private information
