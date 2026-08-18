@@ -49,8 +49,8 @@ In addition to the monthly calls, most of the Steering Committee’s work is con
 
 | Name | Company | Elected/Appointed | Term |
 | --- | --- | --- | --- |
-| [Georg Kunz](https://github.com/gkunz) | Ericsson | Elected | 2023-01-01 to 2026-12-31 |
-| [Annania Melaku](https://github.com/annania) | F5 — NGINX | Appointed | 2023-01-01 to 2026-12-31 |
+| [Georg Kunz](https://github.com/gkunz) | Ericsson | Elected | 2025-01-01 to 2026-12-31 |
+| [Annania Melaku](https://github.com/annania) | F5 — NGINX | Appointed | 2025-01-01 to 2026-12-31 |
 | [Ashley Wolf](https://github.com/ashleywolf) | GitHub | Elected | 2026-01-01 to 2027-12-31 |
 | [Brittany Istenes](https://github.com/BrittanyIstenes) | Independent | Elected | 2026-01-01 to 2027-12-31 |
 | [Fernando Correa](https://github.com/fer-correa) | Mercado Libre | Appointed| 2026-01-01 to 2027-12-31 |
