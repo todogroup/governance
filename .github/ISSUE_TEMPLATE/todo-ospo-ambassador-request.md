@@ -16,7 +16,7 @@ and (2) fulfill the requirements from the Pre-submission checklist.
 - [ ] I am 18 years of age or older
 - [ ] I abide by the [TODO Code Of Conduct](https://todogroup.org/code-of-conduct/)
 - [ ] I abide by the [LF antitrust policy](https://www.linuxfoundation.org/legal/antitrust-policy)
-- [ ] I confirm I meet AT LEAST ONE of the criteria documented at [TODO OSPO Ambassador Program documentation](https://github.com/todogroup/governance/blob/main/TODO-OSPO-Ambassador-Program.md)
+- [ ] I confirm I meet AT LEAST ONE of the criteria documented at [TODO OSPO Ambassador Program documentation](https://github.com/todogroup/governance/blob/main/structure/ambassadors/ambassador-program.md)
 
 ## Contact Information
 
