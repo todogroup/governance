@@ -8,7 +8,7 @@ assignees: anajsana
 
 # TODO OSPO Ambassador Request
 
-This is an issue to request becoming an OSPO Ambassador. If you (as individual) are interested to apply, please make sure you have (1) read the [TODO OSPO Ambassador Program documentation](https://github.com/todogroup/governance/blob/main/TODO-OSPO-Ambassador-Program.md)
+This is an issue to request becoming an OSPO Ambassador. If you (as individual) are interested to apply, please make sure you have (1) read the [TODO OSPO Ambassador Program documentation](https://github.com/todogroup/governance/blob/main/structure/ambassadors/ambassador-program.md)
 and (2) fulfill the requirements from the Pre-submission checklist.
 
 ## Pre-submission checklist
